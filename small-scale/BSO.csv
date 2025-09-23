@@ -1,0 +1,1265 @@
+DATE,FROM,TO,AIRCRAFT,FLIGHT TIME,STD,ATD,STA,STATUS,FLIGHT NUMBER,AIRLINE,# OF SEATS
+9/17/2025 0:00,Angeles City (CRK),Basco (BSO),DH8,,9:45:00,,11:15:00,Scheduled,PR2688,Philippine Airlines,68
+9/16/2025 0:00,Angeles City (CRK),Basco (BSO),DH8,,9:45:00,,11:15:00,Scheduled,PR2688,Philippine Airlines,68
+9/15/2025 0:00,Angeles City (CRK),Basco (BSO),DH8,,9:45:00,,11:15:00,Scheduled,PR2688,Philippine Airlines,68
+9/13/2025 0:00,Angeles City (CRK),Basco (BSO),DH8,,9:45:00,,11:15:00,Scheduled,PR2688,Philippine Airlines,68
+9/11/2025 0:00,Angeles City (CRK),Basco (BSO),DH8,,9:45:00,,11:15:00,Scheduled,PR2688,Philippine Airlines,68
+9/9/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),,9:45:00,9:49:00,11:15:00,Estimated 11:01 AM,PR2688,Philippine Airlines,68
+9/7/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),1:13:00,9:45:00,9:32:00,11:15:00,Landed 10:45 AM,PR2688,Philippine Airlines,68
+9/6/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5905),1:15:00,9:45:00,9:37:00,11:15:00,Landed 10:52 AM,PR2688,Philippine Airlines,68
+9/5/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5905),1:15:00,9:45:00,9:40:00,11:15:00,Landed 10:55 AM,PR2688,Philippine Airlines,68
+9/3/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5901),1:12:00,9:45:00,9:38:00,11:15:00,Landed 10:50 AM,PR2688,Philippine Airlines,68
+9/2/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5917),1:15:00,9:45:00,10:43:00,11:15:00,Landed 11:58 AM,PR2688,Philippine Airlines,68
+8/30/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5905),1:11:00,9:45:00,9:49:00,11:15:00,Landed 11:00 AM,PR2688,Philippine Airlines,68
+8/27/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5905),1:11:00,9:45:00,9:32:00,11:15:00,Landed 10:43 AM,PR2688,Philippine Airlines,68
+8/23/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5902),1:09:00,9:45:00,9:32:00,11:15:00,Landed 10:42 AM,PR2688,Philippine Airlines,68
+8/21/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5901),1:13:00,9:45:00,9:41:00,11:15:00,Landed 10:54 AM,PR2688,Philippine Airlines,68
+8/20/2025 0:00,Angeles City (CRK),Basco (BSO),DH8,,9:45:00,,11:15:00,Canceled,PR2688,Philippine Airlines,68
+8/19/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),1:07:00,9:45:00,9:06:00,11:15:00,Landed 10:14 AM,PR2688,Philippine Airlines,68
+8/18/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),1:14:00,9:45:00,9:23:00,11:15:00,Landed 10:37 AM,PR2688,Philippine Airlines,68
+8/16/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),1:11:00,9:45:00,9:34:00,11:15:00,Landed 10:45 AM,PR2688,Philippine Airlines,68
+8/13/2025 0:00,Angeles City (CRK),Basco (BSO),DH8,,9:45:00,,11:15:00,Canceled,PR2688,Philippine Airlines,68
+8/11/2025 0:00,Angeles City (CRK),Basco (BSO),DH8,,9:45:00,,11:15:00,Canceled,PR2688,Philippine Airlines,68
+8/10/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:10:00,9:45:00,9:36:00,11:15:00,Landed 10:46 AM,PR2688,Philippine Airlines,68
+8/9/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:13:00,9:45:00,9:26:00,11:15:00,Landed 10:39 AM,PR2688,Philippine Airlines,68
+8/7/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),1:11:00,9:45:00,9:34:00,11:15:00,Landed 10:45 AM,PR2688,Philippine Airlines,68
+8/5/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:16:00,9:45:00,9:47:00,11:15:00,Landed 11:04 AM,PR2688,Philippine Airlines,68
+8/4/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:13:00,9:45:00,9:35:00,11:15:00,Landed 10:48 AM,PR2688,Philippine Airlines,68
+7/22/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5901),1:10:00,9:45:00,9:23:00,11:15:00,Landed 10:33 AM,PR2688,Philippine Airlines,68
+7/21/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:09:00,9:45:00,10:09:00,11:15:00,Landed 11:18 AM,PR2688,Philippine Airlines,68
+7/20/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5901),1:13:00,9:45:00,9:38:00,11:15:00,Landed 10:51 AM,PR2688,Philippine Airlines,68
+7/17/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:13:00,9:45:00,9:47:00,11:15:00,Landed 11:00 AM,PR2688,Philippine Airlines,68
+7/16/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:13:00,9:45:00,9:32:00,11:15:00,Landed 10:45 AM,PR2688,Philippine Airlines,68
+7/15/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:21:00,9:45:00,10:01:00,11:15:00,Landed 11:23 AM,PR2688,Philippine Airlines,68
+7/14/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:09:00,9:45:00,9:35:00,11:15:00,Landed 10:45 AM,PR2688,Philippine Airlines,68
+7/13/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5901),1:08:00,9:45:00,9:04:00,11:15:00,Landed 10:13 AM,PR2688,Philippine Airlines,68
+7/12/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:09:00,9:45:00,9:41:00,11:15:00,Landed 10:50 AM,PR2688,Philippine Airlines,68
+7/11/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5901),1:08:00,9:45:00,9:29:00,11:15:00,Landed 10:37 AM,PR2688,Philippine Airlines,68
+7/8/2025 0:00,,Angeles City (CRK),DH8D (RP-C5917),,5:27:00,,13:27:00,Landed 1:27 PM,PR2688,Philippine Airlines,68
+7/8/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5917),,9:45:00,10:17:00,11:15:00,Diverted to CRK,PR2688,Philippine Airlines,68
+7/7/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5901),1:06:00,9:45:00,9:25:00,11:15:00,Landed 10:32 AM,PR2688,Philippine Airlines,68
+7/6/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:10:00,9:45:00,9:38:00,11:15:00,Landed 10:49 AM,PR2688,Philippine Airlines,68
+7/5/2025 0:00,,Angeles City (CRK),DH8D (RP-C5901),,4:36:00,,12:36:00,Landed 12:36 PM,PR2688,Philippine Airlines,68
+7/5/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5901),,9:45:00,9:47:00,11:15:00,Diverted to CRK,PR2688,Philippine Airlines,68
+7/4/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5901),1:10:00,9:45:00,9:46:00,11:15:00,Landed 10:56 AM,PR2688,Philippine Airlines,68
+7/2/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5901),1:16:00,9:45:00,9:28:00,11:15:00,Landed 10:45 AM,PR2688,Philippine Airlines,68
+7/1/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5901),1:10:00,9:45:00,9:44:00,11:15:00,Landed 10:54 AM,PR2688,Philippine Airlines,68
+6/30/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5901),1:00:00,9:45:00,9:29:00,11:15:00,Landed 10:29 AM,PR2688,Philippine Airlines,68
+6/29/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:15:00,9:45:00,9:53:00,11:15:00,Landed 11:08 AM,PR2688,Philippine Airlines,68
+6/28/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:10:00,9:45:00,9:21:00,11:15:00,Landed 10:31 AM,PR2688,Philippine Airlines,68
+6/27/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:10:00,9:45:00,9:50:00,11:15:00,Landed 11:01 AM,PR2688,Philippine Airlines,68
+6/25/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:15:00,9:45:00,9:35:00,11:15:00,Landed 10:50 AM,PR2688,Philippine Airlines,68
+6/24/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),1:11:00,9:45:00,9:40:00,11:15:00,Landed 10:51 AM,PR2688,Philippine Airlines,68
+6/23/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:12:00,9:45:00,9:35:00,11:15:00,Landed 10:47 AM,PR2688,Philippine Airlines,68
+6/22/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:11:00,9:45:00,9:45:00,11:15:00,Landed 10:57 AM,PR2688,Philippine Airlines,68
+6/21/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:10:00,9:45:00,9:39:00,11:15:00,Landed 10:49 AM,PR2688,Philippine Airlines,68
+6/20/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5911),1:14:00,9:45:00,9:42:00,11:15:00,Landed 10:57 AM,PR2688,Philippine Airlines,68
+6/19/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:09:00,9:45:00,9:46:00,11:15:00,Landed 10:56 AM,PR2688,Philippine Airlines,68
+6/18/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5911),1:15:00,9:45:00,9:53:00,11:15:00,Landed 11:08 AM,PR2688,Philippine Airlines,68
+6/17/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),1:16:00,9:45:00,9:49:00,11:15:00,Landed 11:06 AM,PR2688,Philippine Airlines,68
+6/15/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:18:00,9:45:00,9:37:00,11:15:00,Landed 10:56 AM,PR2688,Philippine Airlines,68
+6/14/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5905),1:18:00,9:45:00,9:43:00,11:15:00,Landed 11:01 AM,PR2688,Philippine Airlines,68
+6/13/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5905),1:11:00,9:45:00,9:41:00,11:15:00,Landed 10:52 AM,PR2688,Philippine Airlines,68
+6/11/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:13:00,9:45:00,9:44:00,11:15:00,Landed 10:57 AM,PR2688,Philippine Airlines,68
+6/10/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:12:00,9:45:00,9:56:00,11:15:00,Landed 11:08 AM,PR2688,Philippine Airlines,68
+6/9/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:19:00,9:45:00,9:52:00,11:15:00,Landed 11:11 AM,PR2688,Philippine Airlines,68
+6/8/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:19:00,9:45:00,9:44:00,11:15:00,Landed 11:04 AM,PR2688,Philippine Airlines,68
+6/7/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:08:00,9:45:00,9:25:00,11:15:00,Landed 10:34 AM,PR2688,Philippine Airlines,68
+6/6/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:13:00,9:45:00,9:38:00,11:15:00,Landed 10:51 AM,PR2688,Philippine Airlines,68
+6/5/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:15:00,9:45:00,9:19:00,11:15:00,Landed 10:34 AM,PR2688,Philippine Airlines,68
+6/4/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5902),1:12:00,9:45:00,9:32:00,11:15:00,Landed 10:45 AM,PR2688,Philippine Airlines,68
+6/3/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5911),1:14:00,9:45:00,9:59:00,11:15:00,Landed 11:13 AM,PR2688,Philippine Airlines,68
+6/2/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),1:19:00,9:45:00,10:30:00,11:15:00,Landed 11:49 AM,PR2688,Philippine Airlines,68
+6/1/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),1:16:00,9:45:00,9:40:00,11:15:00,Landed 10:57 AM,PR2688,Philippine Airlines,68
+5/31/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5911),1:17:00,9:45:00,9:45:00,11:15:00,Landed 11:03 AM,PR2688,Philippine Airlines,68
+5/30/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5911),1:11:00,9:45:00,9:29:00,11:15:00,Landed 10:40 AM,PR2688,Philippine Airlines,68
+5/29/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:10:00,9:45:00,9:36:00,11:15:00,Landed 10:46 AM,PR2688,Philippine Airlines,68
+5/28/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:12:00,9:45:00,9:39:00,11:15:00,Landed 10:52 AM,PR2688,Philippine Airlines,68
+5/27/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:24:00,9:45:00,9:52:00,11:15:00,Landed 11:16 AM,PR2688,Philippine Airlines,68
+5/26/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5917),1:13:00,9:45:00,9:41:00,11:15:00,Landed 10:55 AM,PR2688,Philippine Airlines,68
+5/25/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5910),1:19:00,9:45:00,9:42:00,11:15:00,Landed 11:01 AM,PR2688,Philippine Airlines,68
+5/24/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:11:00,9:45:00,9:38:00,11:15:00,Landed 10:50 AM,PR2688,Philippine Airlines,68
+5/23/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5907),1:14:00,9:45:00,9:29:00,11:15:00,Landed 10:44 AM,PR2688,Philippine Airlines,68
+5/21/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:11:00,9:45:00,9:36:00,11:15:00,Landed 10:47 AM,PR2688,Philippine Airlines,68
+5/20/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:11:00,9:45:00,9:34:00,11:15:00,Landed 10:45 AM,PR2688,Philippine Airlines,68
+5/19/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5917),1:10:00,9:45:00,9:25:00,11:15:00,Landed 10:36 AM,PR2688,Philippine Airlines,68
+5/18/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:14:00,9:45:00,9:35:00,11:15:00,Landed 10:49 AM,PR2688,Philippine Airlines,68
+5/17/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5902),1:10:00,9:45:00,9:31:00,11:15:00,Landed 10:41 AM,PR2688,Philippine Airlines,68
+5/16/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5917),1:13:00,9:45:00,9:44:00,11:15:00,Landed 10:58 AM,PR2688,Philippine Airlines,68
+5/15/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:13:00,9:45:00,9:37:00,11:15:00,Landed 10:50 AM,PR2688,Philippine Airlines,68
+5/14/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5902),1:13:00,9:45:00,9:40:00,11:15:00,Landed 10:53 AM,PR2688,Philippine Airlines,68
+5/13/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),1:14:00,9:45:00,9:29:00,11:15:00,Landed 10:43 AM,PR2688,Philippine Airlines,68
+5/12/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:14:00,9:45:00,9:22:00,11:15:00,Landed 10:36 AM,PR2688,Philippine Airlines,68
+5/11/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5910),1:07:00,9:45:00,9:32:00,11:15:00,Landed 10:40 AM,PR2688,Philippine Airlines,68
+5/10/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:10:00,9:45:00,9:33:00,11:15:00,Landed 10:44 AM,PR2688,Philippine Airlines,68
+5/9/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:10:00,9:45:00,9:32:00,11:15:00,Landed 10:43 AM,PR2688,Philippine Airlines,68
+5/8/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:14:00,9:45:00,9:45:00,11:15:00,Landed 10:59 AM,PR2688,Philippine Airlines,68
+5/7/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5905),1:16:00,9:45:00,9:40:00,11:15:00,Landed 10:56 AM,PR2688,Philippine Airlines,68
+5/5/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:16:00,9:45:00,9:35:00,11:15:00,Landed 10:52 AM,PR2688,Philippine Airlines,68
+5/4/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:14:00,9:45:00,9:35:00,11:15:00,Landed 10:50 AM,PR2688,Philippine Airlines,68
+5/3/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:23:00,9:45:00,9:45:00,11:15:00,Landed 11:08 AM,PR2688,Philippine Airlines,68
+5/2/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:14:00,9:45:00,9:50:00,11:15:00,Landed 11:04 AM,PR2688,Philippine Airlines,68
+5/1/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:18:00,9:45:00,9:40:00,11:15:00,Landed 10:58 AM,PR2688,Philippine Airlines,68
+4/30/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5917),1:11:00,10:35:00,11:33:00,12:05:00,Landed 12:45 PM,PR2688,Philippine Airlines,68
+4/28/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5907),1:13:00,10:35:00,10:32:00,12:05:00,Landed 11:45 AM,PR2688,Philippine Airlines,68
+4/27/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:20:00,10:35:00,10:48:00,12:05:00,Landed 12:08 PM,PR2688,Philippine Airlines,68
+4/25/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5905),1:10:00,10:35:00,11:11:00,12:05:00,Landed 12:21 PM,PR2688,Philippine Airlines,68
+4/23/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5905),1:11:00,10:35:00,10:54:00,12:05:00,Landed 12:06 PM,PR2688,Philippine Airlines,68
+4/21/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5905),1:12:00,10:35:00,10:21:00,12:05:00,Landed 11:34 AM,PR2688,Philippine Airlines,68
+4/20/2025 0:00,,Angeles City (CRK),DH8D (RP-C5903),-,,,13:50:00,Landed 1:50 PM,PR2688,Philippine Airlines,68
+4/20/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:09:00,10:35:00,10:24:00,12:05:00,Landed 11:33 AM,PR2688,Philippine Airlines,68
+4/18/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:08:00,10:35:00,10:40:00,12:05:00,Landed 11:48 AM,PR2688,Philippine Airlines,68
+4/16/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),1:10:00,10:35:00,11:13:00,12:05:00,Landed 12:23 PM,PR2688,Philippine Airlines,68
+4/14/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:11:00,10:35:00,10:32:00,12:05:00,Landed 11:44 AM,PR2688,Philippine Airlines,68
+4/11/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:17:00,10:35:00,10:35:00,12:05:00,Landed 11:53 AM,PR2688,Philippine Airlines,68
+4/9/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5910),1:10:00,10:35:00,10:41:00,12:05:00,Landed 11:51 AM,PR2688,Philippine Airlines,68
+4/7/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5907),1:11:00,10:35:00,10:30:00,12:05:00,Landed 11:42 AM,PR2688,Philippine Airlines,68
+4/6/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5907),1:13:00,10:35:00,10:33:00,12:05:00,Landed 11:47 AM,PR2688,Philippine Airlines,68
+4/4/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5910),1:13:00,10:35:00,10:38:00,12:05:00,Landed 11:51 AM,PR2688,Philippine Airlines,68
+4/2/2025 0:00,,Angeles City (CRK),DH8D (RP-C5907),-,,,13:44:00,Landed 1:44 PM,PR2688,Philippine Airlines,68
+4/2/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5907),1:10:00,10:35:00,10:30:00,12:05:00,Landed 11:41 AM,PR2688,Philippine Airlines,68
+3/31/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5907),1:18:00,10:35:00,10:33:00,12:05:00,Landed 11:52 AM,PR2688,Philippine Airlines,68
+3/28/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:24:00,10:35:00,10:26:00,12:10:00,Landed 11:51 AM,PR2688,Philippine Airlines,68
+3/26/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:11:00,10:35:00,10:31:00,12:10:00,Landed 11:42 AM,PR2688,Philippine Airlines,68
+3/24/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),1:24:00,10:35:00,10:23:00,12:10:00,Landed 11:48 AM,PR2688,Philippine Airlines,68
+3/23/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),1:09:00,10:35:00,10:48:00,12:10:00,Landed 11:57 AM,PR2688,Philippine Airlines,68
+3/21/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5911),1:13:00,10:35:00,10:30:00,12:10:00,Landed 11:43 AM,PR2688,Philippine Airlines,68
+3/19/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5905),1:13:00,10:35:00,10:27:00,12:10:00,Landed 11:41 AM,PR2688,Philippine Airlines,68
+3/17/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5902),1:14:00,10:35:00,10:48:00,12:10:00,Landed 12:03 PM,PR2688,Philippine Airlines,68
+3/14/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5902),1:12:00,10:35:00,10:40:00,12:10:00,Landed 11:53 AM,PR2688,Philippine Airlines,68
+3/12/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:14:00,10:35:00,10:41:00,12:10:00,Landed 11:55 AM,PR2688,Philippine Airlines,68
+3/10/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5910),1:09:00,10:35:00,12:05:00,12:10:00,Landed 1:14 PM,PR2688,Philippine Airlines,68
+3/9/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5910),1:10:00,10:35:00,10:28:00,12:10:00,Landed 11:38 AM,PR2688,Philippine Airlines,68
+3/7/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:12:00,10:35:00,11:21:00,12:10:00,Landed 12:33 PM,PR2688,Philippine Airlines,68
+3/5/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5902),1:16:00,10:35:00,10:37:00,12:10:00,Landed 11:53 AM,PR2688,Philippine Airlines,68
+3/3/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5907),-,10:35:00,10:57:00,12:10:00,Diverted to CRK,PR2688,Philippine Airlines,68
+3/2/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:12:00,10:35:00,10:59:00,12:10:00,Landed 12:12 PM,PR2688,Philippine Airlines,68
+2/28/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5910),1:14:00,10:35:00,10:34:00,12:10:00,Landed 11:48 AM,PR2688,Philippine Airlines,68
+2/26/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:11:00,10:35:00,10:18:00,12:10:00,Landed 11:29 AM,PR2688,Philippine Airlines,68
+2/24/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5917),1:12:00,10:35:00,11:27:00,12:10:00,Landed 12:39 PM,PR2688,Philippine Airlines,68
+2/23/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),1:10:00,10:35:00,10:09:00,12:10:00,Landed 11:20 AM,PR2688,Philippine Airlines,68
+2/21/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5910),1:14:00,10:35:00,10:43:00,12:10:00,Landed 11:58 AM,PR2688,Philippine Airlines,68
+2/19/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5911),1:15:00,10:35:00,10:17:00,12:10:00,Landed 11:33 AM,PR2688,Philippine Airlines,68
+2/17/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),0:53:00,10:35:00,10:47:00,12:10:00,Landed 11:40 AM,PR2688,Philippine Airlines,68
+2/16/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:12:00,10:35:00,10:31:00,12:10:00,Landed 11:44 AM,PR2688,Philippine Airlines,68
+2/12/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:11:00,10:35:00,10:28:00,12:10:00,Landed 11:39 AM,PR2688,Philippine Airlines,68
+2/10/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:14:00,10:35:00,10:43:00,12:10:00,Landed 11:58 AM,PR2688,Philippine Airlines,68
+2/5/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),1:10:00,10:35:00,10:19:00,12:10:00,Landed 11:29 AM,PR2688,Philippine Airlines,68
+2/3/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),1:15:00,10:35:00,10:32:00,12:10:00,Landed 11:47 AM,PR2688,Philippine Airlines,68
+2/2/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),1:11:00,10:35:00,10:20:00,12:10:00,Landed 11:31 AM,PR2688,Philippine Airlines,68
+1/31/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:44:00,10:35:00,10:48:00,12:10:00,Landed 12:32 PM,PR2688,Philippine Airlines,68
+1/29/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5901),0:50:00,10:35:00,11:02:00,12:10:00,Landed 11:53 AM,PR2688,Philippine Airlines,68
+1/27/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:10:00,10:35:00,10:22:00,12:10:00,Landed 11:33 AM,PR2688,Philippine Airlines,68
+1/26/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5917),1:24:00,10:35:00,10:27:00,12:10:00,Landed 11:52 AM,PR2688,Philippine Airlines,68
+1/24/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:20:00,10:35:00,10:44:00,12:10:00,Landed 12:04 PM,PR2688,Philippine Airlines,68
+1/22/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),1:18:00,10:35:00,10:34:00,12:10:00,Landed 11:53 AM,PR2688,Philippine Airlines,68
+1/20/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5902),1:16:00,10:35:00,10:33:00,12:10:00,Landed 11:49 AM,PR2688,Philippine Airlines,68
+1/19/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),-,10:35:00,10:18:00,12:10:00,Diverted to CRK,PR2688,Philippine Airlines,68
+1/17/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:14:00,10:35:00,10:20:00,12:10:00,Landed 11:34 AM,PR2688,Philippine Airlines,68
+1/15/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),-,10:35:00,10:37:00,12:10:00,Diverted to CRK,PR2688,Philippine Airlines,68
+1/13/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5917),1:17:00,10:35:00,10:45:00,12:10:00,Landed 12:02 PM,PR2688,Philippine Airlines,68
+1/12/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),0:55:00,10:35:00,10:26:00,12:10:00,Landed 11:22 AM,PR2688,Philippine Airlines,68
+1/10/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),0:57:00,10:35:00,10:52:00,12:10:00,Landed 11:50 AM,PR2688,Philippine Airlines,68
+1/8/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5910),1:09:00,10:35:00,10:18:00,12:10:00,Landed 11:27 AM,PR2688,Philippine Airlines,68
+1/6/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:12:00,10:35:00,10:28:00,12:10:00,Landed 11:41 AM,PR2688,Philippine Airlines,68
+1/5/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),0:54:00,10:35:00,10:43:00,12:10:00,Landed 11:37 AM,PR2688,Philippine Airlines,68
+1/3/2025 0:00,,Angeles City (CRK),DH8D (RP-C5917),-,,,14:05:00,Landed 2:05 PM,PR2688,Philippine Airlines,68
+1/3/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5917),1:17:00,10:35:00,10:58:00,12:10:00,Landed 12:15 PM,PR2688,Philippine Airlines,68
+1/1/2025 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:09:00,10:35:00,10:33:00,12:10:00,Landed 11:43 AM,PR2688,Philippine Airlines,68
+12/30/2024 0:00,,,DH8D (RP-C5906),-,,,,Unknown,PR2688,Philippine Airlines,68
+12/30/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:14:00,10:35:00,10:39:00,12:10:00,Landed 11:54 AM,PR2688,Philippine Airlines,68
+12/29/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:24:00,10:35:00,10:41:00,12:10:00,Landed 12:05 PM,PR2688,Philippine Airlines,68
+12/27/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5917),1:14:00,10:35:00,10:43:00,12:10:00,Landed 11:57 AM,PR2688,Philippine Airlines,68
+12/25/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:19:00,10:35:00,10:35:00,12:10:00,Landed 11:54 AM,PR2688,Philippine Airlines,68
+12/23/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:18:00,10:35:00,10:12:00,12:10:00,Landed 11:30 AM,PR2688,Philippine Airlines,68
+12/22/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:13:00,10:35:00,10:38:00,12:10:00,Landed 11:51 AM,PR2688,Philippine Airlines,68
+12/20/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:22:00,10:35:00,11:16:00,12:10:00,Landed 12:38 PM,PR2688,Philippine Airlines,68
+12/18/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5911),1:21:00,10:35:00,10:39:00,12:10:00,Landed 12:00 PM,PR2688,Philippine Airlines,68
+12/16/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:14:00,10:35:00,10:27:00,12:10:00,Landed 11:41 AM,PR2688,Philippine Airlines,68
+12/15/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:14:00,10:35:00,10:32:00,12:10:00,Landed 11:47 AM,PR2688,Philippine Airlines,68
+12/13/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5911),1:20:00,10:35:00,10:38:00,12:10:00,Landed 11:59 AM,PR2688,Philippine Airlines,68
+12/11/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5910),1:11:00,10:35:00,10:24:00,12:10:00,Landed 11:35 AM,PR2688,Philippine Airlines,68
+12/8/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5910),1:21:00,10:35:00,10:37:00,12:10:00,Landed 11:58 AM,PR2688,Philippine Airlines,68
+12/6/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5901),1:11:00,10:35:00,10:19:00,12:10:00,Landed 11:30 AM,PR2688,Philippine Airlines,68
+12/4/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5901),3:19:00,10:35:00,10:31:00,12:10:00,Landed 1:50 PM,PR2688,Philippine Airlines,68
+12/2/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5901),3:13:00,10:35:00,10:41:00,12:10:00,Landed 1:54 PM,PR2688,Philippine Airlines,68
+12/1/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:14:00,10:35:00,10:55:00,12:10:00,Landed 12:10 PM,PR2688,Philippine Airlines,68
+11/29/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5901),1:15:00,10:35:00,10:21:00,12:10:00,Landed 11:36 AM,PR2688,Philippine Airlines,68
+11/27/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),3:26:00,11:00:00,10:58:00,12:35:00,Landed 2:24 PM,PR2688,Philippine Airlines,68
+11/26/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),3:12:00,11:00:00,11:03:00,12:35:00,Landed 2:16 PM,PR2688,Philippine Airlines,68
+11/22/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),1:13:00,11:00:00,11:00:00,12:35:00,Landed 12:13 PM,PR2688,Philippine Airlines,68
+11/13/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5902),1:17:00,11:00:00,11:08:00,12:35:00,Landed 12:26 PM,PR2688,Philippine Airlines,68
+11/10/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:14:00,11:00:00,10:57:00,12:35:00,Landed 12:11 PM,PR2688,Philippine Airlines,68
+11/5/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5911),1:03:00,11:00:00,11:02:00,12:35:00,Landed 12:05 PM,PR2688,Philippine Airlines,68
+10/27/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),0:55:00,11:00:00,10:49:00,12:35:00,Landed 11:45 AM,PR2688,Philippine Airlines,68
+10/20/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5902),1:18:00,11:00:00,10:45:00,12:35:00,Landed 12:04 PM,PR2688,Philippine Airlines,68
+10/18/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5905),0:52:00,11:00:00,10:44:00,12:35:00,Landed 11:36 AM,PR2688,Philippine Airlines,68
+10/16/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5905),-,13:57:00,10:53:00,13:57:00,Diverted to CRK,PR2688,Philippine Airlines,68
+10/15/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5905),1:09:00,11:00:00,10:38:00,12:35:00,Landed 11:47 AM,PR2688,Philippine Airlines,68
+10/13/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:10:00,11:00:00,10:45:00,12:35:00,Landed 11:55 AM,PR2688,Philippine Airlines,68
+10/11/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:33:00,11:00:00,10:40:00,12:35:00,Landed 12:13 PM,PR2688,Philippine Airlines,68
+10/9/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),1:29:00,11:00:00,10:45:00,12:35:00,Landed 12:14 PM,PR2688,Philippine Airlines,68
+10/8/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:16:00,11:00:00,10:47:00,12:35:00,Landed 12:03 PM,PR2688,Philippine Airlines,68
+10/6/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:24:00,11:00:00,10:49:00,12:35:00,Landed 12:13 PM,PR2688,Philippine Airlines,68
+10/4/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:27:00,11:00:00,10:50:00,12:35:00,Landed 12:17 PM,PR2688,Philippine Airlines,68
+9/27/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5907),1:10:00,11:00:00,10:44:00,12:35:00,Landed 11:54 AM,PR2688,Philippine Airlines,68
+9/25/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:12:00,11:00:00,10:31:00,12:35:00,Landed 11:44 AM,PR2688,Philippine Airlines,68
+9/24/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5907),-,11:00:00,11:47:00,12:35:00,Diverted to CRK,PR2688,Philippine Airlines,68
+9/22/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),1:07:00,11:00:00,11:13:00,12:35:00,Landed 12:20 PM,PR2688,Philippine Airlines,68
+9/20/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5907),1:09:00,11:00:00,10:37:00,12:35:00,Landed 11:47 AM,PR2688,Philippine Airlines,68
+9/18/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5911),1:11:00,11:00:00,10:51:00,12:35:00,Landed 12:02 PM,PR2688,Philippine Airlines,68
+9/15/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5917),1:12:00,11:00:00,10:53:00,12:35:00,Landed 12:05 PM,PR2688,Philippine Airlines,68
+9/13/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5917),1:28:00,11:00:00,10:49:00,12:35:00,Landed 12:17 PM,PR2688,Philippine Airlines,68
+9/11/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:12:00,11:00:00,10:36:00,12:35:00,Landed 11:48 AM,PR2688,Philippine Airlines,68
+9/10/2024 0:00,,Angeles City (CRK),DH8D (RP-C5906),-,,,13:29:00,Landed 1:29 PM,PR2688,Philippine Airlines,68
+9/10/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:08:00,11:00:00,10:40:00,12:35:00,Landed 11:49 AM,PR2688,Philippine Airlines,68
+9/8/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5907),1:12:00,11:00:00,10:37:00,12:35:00,Landed 11:49 AM,PR2688,Philippine Airlines,68
+9/6/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:14:00,11:00:00,10:41:00,12:35:00,Landed 11:55 AM,PR2688,Philippine Airlines,68
+9/1/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5911),1:20:00,11:00:00,10:37:00,12:35:00,Landed 11:57 AM,PR2688,Philippine Airlines,68
+8/30/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5911),1:09:00,11:00:00,10:35:00,12:35:00,Landed 11:44 AM,PR2688,Philippine Airlines,68
+8/28/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:12:00,11:00:00,10:52:00,12:35:00,Landed 12:04 PM,PR2688,Philippine Airlines,68
+8/27/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:19:00,11:00:00,11:05:00,12:35:00,Landed 12:24 PM,PR2688,Philippine Airlines,68
+8/25/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:16:00,11:00:00,10:52:00,12:35:00,Landed 12:08 PM,PR2688,Philippine Airlines,68
+8/23/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:14:00,11:00:00,10:53:00,12:35:00,Landed 12:07 PM,PR2688,Philippine Airlines,68
+8/21/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:07:00,11:00:00,10:45:00,12:35:00,Landed 11:53 AM,PR2688,Philippine Airlines,68
+8/20/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5903),1:16:00,11:00:00,10:44:00,12:35:00,Landed 12:01 PM,PR2688,Philippine Airlines,68
+8/18/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5905),1:11:00,11:00:00,10:55:00,12:35:00,Landed 12:07 PM,PR2688,Philippine Airlines,68
+8/16/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5905),1:17:00,11:00:00,10:56:00,12:35:00,Landed 12:13 PM,PR2688,Philippine Airlines,68
+8/14/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5905),1:21:00,11:00:00,10:37:00,12:35:00,Landed 11:58 AM,PR2688,Philippine Airlines,68
+8/13/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5905),1:12:00,11:00:00,10:52:00,12:35:00,Landed 12:04 PM,PR2688,Philippine Airlines,68
+8/11/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5907),1:07:00,11:00:00,11:12:00,12:35:00,Landed 12:20 PM,PR2688,Philippine Airlines,68
+8/9/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5907),1:10:00,11:00:00,10:42:00,12:35:00,Landed 11:52 AM,PR2688,Philippine Airlines,68
+8/6/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5917),1:13:00,11:00:00,10:40:00,12:35:00,Landed 11:54 AM,PR2688,Philippine Airlines,68
+8/4/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5917),1:14:00,11:00:00,10:40:00,12:35:00,Landed 11:54 AM,PR2688,Philippine Airlines,68
+8/2/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5917),1:11:00,11:00:00,10:44:00,12:35:00,Landed 11:55 AM,PR2688,Philippine Airlines,68
+7/31/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5911),1:15:00,11:00:00,10:44:00,12:35:00,Landed 11:59 AM,PR2688,Philippine Airlines,68
+7/30/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5911),1:11:00,11:00:00,11:54:00,12:35:00,Landed 1:05 PM,PR2688,Philippine Airlines,68
+7/28/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5902),1:13:00,11:00:00,10:48:00,12:35:00,Landed 12:02 PM,PR2688,Philippine Airlines,68
+7/21/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5902),1:15:00,11:00:00,11:11:00,12:35:00,Landed 12:27 PM,PR2688,Philippine Airlines,68
+7/19/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5907),1:14:00,11:00:00,10:55:00,12:35:00,Landed 12:10 PM,PR2688,Philippine Airlines,68
+7/17/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5915),1:10:00,11:00:00,10:50:00,12:35:00,Landed 12:00 PM,PR2688,Philippine Airlines,68
+7/16/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5912),1:09:00,11:00:00,11:17:00,12:35:00,Landed 12:26 PM,PR2688,Philippine Airlines,68
+7/14/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5917),1:17:00,11:00:00,10:55:00,12:35:00,Landed 12:13 PM,PR2688,Philippine Airlines,68
+7/10/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5917),1:12:00,11:00:00,10:48:00,12:35:00,Landed 12:00 PM,PR2688,Philippine Airlines,68
+7/9/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5917),1:12:00,11:00:00,10:59:00,12:35:00,Landed 12:11 PM,PR2688,Philippine Airlines,68
+7/5/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5911),1:13:00,11:00:00,10:36:00,12:35:00,Landed 11:49 AM,PR2688,Philippine Airlines,68
+7/3/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),0:51:00,11:00:00,10:54:00,12:35:00,Landed 11:45 AM,PR2688,Philippine Airlines,68
+7/2/2024 0:00,Angeles City (CRK),Basco (BSO),DH8D (RP-C5906),1:09:00,11:00:00,11:12:00,12:35:00,Landed 12:22 PM,PR2688,Philippine Airlines,68
+9/15/2025 0:00,Manila (MNL),Basco (BSO),DH8,,6:20:00,,8:15:00,Scheduled,PR2932,Philippine Airlines,68
+9/14/2025 0:00,Manila (MNL),Basco (BSO),DH8,,6:20:00,,8:15:00,Scheduled,PR2932,Philippine Airlines,68
+9/12/2025 0:00,Manila (MNL),Basco (BSO),DH8,,6:20:00,,8:15:00,Scheduled,PR2932,Philippine Airlines,68
+9/11/2025 0:00,Manila (MNL),Basco (BSO),DH8,,6:20:00,,8:15:00,Scheduled,PR2932,Philippine Airlines,68
+9/10/2025 0:00,Manila (MNL),Basco (BSO),DH8,,6:20:00,,8:15:00,Scheduled,PR2932,Philippine Airlines,68
+9/8/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:17:00,6:20:00,7:17:00,8:15:00,Landed 8:34 AM,PR2932,Philippine Airlines,68
+9/7/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,6:20:00,6:04:00,8:15:00,Landed 7:22 AM,PR2932,Philippine Airlines,68
+9/5/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:18:00,6:20:00,6:24:00,8:15:00,Landed 7:42 AM,PR2932,Philippine Airlines,68
+9/4/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:17:00,6:20:00,6:32:00,8:15:00,Landed 7:49 AM,PR2932,Philippine Airlines,68
+9/3/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:12:00,6:20:00,6:50:00,8:15:00,Landed 8:02 AM,PR2932,Philippine Airlines,68
+9/1/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:20:00,6:20:00,6:56:00,8:15:00,Landed 8:16 AM,PR2932,Philippine Airlines,68
+8/31/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:24:00,6:20:00,6:41:00,8:15:00,Landed 8:05 AM,PR2932,Philippine Airlines,68
+8/30/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:14:00,6:20:00,6:33:00,8:15:00,Landed 7:47 AM,PR2932,Philippine Airlines,68
+8/29/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:20:00,6:20:00,6:42:00,8:15:00,Landed 8:02 AM,PR2932,Philippine Airlines,68
+8/28/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:13:00,6:20:00,6:31:00,8:15:00,Landed 7:44 AM,PR2932,Philippine Airlines,68
+8/27/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:28:00,6:20:00,6:27:00,8:15:00,Landed 7:55 AM,PR2932,Philippine Airlines,68
+8/26/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:20:00,6:20:00,6:21:00,8:15:00,Landed 7:41 AM,PR2932,Philippine Airlines,68
+8/25/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:19:00,6:20:00,6:22:00,8:15:00,Landed 7:41 AM,PR2932,Philippine Airlines,68
+8/24/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:14:00,6:20:00,6:10:00,8:15:00,Landed 7:23 AM,PR2932,Philippine Airlines,68
+8/23/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:14:00,6:20:00,6:12:00,8:15:00,Landed 7:27 AM,PR2932,Philippine Airlines,68
+8/22/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:26:00,6:20:00,6:29:00,8:15:00,Landed 7:55 AM,PR2932,Philippine Airlines,68
+8/21/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:17:00,6:20:00,6:25:00,8:15:00,Landed 7:42 AM,PR2932,Philippine Airlines,68
+8/20/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:18:00,6:20:00,6:43:00,8:15:00,Landed 8:01 AM,PR2932,Philippine Airlines,68
+8/19/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:13:00,6:20:00,6:14:00,8:15:00,Landed 7:27 AM,PR2932,Philippine Airlines,68
+8/18/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:17:00,6:20:00,6:20:00,8:15:00,Landed 7:37 AM,PR2932,Philippine Airlines,68
+8/17/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:15:00,6:20:00,6:35:00,8:15:00,Landed 7:50 AM,PR2932,Philippine Airlines,68
+8/16/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:16:00,6:20:00,6:10:00,8:15:00,Landed 7:25 AM,PR2932,Philippine Airlines,68
+8/15/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:18:00,6:20:00,6:24:00,8:15:00,Landed 7:42 AM,PR2932,Philippine Airlines,68
+8/14/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:20:00,6:20:00,6:20:00,8:15:00,Landed 7:40 AM,PR2932,Philippine Airlines,68
+8/13/2025 0:00,Manila (MNL),Basco (BSO),DH8,,6:20:00,,8:15:00,Canceled,PR2932,Philippine Airlines,68
+8/12/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:18:00,6:20:00,6:19:00,8:15:00,Landed 7:37 AM,PR2932,Philippine Airlines,68
+8/11/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:17:00,6:20:00,6:29:00,8:15:00,Landed 7:46 AM,PR2932,Philippine Airlines,68
+8/10/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:18:00,6:20:00,6:41:00,8:15:00,Landed 7:59 AM,PR2932,Philippine Airlines,68
+8/9/2025 0:00,,Manila (MNL),DH8D (RP-C5903),,,,9:58:00,Landed 9:58 AM,PR2932,Philippine Airlines,68
+8/9/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:16:00,6:20:00,6:29:00,8:15:00,Landed 7:45 AM,PR2932,Philippine Airlines,68
+8/8/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:16:00,6:20:00,6:33:00,8:15:00,Landed 7:50 AM,PR2932,Philippine Airlines,68
+8/7/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:23:00,6:20:00,6:31:00,8:15:00,Landed 7:55 AM,PR2932,Philippine Airlines,68
+8/6/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:23:00,6:20:00,6:21:00,8:15:00,Landed 7:44 AM,PR2932,Philippine Airlines,68
+8/5/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:19:00,6:20:00,6:49:00,8:15:00,Landed 8:08 AM,PR2932,Philippine Airlines,68
+8/4/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:18:00,6:20:00,6:23:00,8:15:00,Landed 7:41 AM,PR2932,Philippine Airlines,68
+7/23/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,6:20:00,7:10:00,8:15:00,Landed 8:29 AM,PR2932,Philippine Airlines,68
+7/22/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:18:00,6:20:00,6:44:00,8:15:00,Landed 8:03 AM,PR2932,Philippine Airlines,68
+7/21/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:16:00,6:20:00,6:28:00,8:15:00,Landed 7:44 AM,PR2932,Philippine Airlines,68
+7/20/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:18:00,6:20:00,6:29:00,8:15:00,Landed 7:48 AM,PR2932,Philippine Airlines,68
+7/17/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:17:00,6:20:00,6:23:00,8:15:00,Landed 7:41 AM,PR2932,Philippine Airlines,68
+7/15/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:16:00,6:20:00,6:25:00,8:15:00,Landed 7:41 AM,PR2932,Philippine Airlines,68
+7/14/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:16:00,6:20:00,6:30:00,8:15:00,Landed 7:46 AM,PR2932,Philippine Airlines,68
+7/13/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:18:00,6:20:00,6:21:00,8:15:00,Landed 7:40 AM,PR2932,Philippine Airlines,68
+7/12/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:17:00,6:20:00,6:14:00,8:15:00,Landed 7:31 AM,PR2932,Philippine Airlines,68
+7/11/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:20:00,6:20:00,6:49:00,8:15:00,Landed 8:09 AM,PR2932,Philippine Airlines,68
+7/10/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,6:20:00,6:30:00,8:15:00,Landed 7:49 AM,PR2932,Philippine Airlines,68
+7/9/2025 0:00,,Manila (MNL),DH8D (RP-C5901),,2:26:00,,10:26:00,Landed 10:26 AM,PR2932,Philippine Airlines,68
+7/9/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),,6:20:00,7:15:00,8:15:00,Diverted to MNL,PR2932,Philippine Airlines,68
+7/7/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:17:00,6:20:00,6:24:00,8:15:00,Landed 7:42 AM,PR2932,Philippine Airlines,68
+7/6/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:14:00,6:20:00,6:19:00,8:15:00,Landed 7:33 AM,PR2932,Philippine Airlines,68
+7/5/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:14:00,6:20:00,6:12:00,8:15:00,Landed 7:26 AM,PR2932,Philippine Airlines,68
+7/4/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:15:00,6:20:00,6:21:00,8:15:00,Landed 7:36 AM,PR2932,Philippine Airlines,68
+7/3/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:17:00,6:20:00,6:02:00,8:15:00,Landed 7:20 AM,PR2932,Philippine Airlines,68
+7/2/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:18:00,6:20:00,6:32:00,8:15:00,Landed 7:50 AM,PR2932,Philippine Airlines,68
+7/1/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:19:00,6:20:00,6:24:00,8:15:00,Landed 7:43 AM,PR2932,Philippine Airlines,68
+6/30/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:15:00,6:20:00,6:07:00,8:15:00,Landed 7:23 AM,PR2932,Philippine Airlines,68
+6/29/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:18:00,6:20:00,6:39:00,8:15:00,Landed 7:57 AM,PR2932,Philippine Airlines,68
+6/28/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:18:00,6:20:00,6:28:00,8:15:00,Landed 7:47 AM,PR2932,Philippine Airlines,68
+6/27/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:22:00,6:20:00,6:25:00,8:15:00,Landed 7:48 AM,PR2932,Philippine Airlines,68
+6/26/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:19:00,6:20:00,6:33:00,8:15:00,Landed 7:53 AM,PR2932,Philippine Airlines,68
+6/25/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:16:00,6:20:00,6:21:00,8:15:00,Landed 7:38 AM,PR2932,Philippine Airlines,68
+6/24/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:15:00,6:20:00,7:09:00,8:15:00,Landed 8:24 AM,PR2932,Philippine Airlines,68
+6/23/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:20:00,6:20:00,6:25:00,8:15:00,Landed 7:46 AM,PR2932,Philippine Airlines,68
+6/22/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:15:00,6:20:00,6:36:00,8:15:00,Landed 7:51 AM,PR2932,Philippine Airlines,68
+6/21/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:20:00,6:20:00,6:26:00,8:15:00,Landed 7:46 AM,PR2932,Philippine Airlines,68
+6/20/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:17:00,6:20:00,6:21:00,8:15:00,Landed 7:39 AM,PR2932,Philippine Airlines,68
+6/19/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:18:00,6:20:00,6:33:00,8:15:00,Landed 7:52 AM,PR2932,Philippine Airlines,68
+6/18/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:18:00,6:20:00,6:52:00,8:15:00,Landed 8:11 AM,PR2932,Philippine Airlines,68
+6/17/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:15:00,6:20:00,6:44:00,8:15:00,Landed 7:59 AM,PR2932,Philippine Airlines,68
+6/16/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:15:00,6:20:00,6:24:00,8:15:00,Landed 7:40 AM,PR2932,Philippine Airlines,68
+6/15/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:17:00,6:20:00,6:19:00,8:15:00,Landed 7:37 AM,PR2932,Philippine Airlines,68
+6/14/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:16:00,6:20:00,9:36:00,8:15:00,Landed 10:52 AM,PR2932,Philippine Airlines,68
+6/13/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:15:00,6:20:00,6:30:00,8:15:00,Landed 7:46 AM,PR2932,Philippine Airlines,68
+6/12/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:26:00,6:20:00,6:49:00,8:15:00,Landed 8:16 AM,PR2932,Philippine Airlines,68
+6/11/2025 0:00,,Manila (MNL),DH8D (RP-C5910),,2:20:00,,10:20:00,Landed 10:20 AM,PR2932,Philippine Airlines,68
+6/11/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:25:00,6:20:00,6:26:00,8:15:00,Landed 7:51 AM,PR2932,Philippine Airlines,68
+6/10/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:20:00,6:20:00,6:28:00,8:15:00,Landed 7:49 AM,PR2932,Philippine Airlines,68
+6/9/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:22:00,6:20:00,6:29:00,8:15:00,Landed 7:51 AM,PR2932,Philippine Airlines,68
+6/8/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,6:20:00,6:19:00,8:15:00,Landed 7:39 AM,PR2932,Philippine Airlines,68
+6/7/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:20:00,6:20:00,6:20:00,8:15:00,Landed 7:40 AM,PR2932,Philippine Airlines,68
+6/6/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:20:00,6:20:00,6:28:00,8:15:00,Landed 7:49 AM,PR2932,Philippine Airlines,68
+6/5/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:23:00,6:20:00,6:46:00,8:15:00,Landed 8:10 AM,PR2932,Philippine Airlines,68
+6/4/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:18:00,6:20:00,6:33:00,8:15:00,Landed 7:51 AM,PR2932,Philippine Airlines,68
+6/3/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:16:00,6:20:00,6:38:00,8:15:00,Landed 7:54 AM,PR2932,Philippine Airlines,68
+6/2/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,6:20:00,6:26:00,8:15:00,Landed 7:45 AM,PR2932,Philippine Airlines,68
+6/1/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:12:00,10:41:00,10:42:00,12:36:00,Landed 11:54 AM,PR2932,Philippine Airlines,68
+6/1/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),,6:20:00,6:32:00,8:15:00,Diverted to MNL,PR2932,Philippine Airlines,68
+5/31/2025 0:00,,Manila (MNL),DH8D (RP-C5912),,2:03:00,,10:03:00,Landed 10:03 AM,PR2932,Philippine Airlines,68
+5/31/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:17:00,6:20:00,6:27:00,8:15:00,Landed 7:45 AM,PR2932,Philippine Airlines,68
+5/29/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:14:00,6:20:00,6:41:00,8:15:00,Landed 7:56 AM,PR2932,Philippine Airlines,68
+5/28/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:20:00,6:20:00,6:34:00,8:15:00,Landed 7:54 AM,PR2932,Philippine Airlines,68
+5/27/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:35:00,6:20:00,6:17:00,8:15:00,Landed 7:52 AM,PR2932,Philippine Airlines,68
+5/26/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:17:00,6:20:00,6:30:00,8:15:00,Landed 7:48 AM,PR2932,Philippine Airlines,68
+5/25/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:20:00,6:20:00,6:28:00,8:15:00,Landed 7:48 AM,PR2932,Philippine Airlines,68
+5/24/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:16:00,6:20:00,6:30:00,8:15:00,Landed 7:46 AM,PR2932,Philippine Airlines,68
+5/23/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:23:00,6:20:00,6:44:00,8:15:00,Landed 8:07 AM,PR2932,Philippine Airlines,68
+5/22/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:17:00,6:20:00,6:36:00,8:15:00,Landed 7:54 AM,PR2932,Philippine Airlines,68
+5/21/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:17:00,6:20:00,6:33:00,8:15:00,Landed 7:50 AM,PR2932,Philippine Airlines,68
+5/20/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:18:00,6:20:00,6:50:00,8:15:00,Landed 8:08 AM,PR2932,Philippine Airlines,68
+5/19/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:18:00,6:20:00,9:48:00,8:15:00,Landed 11:06 AM,PR2932,Philippine Airlines,68
+5/18/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:12:00,9:16:00,9:17:00,11:11:00,Landed 10:30 AM,PR2932,Philippine Airlines,68
+5/18/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),-,6:20:00,6:20:00,8:15:00,Diverted to MNL,PR2932,Philippine Airlines,68
+5/17/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:16:00,6:20:00,6:32:00,8:15:00,Landed 7:48 AM,PR2932,Philippine Airlines,68
+5/16/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:16:00,6:20:00,6:24:00,8:15:00,Landed 7:41 AM,PR2932,Philippine Airlines,68
+5/15/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:16:00,6:20:00,6:23:00,8:15:00,Landed 7:39 AM,PR2932,Philippine Airlines,68
+5/14/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:15:00,6:20:00,7:13:00,8:15:00,Landed 8:29 AM,PR2932,Philippine Airlines,68
+5/13/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:17:00,6:20:00,6:17:00,8:15:00,Landed 7:35 AM,PR2932,Philippine Airlines,68
+5/12/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:16:00,6:20:00,6:51:00,8:15:00,Landed 8:07 AM,PR2932,Philippine Airlines,68
+5/11/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:15:00,6:20:00,6:33:00,8:15:00,Landed 7:49 AM,PR2932,Philippine Airlines,68
+5/10/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:16:00,6:20:00,6:28:00,8:15:00,Landed 7:45 AM,PR2932,Philippine Airlines,68
+5/9/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:11:00,6:20:00,6:26:00,8:15:00,Landed 7:38 AM,PR2932,Philippine Airlines,68
+5/8/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:25:00,6:20:00,6:31:00,8:15:00,Landed 7:56 AM,PR2932,Philippine Airlines,68
+5/7/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:23:00,6:20:00,6:22:00,8:15:00,Landed 7:45 AM,PR2932,Philippine Airlines,68
+5/6/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:18:00,6:20:00,6:17:00,8:15:00,Landed 7:36 AM,PR2932,Philippine Airlines,68
+5/5/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:16:00,6:20:00,6:27:00,8:15:00,Landed 7:43 AM,PR2932,Philippine Airlines,68
+5/4/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:22:00,6:20:00,6:29:00,8:15:00,Landed 7:51 AM,PR2932,Philippine Airlines,68
+5/3/2025 0:00,,Manila (MNL),DH8D (RP-C5912),-,,,10:19:00,Landed 10:19 AM,PR2932,Philippine Airlines,68
+5/3/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:20:00,6:20:00,6:45:00,8:15:00,Landed 8:05 AM,PR2932,Philippine Airlines,68
+5/2/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:18:00,6:20:00,6:31:00,8:15:00,Landed 7:50 AM,PR2932,Philippine Airlines,68
+5/1/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:22:00,6:20:00,7:03:00,8:15:00,Landed 8:25 AM,PR2932,Philippine Airlines,68
+4/30/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:19:00,6:20:00,6:41:00,8:15:00,Landed 8:01 AM,PR2932,Philippine Airlines,68
+4/29/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:15:00,6:20:00,6:45:00,8:15:00,Landed 8:01 AM,PR2932,Philippine Airlines,68
+4/28/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:17:00,6:20:00,6:24:00,8:15:00,Landed 7:41 AM,PR2932,Philippine Airlines,68
+4/27/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:18:00,6:20:00,6:32:00,8:15:00,Landed 7:50 AM,PR2932,Philippine Airlines,68
+4/26/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:19:00,6:20:00,6:43:00,8:15:00,Landed 8:02 AM,PR2932,Philippine Airlines,68
+4/25/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:24:00,6:20:00,6:27:00,8:15:00,Landed 7:51 AM,PR2932,Philippine Airlines,68
+4/24/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:20:00,6:20:00,6:21:00,8:15:00,Landed 7:42 AM,PR2932,Philippine Airlines,68
+4/23/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:17:00,6:20:00,7:03:00,8:15:00,Landed 8:21 AM,PR2932,Philippine Airlines,68
+4/22/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:20:00,6:20:00,6:14:00,8:15:00,Landed 7:34 AM,PR2932,Philippine Airlines,68
+4/21/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:15:00,6:20:00,7:02:00,8:15:00,Landed 8:18 AM,PR2932,Philippine Airlines,68
+4/20/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:18:00,6:20:00,6:19:00,8:15:00,Landed 7:37 AM,PR2932,Philippine Airlines,68
+4/19/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:16:00,6:20:00,6:17:00,8:15:00,Landed 7:33 AM,PR2932,Philippine Airlines,68
+4/18/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,6:20:00,6:37:00,8:15:00,Landed 7:57 AM,PR2932,Philippine Airlines,68
+4/17/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:17:00,6:20:00,6:32:00,8:15:00,Landed 7:49 AM,PR2932,Philippine Airlines,68
+4/16/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:27:00,6:20:00,7:10:00,8:15:00,Landed 8:37 AM,PR2932,Philippine Airlines,68
+4/15/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:19:00,6:20:00,6:34:00,8:15:00,Landed 7:53 AM,PR2932,Philippine Airlines,68
+4/14/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:15:00,6:20:00,6:43:00,8:15:00,Landed 7:58 AM,PR2932,Philippine Airlines,68
+4/13/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:14:00,6:20:00,6:20:00,8:15:00,Landed 7:34 AM,PR2932,Philippine Airlines,68
+4/12/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:15:00,6:20:00,6:10:00,8:15:00,Landed 7:25 AM,PR2932,Philippine Airlines,68
+4/11/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:20:00,6:20:00,6:44:00,8:15:00,Landed 8:05 AM,PR2932,Philippine Airlines,68
+4/10/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:13:00,6:20:00,6:26:00,8:15:00,Landed 7:40 AM,PR2932,Philippine Airlines,68
+4/9/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:20:00,6:20:00,6:36:00,8:15:00,Landed 7:57 AM,PR2932,Philippine Airlines,68
+4/8/2025 0:00,,Manila (MNL),DH8D (RP-C5915),-,,,11:08:00,Landed 11:08 AM,PR2932,Philippine Airlines,68
+4/8/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:28:00,6:20:00,7:08:00,8:15:00,Landed 8:36 AM,PR2932,Philippine Airlines,68
+4/7/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:17:00,6:20:00,6:44:00,8:15:00,Landed 8:02 AM,PR2932,Philippine Airlines,68
+4/6/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:16:00,6:20:00,6:17:00,8:15:00,Landed 7:34 AM,PR2932,Philippine Airlines,68
+4/5/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:21:00,6:20:00,6:44:00,8:15:00,Landed 8:05 AM,PR2932,Philippine Airlines,68
+4/4/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:23:00,6:20:00,6:27:00,8:15:00,Landed 7:51 AM,PR2932,Philippine Airlines,68
+4/3/2025 0:00,,Manila (MNL),DH8D (RP-C5912),-,,,10:21:00,Landed 10:21 AM,PR2932,Philippine Airlines,68
+4/3/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:18:00,6:20:00,6:56:00,8:15:00,Landed 8:14 AM,PR2932,Philippine Airlines,68
+4/2/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:25:00,6:20:00,7:33:00,8:15:00,Landed 8:58 AM,PR2932,Philippine Airlines,68
+4/1/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:18:00,6:20:00,6:25:00,8:15:00,Landed 7:43 AM,PR2932,Philippine Airlines,68
+3/31/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:29:00,6:20:00,6:15:00,8:15:00,Landed 7:44 AM,PR2932,Philippine Airlines,68
+3/30/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:23:00,6:20:00,6:21:00,8:15:00,Landed 7:45 AM,PR2932,Philippine Airlines,68
+3/29/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:22:00,6:15:00,6:13:00,8:05:00,Landed 7:36 AM,PR2932,Philippine Airlines,68
+3/28/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:16:00,6:15:00,6:16:00,8:05:00,Landed 7:33 AM,PR2932,Philippine Airlines,68
+3/27/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:18:00,6:15:00,6:18:00,8:05:00,Landed 7:36 AM,PR2932,Philippine Airlines,68
+3/26/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:16:00,6:15:00,6:24:00,8:05:00,Landed 7:40 AM,PR2932,Philippine Airlines,68
+3/25/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:16:00,6:15:00,6:21:00,8:05:00,Landed 7:37 AM,PR2932,Philippine Airlines,68
+3/24/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:14:00,6:15:00,6:05:00,8:05:00,Landed 7:19 AM,PR2932,Philippine Airlines,68
+3/23/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:23:00,6:15:00,6:09:00,8:05:00,Landed 7:32 AM,PR2932,Philippine Airlines,68
+3/22/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:20:00,6:15:00,6:29:00,8:05:00,Landed 7:49 AM,PR2932,Philippine Airlines,68
+3/21/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:16:00,6:15:00,6:09:00,8:05:00,Landed 7:26 AM,PR2932,Philippine Airlines,68
+3/20/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:22:00,6:15:00,6:36:00,8:05:00,Landed 7:58 AM,PR2932,Philippine Airlines,68
+3/19/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:23:00,6:15:00,6:35:00,8:05:00,Landed 7:58 AM,PR2932,Philippine Airlines,68
+3/18/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:30:00,6:15:00,6:32:00,8:05:00,Landed 8:02 AM,PR2932,Philippine Airlines,68
+3/17/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:23:00,6:15:00,6:47:00,8:05:00,Landed 8:11 AM,PR2932,Philippine Airlines,68
+3/16/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:20:00,6:15:00,6:16:00,8:05:00,Landed 7:36 AM,PR2932,Philippine Airlines,68
+3/15/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:16:00,6:15:00,6:30:00,8:05:00,Landed 7:46 AM,PR2932,Philippine Airlines,68
+3/14/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:15:00,6:15:00,6:28:00,8:05:00,Landed 7:44 AM,PR2932,Philippine Airlines,68
+3/13/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:15:00,6:15:00,6:21:00,8:05:00,Landed 7:37 AM,PR2932,Philippine Airlines,68
+3/12/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:15:00,6:15:00,7:01:00,8:05:00,Landed 8:17 AM,PR2932,Philippine Airlines,68
+3/11/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:25:00,6:15:00,7:32:00,8:05:00,Landed 8:57 AM,PR2932,Philippine Airlines,68
+3/10/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:15:00,6:15:00,6:27:00,8:05:00,Landed 7:43 AM,PR2932,Philippine Airlines,68
+3/9/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:15:00,6:15:00,6:20:00,8:05:00,Landed 7:36 AM,PR2932,Philippine Airlines,68
+3/8/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:17:00,6:15:00,6:31:00,8:05:00,Landed 7:49 AM,PR2932,Philippine Airlines,68
+3/7/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:19:00,6:15:00,6:12:00,8:05:00,Landed 7:31 AM,PR2932,Philippine Airlines,68
+3/6/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:20:00,6:15:00,6:20:00,8:05:00,Landed 7:40 AM,PR2932,Philippine Airlines,68
+3/5/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:21:00,6:15:00,6:26:00,8:05:00,Landed 7:47 AM,PR2932,Philippine Airlines,68
+3/4/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:20:00,6:15:00,6:34:00,8:05:00,Landed 7:54 AM,PR2932,Philippine Airlines,68
+3/3/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:16:00,6:15:00,6:09:00,8:05:00,Landed 7:25 AM,PR2932,Philippine Airlines,68
+3/2/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:14:00,6:15:00,6:25:00,8:05:00,Landed 7:39 AM,PR2932,Philippine Airlines,68
+3/1/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:20:00,6:15:00,6:33:00,8:05:00,Landed 7:53 AM,PR2932,Philippine Airlines,68
+2/28/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:17:00,6:15:00,6:48:00,8:05:00,Landed 8:05 AM,PR2932,Philippine Airlines,68
+2/27/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:18:00,6:15:00,6:21:00,8:05:00,Landed 7:39 AM,PR2932,Philippine Airlines,68
+2/26/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:18:00,6:15:00,6:19:00,8:05:00,Landed 7:38 AM,PR2932,Philippine Airlines,68
+2/25/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:16:00,6:15:00,6:34:00,8:05:00,Landed 7:51 AM,PR2932,Philippine Airlines,68
+2/24/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:21:00,6:15:00,7:07:00,8:05:00,Landed 8:29 AM,PR2932,Philippine Airlines,68
+2/23/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:17:00,6:15:00,6:32:00,8:05:00,Landed 7:49 AM,PR2932,Philippine Airlines,68
+2/22/2025 0:00,,Manila (MNL),DH8D (RP-C5902),-,,,9:51:00,Landed 9:51 AM,PR2932,Philippine Airlines,68
+2/22/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:20:00,6:15:00,6:17:00,8:05:00,Landed 7:38 AM,PR2932,Philippine Airlines,68
+2/21/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:23:00,6:15:00,6:56:00,8:05:00,Landed 8:20 AM,PR2932,Philippine Airlines,68
+2/20/2025 0:00,,Manila (MNL),DH8D (RP-C5915),-,,,10:02:00,Landed 10:02 AM,PR2932,Philippine Airlines,68
+2/20/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:18:00,6:15:00,6:35:00,8:05:00,Landed 7:53 AM,PR2932,Philippine Airlines,68
+2/19/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:20:00,6:15:00,6:42:00,8:05:00,Landed 8:03 AM,PR2932,Philippine Airlines,68
+2/18/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:17:00,6:15:00,6:52:00,8:05:00,Landed 8:10 AM,PR2932,Philippine Airlines,68
+2/17/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:18:00,6:15:00,7:05:00,8:05:00,Landed 8:24 AM,PR2932,Philippine Airlines,68
+2/15/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),-,6:15:00,6:18:00,8:05:00,Diverted to MNL,PR2932,Philippine Airlines,68
+2/14/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:30:00,6:15:00,6:35:00,8:05:00,Landed 8:06 AM,PR2932,Philippine Airlines,68
+2/13/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:19:00,6:15:00,6:15:00,8:05:00,Landed 7:34 AM,PR2932,Philippine Airlines,68
+2/12/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:22:00,6:15:00,6:49:00,8:05:00,Landed 8:12 AM,PR2932,Philippine Airlines,68
+2/11/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:18:00,6:15:00,6:39:00,8:05:00,Landed 7:58 AM,PR2932,Philippine Airlines,68
+2/10/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:26:00,6:15:00,6:39:00,8:05:00,Landed 8:06 AM,PR2932,Philippine Airlines,68
+2/9/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:19:00,6:15:00,6:35:00,8:05:00,Landed 7:55 AM,PR2932,Philippine Airlines,68
+2/7/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:22:00,6:15:00,6:25:00,8:05:00,Landed 7:48 AM,PR2932,Philippine Airlines,68
+2/6/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:19:00,6:15:00,6:12:00,8:05:00,Landed 7:32 AM,PR2932,Philippine Airlines,68
+2/5/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:03:00,6:15:00,6:19:00,8:05:00,Landed 7:23 AM,PR2932,Philippine Airlines,68
+2/4/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:18:00,6:15:00,6:21:00,8:05:00,Landed 7:40 AM,PR2932,Philippine Airlines,68
+2/3/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:20:00,6:15:00,6:31:00,8:05:00,Landed 7:52 AM,PR2932,Philippine Airlines,68
+2/2/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:27:00,6:15:00,6:21:00,8:05:00,Landed 7:49 AM,PR2932,Philippine Airlines,68
+2/1/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),-,6:15:00,6:48:00,8:05:00,Diverted to MNL,PR2932,Philippine Airlines,68
+1/31/2025 0:00,,Manila (MNL),DH8D (RP-C5912),-,,,10:54:00,Landed 10:54 AM,PR2932,Philippine Airlines,68
+1/31/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:23:00,6:15:00,7:17:00,8:05:00,Landed 8:41 AM,PR2932,Philippine Airlines,68
+1/30/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:24:00,6:15:00,6:24:00,8:05:00,Landed 7:48 AM,PR2932,Philippine Airlines,68
+1/29/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:22:00,6:15:00,6:44:00,8:05:00,Landed 8:07 AM,PR2932,Philippine Airlines,68
+1/28/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:20:00,6:15:00,6:20:00,8:05:00,Landed 7:40 AM,PR2932,Philippine Airlines,68
+1/27/2025 0:00,,Manila (MNL),DH8D (RP-C5905),-,,,9:59:00,Landed 9:59 AM,PR2932,Philippine Airlines,68
+1/27/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),-,6:15:00,6:32:00,8:05:00,Diverted to MNL,PR2932,Philippine Airlines,68
+1/26/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:17:00,6:15:00,6:22:00,8:05:00,Landed 7:40 AM,PR2932,Philippine Airlines,68
+1/25/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:03:00,6:15:00,6:26:00,8:05:00,Landed 7:29 AM,PR2932,Philippine Airlines,68
+1/24/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:21:00,6:15:00,6:41:00,8:05:00,Landed 8:02 AM,PR2932,Philippine Airlines,68
+1/23/2025 0:00,,Manila (MNL),DH8D (RP-C5901),-,,,10:11:00,Landed 10:11 AM,PR2932,Philippine Airlines,68
+1/23/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:24:00,6:15:00,6:23:00,8:05:00,Landed 7:48 AM,PR2932,Philippine Airlines,68
+1/22/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:18:00,6:15:00,6:41:00,8:05:00,Landed 8:00 AM,PR2932,Philippine Airlines,68
+1/21/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:14:00,6:15:00,6:21:00,8:05:00,Landed 7:36 AM,PR2932,Philippine Airlines,68
+1/20/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:22:00,6:15:00,6:28:00,8:05:00,Landed 7:50 AM,PR2932,Philippine Airlines,68
+1/19/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:23:00,6:15:00,6:17:00,8:05:00,Landed 7:40 AM,PR2932,Philippine Airlines,68
+1/18/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:27:00,6:15:00,6:31:00,8:05:00,Landed 7:59 AM,PR2932,Philippine Airlines,68
+1/17/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:22:00,6:15:00,6:33:00,8:05:00,Landed 7:55 AM,PR2932,Philippine Airlines,68
+1/15/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:20:00,6:15:00,6:17:00,8:05:00,Landed 7:37 AM,PR2932,Philippine Airlines,68
+1/14/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:15:00,6:15:00,6:16:00,8:05:00,Landed 7:32 AM,PR2932,Philippine Airlines,68
+1/13/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:18:00,6:15:00,6:16:00,8:05:00,Landed 7:34 AM,PR2932,Philippine Airlines,68
+1/12/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:14:00,6:15:00,6:34:00,8:05:00,Landed 7:49 AM,PR2932,Philippine Airlines,68
+1/11/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:19:00,6:15:00,7:01:00,8:05:00,Landed 8:20 AM,PR2932,Philippine Airlines,68
+1/9/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:19:00,6:15:00,6:18:00,8:05:00,Landed 7:37 AM,PR2932,Philippine Airlines,68
+1/8/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:18:00,6:15:00,6:23:00,8:05:00,Landed 7:42 AM,PR2932,Philippine Airlines,68
+1/7/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:22:00,6:15:00,6:28:00,8:05:00,Landed 7:50 AM,PR2932,Philippine Airlines,68
+1/6/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:15:00,6:15:00,7:24:00,8:05:00,Landed 8:40 AM,PR2932,Philippine Airlines,68
+1/5/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:17:00,6:15:00,6:15:00,8:05:00,Landed 7:33 AM,PR2932,Philippine Airlines,68
+1/4/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:05:00,6:15:00,7:34:00,8:05:00,Landed 8:39 AM,PR2932,Philippine Airlines,68
+1/3/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:16:00,6:15:00,7:06:00,8:05:00,Landed 8:22 AM,PR2932,Philippine Airlines,68
+1/2/2025 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:18:00,6:15:00,6:17:00,8:05:00,Landed 7:36 AM,PR2932,Philippine Airlines,68
+12/31/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:31:00,6:15:00,7:06:00,8:05:00,Landed 8:37 AM,PR2932,Philippine Airlines,68
+12/30/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:20:00,6:15:00,6:35:00,8:05:00,Landed 7:55 AM,PR2932,Philippine Airlines,68
+12/29/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:28:00,6:15:00,6:14:00,8:05:00,Landed 7:42 AM,PR2932,Philippine Airlines,68
+12/28/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),-,6:15:00,6:25:00,8:05:00,Diverted to MNL,PR2932,Philippine Airlines,68
+12/27/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:27:00,6:15:00,6:26:00,8:05:00,Landed 7:54 AM,PR2932,Philippine Airlines,68
+12/26/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:26:00,6:15:00,6:43:00,8:05:00,Landed 8:09 AM,PR2932,Philippine Airlines,68
+12/25/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:15:00,6:15:00,6:39:00,8:05:00,Landed 7:54 AM,PR2932,Philippine Airlines,68
+12/24/2024 0:00,,Manila (MNL),DH8D (RP-C5902),-,,,10:01:00,Landed 10:01 AM,PR2932,Philippine Airlines,68
+12/24/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:27:00,6:15:00,6:20:00,8:05:00,Landed 7:47 AM,PR2932,Philippine Airlines,68
+12/23/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:18:00,6:15:00,6:21:00,8:05:00,Landed 7:39 AM,PR2932,Philippine Airlines,68
+12/22/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:19:00,6:15:00,6:26:00,8:05:00,Landed 7:45 AM,PR2932,Philippine Airlines,68
+12/21/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:02:00,6:15:00,6:40:00,8:05:00,Landed 7:43 AM,PR2932,Philippine Airlines,68
+12/20/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:22:00,6:15:00,6:38:00,8:05:00,Landed 8:01 AM,PR2932,Philippine Airlines,68
+12/18/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:19:00,6:15:00,6:14:00,8:05:00,Landed 7:34 AM,PR2932,Philippine Airlines,68
+12/17/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:16:00,6:15:00,6:08:00,8:05:00,Landed 7:25 AM,PR2932,Philippine Airlines,68
+12/16/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:18:00,6:15:00,7:04:00,8:05:00,Landed 8:22 AM,PR2932,Philippine Airlines,68
+12/14/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:28:00,6:15:00,6:15:00,8:05:00,Landed 7:44 AM,PR2932,Philippine Airlines,68
+12/13/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:17:00,6:15:00,6:35:00,8:05:00,Landed 7:52 AM,PR2932,Philippine Airlines,68
+12/12/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:19:00,6:15:00,6:19:00,8:05:00,Landed 7:38 AM,PR2932,Philippine Airlines,68
+12/11/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:21:00,6:15:00,6:13:00,8:05:00,Landed 7:34 AM,PR2932,Philippine Airlines,68
+12/10/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,6:15:00,6:53:00,8:05:00,Landed 8:12 AM,PR2932,Philippine Airlines,68
+12/9/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:18:00,6:15:00,6:28:00,8:05:00,Landed 7:47 AM,PR2932,Philippine Airlines,68
+12/8/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:19:00,6:15:00,6:21:00,8:05:00,Landed 7:41 AM,PR2932,Philippine Airlines,68
+12/6/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:15:00,6:15:00,6:44:00,8:05:00,Landed 8:00 AM,PR2932,Philippine Airlines,68
+12/5/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:20:00,6:15:00,6:29:00,8:05:00,Landed 7:49 AM,PR2932,Philippine Airlines,68
+12/4/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:21:00,6:15:00,6:24:00,8:05:00,Landed 7:45 AM,PR2932,Philippine Airlines,68
+12/3/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:18:00,6:15:00,6:36:00,8:05:00,Landed 7:54 AM,PR2932,Philippine Airlines,68
+12/2/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:20:00,6:15:00,8:07:00,8:05:00,Landed 9:27 AM,PR2932,Philippine Airlines,68
+12/1/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:16:00,6:15:00,6:21:00,8:05:00,Landed 7:38 AM,PR2932,Philippine Airlines,68
+11/30/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:18:00,6:15:00,7:04:00,8:05:00,Landed 8:22 AM,PR2932,Philippine Airlines,68
+11/29/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:18:00,6:15:00,6:28:00,8:05:00,Landed 7:47 AM,PR2932,Philippine Airlines,68
+11/28/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:19:00,6:15:00,6:28:00,8:05:00,Landed 7:47 AM,PR2932,Philippine Airlines,68
+11/27/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:20:00,6:15:00,6:51:00,8:05:00,Landed 8:11 AM,PR2932,Philippine Airlines,68
+11/26/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:20:00,6:15:00,6:50:00,8:05:00,Landed 8:10 AM,PR2932,Philippine Airlines,68
+11/25/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:17:00,6:15:00,6:57:00,8:05:00,Landed 8:15 AM,PR2932,Philippine Airlines,68
+11/22/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:18:00,6:15:00,6:17:00,8:05:00,Landed 7:36 AM,PR2932,Philippine Airlines,68
+11/21/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:21:00,6:15:00,6:39:00,8:05:00,Landed 8:00 AM,PR2932,Philippine Airlines,68
+11/16/2024 0:00,,Manila (MNL),DH8D (RP-C5905),-,,,9:53:00,Landed 9:53 AM,PR2932,Philippine Airlines,68
+11/16/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,6:15:00,6:23:00,8:05:00,Landed 7:42 AM,PR2932,Philippine Airlines,68
+11/13/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:20:00,6:15:00,6:33:00,8:05:00,Landed 7:53 AM,PR2932,Philippine Airlines,68
+11/10/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:29:00,6:15:00,6:19:00,8:05:00,Landed 7:48 AM,PR2932,Philippine Airlines,68
+11/5/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:24:00,6:15:00,6:32:00,8:05:00,Landed 7:56 AM,PR2932,Philippine Airlines,68
+11/4/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:30:00,6:15:00,6:17:00,8:05:00,Landed 7:47 AM,PR2932,Philippine Airlines,68
+10/28/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:24:00,6:15:00,6:40:00,8:05:00,Landed 8:05 AM,PR2932,Philippine Airlines,68
+10/27/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:22:00,6:15:00,6:24:00,8:05:00,Landed 7:46 AM,PR2932,Philippine Airlines,68
+10/26/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:25:00,6:35:00,6:46:00,8:25:00,Landed 8:12 AM,PR2932,Philippine Airlines,68
+10/21/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:19:00,6:35:00,6:32:00,8:25:00,Landed 7:51 AM,PR2932,Philippine Airlines,68
+10/20/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:24:00,6:35:00,6:22:00,8:25:00,Landed 7:47 AM,PR2932,Philippine Airlines,68
+10/19/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:20:00,6:35:00,6:56:00,8:25:00,Landed 8:16 AM,PR2932,Philippine Airlines,68
+10/18/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:20:00,6:35:00,6:49:00,8:25:00,Landed 8:10 AM,PR2932,Philippine Airlines,68
+10/16/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:19:00,6:35:00,7:00:00,8:25:00,Landed 8:20 AM,PR2932,Philippine Airlines,68
+10/15/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:19:00,6:35:00,6:20:00,8:25:00,Landed 7:39 AM,PR2932,Philippine Airlines,68
+10/14/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:21:00,6:35:00,7:31:00,8:25:00,Landed 8:53 AM,PR2932,Philippine Airlines,68
+10/13/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:19:00,6:35:00,6:25:00,8:25:00,Landed 7:45 AM,PR2932,Philippine Airlines,68
+10/12/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:24:00,6:35:00,6:39:00,8:25:00,Landed 8:03 AM,PR2932,Philippine Airlines,68
+10/11/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:27:00,6:35:00,6:52:00,8:25:00,Landed 8:19 AM,PR2932,Philippine Airlines,68
+10/10/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:18:00,6:35:00,6:31:00,8:25:00,Landed 7:49 AM,PR2932,Philippine Airlines,68
+10/9/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:19:00,6:35:00,6:40:00,8:25:00,Landed 7:59 AM,PR2932,Philippine Airlines,68
+10/8/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:19:00,6:35:00,6:43:00,8:25:00,Landed 8:03 AM,PR2932,Philippine Airlines,68
+10/7/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:24:00,6:35:00,6:57:00,8:25:00,Landed 8:22 AM,PR2932,Philippine Airlines,68
+10/6/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:20:00,6:35:00,7:24:00,8:25:00,Landed 8:45 AM,PR2932,Philippine Airlines,68
+10/5/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:17:00,6:35:00,6:55:00,8:25:00,Landed 8:12 AM,PR2932,Philippine Airlines,68
+10/4/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:18:00,6:35:00,6:45:00,8:25:00,Landed 8:04 AM,PR2932,Philippine Airlines,68
+9/26/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:18:00,6:35:00,6:30:00,8:25:00,Landed 7:48 AM,PR2932,Philippine Airlines,68
+9/25/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:20:00,6:35:00,6:28:00,8:25:00,Landed 7:48 AM,PR2932,Philippine Airlines,68
+9/24/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:19:00,6:35:00,6:31:00,8:25:00,Landed 7:50 AM,PR2932,Philippine Airlines,68
+9/23/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:20:00,6:35:00,6:51:00,8:25:00,Landed 8:11 AM,PR2932,Philippine Airlines,68
+9/22/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:18:00,6:35:00,7:37:00,8:25:00,Landed 8:55 AM,PR2932,Philippine Airlines,68
+9/20/2024 0:00,,Manila (MNL),DH8D (RP-C5915),-,,,10:14:00,Landed 10:14 AM,PR2932,Philippine Airlines,68
+9/20/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:18:00,6:35:00,6:43:00,8:25:00,Landed 8:02 AM,PR2932,Philippine Airlines,68
+9/19/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:19:00,6:35:00,6:39:00,8:25:00,Landed 7:59 AM,PR2932,Philippine Airlines,68
+9/18/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:16:00,6:35:00,6:28:00,8:25:00,Landed 7:45 AM,PR2932,Philippine Airlines,68
+9/16/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:21:00,6:35:00,6:32:00,8:25:00,Landed 7:54 AM,PR2932,Philippine Airlines,68
+9/15/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,6:35:00,6:42:00,8:25:00,Landed 8:01 AM,PR2932,Philippine Airlines,68
+9/14/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:19:00,6:35:00,6:35:00,8:25:00,Landed 7:55 AM,PR2932,Philippine Airlines,68
+9/13/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:12:00,6:35:00,6:29:00,8:25:00,Landed 7:42 AM,PR2932,Philippine Airlines,68
+9/12/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:20:00,6:35:00,6:32:00,8:25:00,Landed 7:53 AM,PR2932,Philippine Airlines,68
+9/11/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:21:00,6:35:00,6:39:00,8:25:00,Landed 8:00 AM,PR2932,Philippine Airlines,68
+9/10/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:18:00,6:35:00,6:31:00,8:25:00,Landed 7:49 AM,PR2932,Philippine Airlines,68
+9/9/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:19:00,6:35:00,6:59:00,8:25:00,Landed 8:18 AM,PR2932,Philippine Airlines,68
+9/8/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:25:00,6:35:00,6:49:00,8:25:00,Landed 8:15 AM,PR2932,Philippine Airlines,68
+9/7/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:14:00,6:35:00,6:38:00,8:25:00,Landed 7:53 AM,PR2932,Philippine Airlines,68
+9/6/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:04:00,6:35:00,6:44:00,8:25:00,Landed 7:48 AM,PR2932,Philippine Airlines,68
+9/5/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:19:00,6:35:00,6:43:00,8:25:00,Landed 8:03 AM,PR2932,Philippine Airlines,68
+9/2/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:27:00,6:35:00,6:33:00,8:25:00,Landed 8:00 AM,PR2932,Philippine Airlines,68
+9/1/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:18:00,6:35:00,7:01:00,8:25:00,Landed 8:20 AM,PR2932,Philippine Airlines,68
+8/31/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:17:00,6:35:00,6:38:00,8:25:00,Landed 7:55 AM,PR2932,Philippine Airlines,68
+8/30/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:15:00,6:35:00,6:28:00,8:25:00,Landed 7:43 AM,PR2932,Philippine Airlines,68
+8/29/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:16:00,6:35:00,6:27:00,8:25:00,Landed 7:44 AM,PR2932,Philippine Airlines,68
+8/28/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:19:00,6:35:00,7:16:00,8:25:00,Landed 8:35 AM,PR2932,Philippine Airlines,68
+8/27/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:16:00,6:35:00,6:29:00,8:25:00,Landed 7:45 AM,PR2932,Philippine Airlines,68
+8/26/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:24:00,6:35:00,6:46:00,8:25:00,Landed 8:10 AM,PR2932,Philippine Airlines,68
+8/25/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:13:00,6:35:00,6:51:00,8:25:00,Landed 8:04 AM,PR2932,Philippine Airlines,68
+8/24/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:22:00,6:35:00,6:52:00,8:25:00,Landed 8:15 AM,PR2932,Philippine Airlines,68
+8/23/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:15:00,6:35:00,6:59:00,8:25:00,Landed 8:14 AM,PR2932,Philippine Airlines,68
+8/22/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:13:00,6:35:00,6:35:00,8:25:00,Landed 7:49 AM,PR2932,Philippine Airlines,68
+8/21/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:18:00,6:35:00,6:51:00,8:25:00,Landed 8:09 AM,PR2932,Philippine Airlines,68
+8/20/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:10:00,6:35:00,6:31:00,8:25:00,Landed 7:42 AM,PR2932,Philippine Airlines,68
+8/19/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:21:00,6:35:00,9:45:00,8:25:00,Landed 11:06 AM,PR2932,Philippine Airlines,68
+8/18/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:15:00,6:35:00,6:27:00,8:25:00,Landed 7:42 AM,PR2932,Philippine Airlines,68
+8/17/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:21:00,6:35:00,6:39:00,8:25:00,Landed 8:00 AM,PR2932,Philippine Airlines,68
+8/16/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:21:00,6:35:00,6:50:00,8:25:00,Landed 8:12 AM,PR2932,Philippine Airlines,68
+8/15/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:20:00,6:35:00,6:51:00,8:25:00,Landed 8:12 AM,PR2932,Philippine Airlines,68
+8/14/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:14:00,6:35:00,6:18:00,8:25:00,Landed 7:33 AM,PR2932,Philippine Airlines,68
+8/13/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:14:00,6:35:00,6:45:00,8:25:00,Landed 8:00 AM,PR2932,Philippine Airlines,68
+8/12/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:18:00,6:35:00,6:47:00,8:25:00,Landed 8:06 AM,PR2932,Philippine Airlines,68
+8/11/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),0:58:00,6:35:00,6:36:00,8:25:00,Landed 7:34 AM,PR2932,Philippine Airlines,68
+8/10/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),0:59:00,6:35:00,6:37:00,8:25:00,Landed 7:37 AM,PR2932,Philippine Airlines,68
+8/9/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:18:00,6:35:00,8:43:00,8:25:00,Landed 10:01 AM,PR2932,Philippine Airlines,68
+8/8/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:18:00,6:35:00,7:03:00,8:25:00,Landed 8:22 AM,PR2932,Philippine Airlines,68
+8/7/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:15:00,6:35:00,6:33:00,8:25:00,Landed 7:49 AM,PR2932,Philippine Airlines,68
+8/6/2024 0:00,,Manila (MNL),DH8D (RP-C5911),-,,,10:11:00,Landed 10:11 AM,PR2932,Philippine Airlines,68
+8/6/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:21:00,6:35:00,6:35:00,8:25:00,Landed 7:57 AM,PR2932,Philippine Airlines,68
+8/5/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:25:00,6:35:00,6:50:00,8:25:00,Landed 8:16 AM,PR2932,Philippine Airlines,68
+8/4/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:15:00,6:35:00,6:41:00,8:25:00,Landed 7:56 AM,PR2932,Philippine Airlines,68
+8/3/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:19:00,6:35:00,6:49:00,8:25:00,Landed 8:08 AM,PR2932,Philippine Airlines,68
+8/2/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:24:00,6:35:00,6:36:00,8:25:00,Landed 8:00 AM,PR2932,Philippine Airlines,68
+8/1/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:39:00,6:35:00,6:40:00,8:25:00,Landed 8:19 AM,PR2932,Philippine Airlines,68
+7/31/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:21:00,6:35:00,6:49:00,8:25:00,Landed 8:10 AM,PR2932,Philippine Airlines,68
+7/30/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:18:00,6:35:00,6:46:00,8:25:00,Landed 8:04 AM,PR2932,Philippine Airlines,68
+7/28/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:20:00,6:35:00,6:43:00,8:25:00,Landed 8:04 AM,PR2932,Philippine Airlines,68
+7/27/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:15:00,6:35:00,6:58:00,8:25:00,Landed 8:14 AM,PR2932,Philippine Airlines,68
+7/21/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:24:00,6:35:00,6:28:00,8:25:00,Landed 7:52 AM,PR2932,Philippine Airlines,68
+7/20/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:15:00,6:35:00,6:30:00,8:25:00,Landed 7:46 AM,PR2932,Philippine Airlines,68
+7/19/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:22:00,6:35:00,6:59:00,8:25:00,Landed 8:21 AM,PR2932,Philippine Airlines,68
+7/18/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:26:00,6:35:00,7:01:00,8:25:00,Landed 8:28 AM,PR2932,Philippine Airlines,68
+7/17/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:13:00,6:35:00,6:46:00,8:25:00,Landed 7:59 AM,PR2932,Philippine Airlines,68
+7/16/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:16:00,6:35:00,6:40:00,8:25:00,Landed 7:57 AM,PR2932,Philippine Airlines,68
+7/15/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:21:00,6:35:00,7:08:00,8:25:00,Landed 8:29 AM,PR2932,Philippine Airlines,68
+7/14/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:16:00,6:35:00,9:37:00,8:25:00,Landed 10:53 AM,PR2932,Philippine Airlines,68
+7/13/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:16:00,6:35:00,6:40:00,8:25:00,Landed 7:57 AM,PR2932,Philippine Airlines,68
+7/12/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:19:00,6:35:00,6:50:00,8:25:00,Landed 8:09 AM,PR2932,Philippine Airlines,68
+7/11/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:22:00,6:35:00,7:00:00,8:25:00,Landed 8:23 AM,PR2932,Philippine Airlines,68
+7/10/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:23:00,6:35:00,6:45:00,8:25:00,Landed 8:09 AM,PR2932,Philippine Airlines,68
+7/9/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:11:00,6:35:00,6:42:00,8:25:00,Landed 7:54 AM,PR2932,Philippine Airlines,68
+7/8/2024 0:00,,Manila (MNL),DH8D (RP-C5906),-,,,10:13:00,Landed 10:13 AM,PR2932,Philippine Airlines,68
+7/8/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:13:00,6:35:00,6:35:00,8:25:00,Landed 7:48 AM,PR2932,Philippine Airlines,68
+7/7/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:17:00,6:35:00,6:46:00,8:25:00,Landed 8:03 AM,PR2932,Philippine Airlines,68
+7/6/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:21:00,6:35:00,6:56:00,8:25:00,Landed 8:17 AM,PR2932,Philippine Airlines,68
+7/5/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:26:00,6:35:00,6:48:00,8:25:00,Landed 8:14 AM,PR2932,Philippine Airlines,68
+7/3/2024 0:00,,Manila (MNL),DH8D (RP-C5911),-,,,10:25:00,Landed 10:25 AM,PR2932,Philippine Airlines,68
+7/3/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:18:00,6:35:00,6:32:00,8:25:00,Landed 7:50 AM,PR2932,Philippine Airlines,68
+7/1/2024 0:00,,Manila (MNL),DH8D (RP-C5911),-,,,10:44:00,Landed 10:44 AM,PR2932,Philippine Airlines,68
+7/1/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:31:00,6:35:00,6:55:00,8:25:00,Landed 8:26 AM,PR2932,Philippine Airlines,68
+6/30/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:22:00,6:35:00,6:30:00,8:25:00,Landed 7:52 AM,PR2932,Philippine Airlines,68
+6/29/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:20:00,6:35:00,6:42:00,8:25:00,Landed 8:02 AM,PR2932,Philippine Airlines,68
+6/28/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:24:00,6:35:00,6:26:00,8:25:00,Landed 7:51 AM,PR2932,Philippine Airlines,68
+6/27/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:03:00,6:35:00,9:22:00,8:25:00,Landed 10:26 AM,PR2932,Philippine Airlines,68
+6/26/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:22:00,6:35:00,6:39:00,8:25:00,Landed 8:01 AM,PR2932,Philippine Airlines,68
+6/25/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:17:00,6:35:00,6:52:00,8:25:00,Landed 8:09 AM,PR2932,Philippine Airlines,68
+6/24/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:26:00,6:35:00,6:41:00,8:25:00,Landed 8:07 AM,PR2932,Philippine Airlines,68
+6/23/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:20:00,6:35:00,6:43:00,8:25:00,Landed 8:03 AM,PR2932,Philippine Airlines,68
+6/22/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:21:00,6:35:00,9:44:00,8:25:00,Landed 11:05 AM,PR2932,Philippine Airlines,68
+6/21/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:21:00,6:35:00,9:00:00,8:25:00,Landed 10:21 AM,PR2932,Philippine Airlines,68
+6/20/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:06:00,6:35:00,7:04:00,8:25:00,Landed 8:10 AM,PR2932,Philippine Airlines,68
+6/19/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:14:00,6:35:00,6:40:00,8:25:00,Landed 7:54 AM,PR2932,Philippine Airlines,68
+6/18/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:15:00,6:35:00,7:01:00,8:25:00,Landed 8:17 AM,PR2932,Philippine Airlines,68
+6/17/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:18:00,6:35:00,6:51:00,8:25:00,Landed 8:09 AM,PR2932,Philippine Airlines,68
+6/16/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:18:00,6:35:00,6:55:00,8:25:00,Landed 8:13 AM,PR2932,Philippine Airlines,68
+6/15/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),-,6:35:00,6:44:00,8:25:00,Diverted to MNL,PR2932,Philippine Airlines,68
+6/14/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:17:00,6:35:00,7:02:00,8:25:00,Landed 8:19 AM,PR2932,Philippine Airlines,68
+6/13/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:16:00,6:35:00,7:18:00,8:25:00,Landed 8:35 AM,PR2932,Philippine Airlines,68
+6/12/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:20:00,6:35:00,6:37:00,8:25:00,Landed 7:58 AM,PR2932,Philippine Airlines,68
+6/11/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:18:00,6:35:00,6:57:00,8:25:00,Landed 8:16 AM,PR2932,Philippine Airlines,68
+6/10/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:20:00,6:35:00,6:44:00,8:25:00,Landed 8:04 AM,PR2932,Philippine Airlines,68
+6/9/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:17:00,6:35:00,6:44:00,8:25:00,Landed 8:02 AM,PR2932,Philippine Airlines,68
+6/8/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:23:00,6:35:00,6:58:00,8:25:00,Landed 8:22 AM,PR2932,Philippine Airlines,68
+6/7/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:21:00,6:35:00,7:05:00,8:25:00,Landed 8:27 AM,PR2932,Philippine Airlines,68
+6/6/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:23:00,6:35:00,7:10:00,8:25:00,Landed 8:33 AM,PR2932,Philippine Airlines,68
+6/5/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:22:00,6:35:00,6:51:00,8:25:00,Landed 8:14 AM,PR2932,Philippine Airlines,68
+6/4/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:21:00,6:35:00,6:37:00,8:25:00,Landed 7:59 AM,PR2932,Philippine Airlines,68
+6/2/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:19:00,6:35:00,6:35:00,8:25:00,Landed 7:54 AM,PR2932,Philippine Airlines,68
+6/1/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:22:00,6:35:00,6:41:00,8:25:00,Landed 8:04 AM,PR2932,Philippine Airlines,68
+5/31/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:19:00,6:40:00,6:39:00,8:30:00,Landed 7:59 AM,PR2932,Philippine Airlines,68
+5/30/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:18:00,6:40:00,6:47:00,8:30:00,Landed 8:05 AM,PR2932,Philippine Airlines,68
+5/29/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:21:00,6:40:00,7:14:00,8:30:00,Landed 8:35 AM,PR2932,Philippine Airlines,68
+5/28/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:23:00,6:40:00,7:02:00,8:30:00,Landed 8:24 AM,PR2932,Philippine Airlines,68
+5/27/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:25:00,6:40:00,6:35:00,8:30:00,Landed 8:00 AM,PR2932,Philippine Airlines,68
+5/26/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:23:00,6:40:00,7:03:00,8:30:00,Landed 8:26 AM,PR2932,Philippine Airlines,68
+5/25/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:20:00,6:40:00,6:53:00,8:30:00,Landed 8:14 AM,PR2932,Philippine Airlines,68
+5/24/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:17:00,6:40:00,7:28:00,8:30:00,Landed 8:46 AM,PR2932,Philippine Airlines,68
+5/23/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:18:00,6:40:00,7:14:00,8:30:00,Landed 8:32 AM,PR2932,Philippine Airlines,68
+5/22/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:22:00,6:40:00,7:08:00,8:30:00,Landed 8:31 AM,PR2932,Philippine Airlines,68
+5/21/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:20:00,6:40:00,6:47:00,8:30:00,Landed 8:07 AM,PR2932,Philippine Airlines,68
+5/20/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:17:00,6:40:00,6:52:00,8:30:00,Landed 8:09 AM,PR2932,Philippine Airlines,68
+5/19/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:21:00,6:40:00,6:33:00,8:30:00,Landed 7:55 AM,PR2932,Philippine Airlines,68
+5/18/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),-,6:40:00,6:38:00,8:30:00,Diverted to MNL,PR2932,Philippine Airlines,68
+5/17/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:21:00,6:40:00,6:45:00,8:30:00,Landed 8:07 AM,PR2932,Philippine Airlines,68
+5/16/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:23:00,6:40:00,7:13:00,8:30:00,Landed 8:37 AM,PR2932,Philippine Airlines,68
+5/15/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:21:00,6:40:00,7:06:00,8:30:00,Landed 8:27 AM,PR2932,Philippine Airlines,68
+5/14/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:16:00,6:40:00,6:50:00,8:30:00,Landed 8:07 AM,PR2932,Philippine Airlines,68
+5/13/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:16:00,6:40:00,6:46:00,8:30:00,Landed 8:02 AM,PR2932,Philippine Airlines,68
+5/12/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:21:00,6:40:00,6:42:00,8:30:00,Landed 8:02 AM,PR2932,Philippine Airlines,68
+5/11/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:20:00,6:40:00,6:56:00,8:30:00,Landed 8:16 AM,PR2932,Philippine Airlines,68
+5/10/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:19:00,6:40:00,6:55:00,8:30:00,Landed 8:14 AM,PR2932,Philippine Airlines,68
+5/9/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:21:00,6:40:00,7:00:00,8:30:00,Landed 8:21 AM,PR2932,Philippine Airlines,68
+5/8/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:17:00,6:40:00,6:39:00,8:30:00,Landed 7:57 AM,PR2932,Philippine Airlines,68
+5/7/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:21:00,6:40:00,6:42:00,8:30:00,Landed 8:03 AM,PR2932,Philippine Airlines,68
+5/6/2024 0:00,Manila (MNL),Manila (MNL),DH8D (RP-C5915),-,10:07:00,,10:07:00,Landed 10:07 AM,PR2932,Philippine Airlines,68
+5/6/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:24:00,6:40:00,6:41:00,8:30:00,Landed 8:04 AM,PR2932,Philippine Airlines,68
+5/5/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:14:00,6:40:00,6:45:00,8:30:00,Landed 7:59 AM,PR2932,Philippine Airlines,68
+5/4/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:19:00,6:40:00,6:35:00,8:30:00,Landed 7:54 AM,PR2932,Philippine Airlines,68
+5/3/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:25:00,6:40:00,6:52:00,8:30:00,Landed 8:18 AM,PR2932,Philippine Airlines,68
+5/2/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:22:00,6:40:00,6:49:00,8:30:00,Landed 8:11 AM,PR2932,Philippine Airlines,68
+5/1/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:20:00,6:40:00,6:39:00,8:30:00,Landed 8:00 AM,PR2932,Philippine Airlines,68
+4/30/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:21:00,6:40:00,6:51:00,8:30:00,Landed 8:12 AM,PR2932,Philippine Airlines,68
+4/29/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:20:00,6:40:00,6:53:00,8:30:00,Landed 8:14 AM,PR2932,Philippine Airlines,68
+4/28/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:19:00,6:40:00,6:52:00,8:30:00,Landed 8:12 AM,PR2932,Philippine Airlines,68
+4/27/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:20:00,6:40:00,7:13:00,8:30:00,Landed 8:33 AM,PR2932,Philippine Airlines,68
+4/26/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:21:00,6:40:00,7:06:00,8:30:00,Landed 8:27 AM,PR2932,Philippine Airlines,68
+4/25/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:23:00,6:40:00,6:50:00,8:30:00,Landed 8:14 AM,PR2932,Philippine Airlines,68
+4/24/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:22:00,6:40:00,7:12:00,8:30:00,Landed 8:34 AM,PR2932,Philippine Airlines,68
+4/23/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:18:00,6:40:00,6:57:00,8:30:00,Landed 8:16 AM,PR2932,Philippine Airlines,68
+4/22/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,6:40:00,8:45:00,8:30:00,Landed 10:05 AM,PR2932,Philippine Airlines,68
+4/21/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:21:00,6:40:00,10:15:00,8:30:00,Landed 11:35 AM,PR2932,Philippine Airlines,68
+4/20/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:20:00,6:40:00,6:54:00,8:30:00,Landed 8:14 AM,PR2932,Philippine Airlines,68
+4/19/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:23:00,6:40:00,6:56:00,8:30:00,Landed 8:19 AM,PR2932,Philippine Airlines,68
+4/18/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:17:00,6:40:00,7:03:00,8:30:00,Landed 8:21 AM,PR2932,Philippine Airlines,68
+4/17/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:17:00,6:40:00,6:54:00,8:30:00,Landed 8:11 AM,PR2932,Philippine Airlines,68
+4/16/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:23:00,6:40:00,6:44:00,8:30:00,Landed 8:07 AM,PR2932,Philippine Airlines,68
+4/15/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:23:00,6:40:00,7:38:00,8:30:00,Landed 9:01 AM,PR2932,Philippine Airlines,68
+4/14/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:23:00,6:40:00,6:52:00,8:30:00,Landed 8:16 AM,PR2932,Philippine Airlines,68
+4/13/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:22:00,6:40:00,6:38:00,8:30:00,Landed 8:00 AM,PR2932,Philippine Airlines,68
+4/12/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:23:00,6:40:00,7:03:00,8:30:00,Landed 8:27 AM,PR2932,Philippine Airlines,68
+4/11/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:26:00,6:40:00,6:46:00,8:30:00,Landed 8:13 AM,PR2932,Philippine Airlines,68
+4/10/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:29:00,6:40:00,7:07:00,8:30:00,Landed 8:37 AM,PR2932,Philippine Airlines,68
+4/9/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:30:00,6:40:00,7:07:00,8:30:00,Landed 8:38 AM,PR2932,Philippine Airlines,68
+4/8/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:20:00,6:40:00,6:45:00,8:30:00,Landed 8:06 AM,PR2932,Philippine Airlines,68
+4/7/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:21:00,6:40:00,6:46:00,8:30:00,Landed 8:07 AM,PR2932,Philippine Airlines,68
+4/6/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:22:00,6:40:00,6:40:00,8:30:00,Landed 8:03 AM,PR2932,Philippine Airlines,68
+4/5/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,6:40:00,7:26:00,8:30:00,Landed 8:45 AM,PR2932,Philippine Airlines,68
+4/4/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:18:00,6:40:00,7:03:00,8:30:00,Landed 8:21 AM,PR2932,Philippine Airlines,68
+4/3/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:16:00,6:40:00,8:24:00,8:30:00,Landed 9:41 AM,PR2932,Philippine Airlines,68
+4/2/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:18:00,6:40:00,7:18:00,8:30:00,Landed 8:36 AM,PR2932,Philippine Airlines,68
+4/1/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:18:00,6:40:00,6:57:00,8:30:00,Landed 8:15 AM,PR2932,Philippine Airlines,68
+3/31/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:17:00,6:40:00,6:43:00,8:30:00,Landed 8:01 AM,PR2932,Philippine Airlines,68
+3/30/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:14:00,6:15:00,6:27:00,7:55:00,Landed 7:42 AM,PR2932,Philippine Airlines,68
+3/29/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:12:00,6:15:00,6:13:00,7:55:00,Landed 7:25 AM,PR2932,Philippine Airlines,68
+3/28/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:17:00,6:15:00,8:08:00,7:55:00,Landed 9:24 AM,PR2932,Philippine Airlines,68
+3/27/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:19:00,6:15:00,6:10:00,7:55:00,Landed 7:29 AM,PR2932,Philippine Airlines,68
+3/26/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:16:00,6:15:00,6:19:00,7:55:00,Landed 7:36 AM,PR2932,Philippine Airlines,68
+3/25/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:18:00,6:15:00,6:03:00,7:55:00,Landed 7:21 AM,PR2932,Philippine Airlines,68
+3/24/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,6:15:00,6:16:00,7:55:00,Landed 7:35 AM,PR2932,Philippine Airlines,68
+3/23/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:19:00,6:15:00,6:13:00,7:55:00,Landed 7:33 AM,PR2932,Philippine Airlines,68
+3/22/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:21:00,6:15:00,6:12:00,7:55:00,Landed 7:34 AM,PR2932,Philippine Airlines,68
+3/21/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:21:00,6:15:00,6:17:00,7:55:00,Landed 7:38 AM,PR2932,Philippine Airlines,68
+3/20/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:19:00,6:15:00,6:27:00,7:55:00,Landed 7:46 AM,PR2932,Philippine Airlines,68
+3/19/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:18:00,6:15:00,6:11:00,7:55:00,Landed 7:30 AM,PR2932,Philippine Airlines,68
+3/18/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:25:00,6:15:00,6:29:00,7:55:00,Landed 7:54 AM,PR2932,Philippine Airlines,68
+3/17/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:17:00,6:15:00,6:19:00,7:55:00,Landed 7:37 AM,PR2932,Philippine Airlines,68
+3/16/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:21:00,6:15:00,6:22:00,7:55:00,Landed 7:44 AM,PR2932,Philippine Airlines,68
+3/15/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:21:00,6:15:00,6:17:00,7:55:00,Landed 7:38 AM,PR2932,Philippine Airlines,68
+3/14/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:22:00,6:15:00,6:25:00,7:55:00,Landed 7:47 AM,PR2932,Philippine Airlines,68
+3/13/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:23:00,6:15:00,7:00:00,7:55:00,Landed 8:23 AM,PR2932,Philippine Airlines,68
+3/12/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:19:00,6:15:00,7:09:00,7:55:00,Landed 8:28 AM,PR2932,Philippine Airlines,68
+3/11/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:20:00,6:15:00,6:31:00,7:55:00,Landed 7:51 AM,PR2932,Philippine Airlines,68
+3/10/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:22:00,6:15:00,6:21:00,7:55:00,Landed 7:44 AM,PR2932,Philippine Airlines,68
+3/9/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:21:00,6:15:00,6:20:00,7:55:00,Landed 7:42 AM,PR2932,Philippine Airlines,68
+3/8/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:24:00,6:15:00,6:22:00,7:55:00,Landed 7:47 AM,PR2932,Philippine Airlines,68
+3/7/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:19:00,6:15:00,6:26:00,7:55:00,Landed 7:46 AM,PR2932,Philippine Airlines,68
+3/6/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:22:00,6:15:00,6:24:00,7:55:00,Landed 7:46 AM,PR2932,Philippine Airlines,68
+3/5/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:23:00,6:15:00,6:35:00,7:55:00,Landed 7:58 AM,PR2932,Philippine Airlines,68
+3/4/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:19:00,6:15:00,6:42:00,7:55:00,Landed 8:02 AM,PR2932,Philippine Airlines,68
+3/3/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:24:00,6:15:00,6:13:00,7:55:00,Landed 7:38 AM,PR2932,Philippine Airlines,68
+3/2/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:24:00,6:15:00,6:42:00,7:55:00,Landed 8:07 AM,PR2932,Philippine Airlines,68
+3/1/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:15:00,6:15:00,6:53:00,7:55:00,Landed 8:09 AM,PR2932,Philippine Airlines,68
+2/29/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:20:00,6:15:00,6:33:00,7:55:00,Landed 7:54 AM,PR2932,Philippine Airlines,68
+2/28/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:20:00,6:15:00,6:28:00,7:55:00,Landed 7:49 AM,PR2932,Philippine Airlines,68
+2/26/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:34:00,6:15:00,6:16:00,7:55:00,Landed 7:50 AM,PR2932,Philippine Airlines,68
+2/25/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),-,6:23:00,,,Unknown,PR2932,Philippine Airlines,68
+2/24/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:18:00,6:15:00,6:27:00,7:55:00,Landed 7:45 AM,PR2932,Philippine Airlines,68
+2/22/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:15:00,6:15:00,6:24:00,7:55:00,Landed 7:39 AM,PR2932,Philippine Airlines,68
+2/21/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:13:00,6:15:00,6:19:00,7:55:00,Landed 7:33 AM,PR2932,Philippine Airlines,68
+2/20/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:16:00,6:15:00,6:26:00,7:55:00,Landed 7:42 AM,PR2932,Philippine Airlines,68
+2/19/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:18:00,6:15:00,6:11:00,7:55:00,Landed 7:30 AM,PR2932,Philippine Airlines,68
+2/18/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:17:00,6:15:00,6:21:00,7:55:00,Landed 7:39 AM,PR2932,Philippine Airlines,68
+2/17/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:20:00,6:15:00,6:39:00,7:55:00,Landed 7:59 AM,PR2932,Philippine Airlines,68
+2/16/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:17:00,6:15:00,6:17:00,7:55:00,Landed 7:34 AM,PR2932,Philippine Airlines,68
+2/15/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:20:00,6:15:00,6:36:00,7:55:00,Landed 7:56 AM,PR2932,Philippine Airlines,68
+2/14/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:14:00,6:15:00,6:25:00,7:55:00,Landed 7:40 AM,PR2932,Philippine Airlines,68
+2/13/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:17:00,6:15:00,6:21:00,7:55:00,Landed 7:39 AM,PR2932,Philippine Airlines,68
+2/12/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:23:00,6:15:00,6:32:00,7:55:00,Landed 7:56 AM,PR2932,Philippine Airlines,68
+2/11/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:17:00,6:15:00,6:24:00,7:55:00,Landed 7:41 AM,PR2932,Philippine Airlines,68
+2/10/2024 0:00,,Manila (MNL),DH8D (RP-C5912),-,,,9:49:00,Landed 9:49 AM,PR2932,Philippine Airlines,68
+2/10/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:17:00,6:15:00,6:21:00,7:55:00,Landed 7:39 AM,PR2932,Philippine Airlines,68
+2/9/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:21:00,6:15:00,6:29:00,7:55:00,Landed 7:50 AM,PR2932,Philippine Airlines,68
+2/8/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:24:00,6:15:00,6:19:00,7:55:00,Landed 7:43 AM,PR2932,Philippine Airlines,68
+2/7/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,6:15:00,6:58:00,7:55:00,Landed 8:18 AM,PR2932,Philippine Airlines,68
+2/6/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:17:00,6:15:00,6:16:00,7:55:00,Landed 7:33 AM,PR2932,Philippine Airlines,68
+2/5/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:15:00,6:15:00,6:36:00,7:55:00,Landed 7:52 AM,PR2932,Philippine Airlines,68
+2/4/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:13:00,6:15:00,6:13:00,7:55:00,Landed 7:27 AM,PR2932,Philippine Airlines,68
+2/3/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:12:00,6:15:00,6:10:00,7:55:00,Landed 7:22 AM,PR2932,Philippine Airlines,68
+2/2/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:19:00,6:15:00,6:34:00,7:55:00,Landed 7:54 AM,PR2932,Philippine Airlines,68
+2/1/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:19:00,6:15:00,6:40:00,7:55:00,Landed 7:59 AM,PR2932,Philippine Airlines,68
+1/31/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:16:00,6:15:00,6:15:00,7:55:00,Landed 7:32 AM,PR2932,Philippine Airlines,68
+1/30/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:14:00,6:15:00,6:22:00,7:55:00,Landed 7:37 AM,PR2932,Philippine Airlines,68
+1/29/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,6:15:00,6:20:00,7:55:00,Landed 7:39 AM,PR2932,Philippine Airlines,68
+1/28/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:13:00,6:15:00,6:08:00,7:55:00,Landed 7:22 AM,PR2932,Philippine Airlines,68
+1/27/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:15:00,6:15:00,6:04:00,7:55:00,Landed 7:19 AM,PR2932,Philippine Airlines,68
+1/26/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:14:00,6:15:00,6:27:00,7:55:00,Landed 7:41 AM,PR2932,Philippine Airlines,68
+1/25/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:20:00,6:15:00,6:28:00,7:55:00,Landed 7:49 AM,PR2932,Philippine Airlines,68
+1/24/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:19:00,6:15:00,6:35:00,7:55:00,Landed 7:54 AM,PR2932,Philippine Airlines,68
+1/23/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:29:00,6:15:00,7:13:00,7:55:00,Landed 8:42 AM,PR2932,Philippine Airlines,68
+1/22/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:18:00,6:15:00,6:12:00,7:55:00,Landed 7:31 AM,PR2932,Philippine Airlines,68
+1/21/2024 0:00,Manila (MNL),Manila (MNL),DH8D (RP-C5903),-,9:44:00,,9:44:00,Landed 9:44 AM,PR2932,Philippine Airlines,68
+1/21/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:21:00,6:15:00,6:18:00,7:55:00,Landed 7:39 AM,PR2932,Philippine Airlines,68
+1/20/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:16:00,6:15:00,6:11:00,7:55:00,Landed 7:27 AM,PR2932,Philippine Airlines,68
+1/19/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:17:00,6:15:00,6:02:00,7:55:00,Landed 7:20 AM,PR2932,Philippine Airlines,68
+1/18/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:18:00,6:15:00,6:03:00,7:55:00,Landed 7:22 AM,PR2932,Philippine Airlines,68
+1/17/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:13:00,6:15:00,6:33:00,7:55:00,Landed 7:47 AM,PR2932,Philippine Airlines,68
+1/16/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:18:00,6:15:00,6:19:00,7:55:00,Landed 7:38 AM,PR2932,Philippine Airlines,68
+1/15/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:11:00,6:15:00,6:38:00,7:55:00,Landed 7:50 AM,PR2932,Philippine Airlines,68
+1/14/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:17:00,6:15:00,6:18:00,7:55:00,Landed 7:35 AM,PR2932,Philippine Airlines,68
+1/13/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:14:00,6:15:00,6:12:00,7:55:00,Landed 7:27 AM,PR2932,Philippine Airlines,68
+1/12/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:23:00,6:15:00,6:27:00,7:55:00,Landed 7:50 AM,PR2932,Philippine Airlines,68
+1/11/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:23:00,6:15:00,6:30:00,7:55:00,Landed 7:53 AM,PR2932,Philippine Airlines,68
+1/10/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:39:00,6:15:00,5:59:00,7:55:00,Landed 7:39 AM,PR2932,Philippine Airlines,68
+1/9/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:18:00,6:15:00,6:16:00,7:55:00,Landed 7:35 AM,PR2932,Philippine Airlines,68
+1/8/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:18:00,6:15:00,6:14:00,7:55:00,Landed 7:33 AM,PR2932,Philippine Airlines,68
+1/7/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:15:00,6:15:00,6:27:00,7:55:00,Landed 7:43 AM,PR2932,Philippine Airlines,68
+1/6/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:14:00,6:15:00,6:20:00,7:55:00,Landed 7:34 AM,PR2932,Philippine Airlines,68
+1/5/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:24:00,6:15:00,6:17:00,7:55:00,Landed 7:41 AM,PR2932,Philippine Airlines,68
+1/4/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:18:00,6:15:00,6:10:00,7:55:00,Landed 7:28 AM,PR2932,Philippine Airlines,68
+1/3/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:20:00,6:15:00,6:41:00,7:55:00,Landed 8:01 AM,PR2932,Philippine Airlines,68
+1/2/2024 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:17:00,6:15:00,6:31:00,7:55:00,Landed 7:48 AM,PR2932,Philippine Airlines,68
+12/31/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:15:00,6:15:00,6:19:00,7:55:00,Landed 7:34 AM,PR2932,Philippine Airlines,68
+12/30/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:16:00,6:15:00,6:12:00,7:55:00,Landed 7:29 AM,PR2932,Philippine Airlines,68
+12/29/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:14:00,6:15:00,6:36:00,7:55:00,Landed 7:51 AM,PR2932,Philippine Airlines,68
+12/28/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:20:00,6:15:00,6:11:00,7:55:00,Landed 7:31 AM,PR2932,Philippine Airlines,68
+12/27/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:15:00,6:15:00,6:31:00,7:55:00,Landed 7:47 AM,PR2932,Philippine Airlines,68
+12/26/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:17:00,6:15:00,7:44:00,7:55:00,Landed 9:02 AM,PR2932,Philippine Airlines,68
+12/25/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:20:00,6:15:00,6:46:00,7:55:00,Landed 8:06 AM,PR2932,Philippine Airlines,68
+12/24/2023 0:00,,Manila (MNL),DH8D (RP-C5905),-,,,11:17:00,Landed 11:17 AM,PR2932,Philippine Airlines,68
+12/24/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:22:00,6:15:00,6:39:00,7:55:00,Landed 8:01 AM,PR2932,Philippine Airlines,68
+12/23/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:20:00,6:15:00,6:58:00,7:55:00,Landed 8:18 AM,PR2932,Philippine Airlines,68
+12/20/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:24:00,6:15:00,7:34:00,7:55:00,Landed 8:58 AM,PR2932,Philippine Airlines,68
+12/19/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:21:00,6:15:00,6:29:00,7:55:00,Landed 7:50 AM,PR2932,Philippine Airlines,68
+12/18/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:21:00,6:15:00,6:29:00,7:55:00,Landed 7:50 AM,PR2932,Philippine Airlines,68
+12/17/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:40:00,6:15:00,6:50:00,7:55:00,Landed 8:31 AM,PR2932,Philippine Airlines,68
+12/16/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5912),1:16:00,6:15:00,6:31:00,7:55:00,Landed 7:47 AM,PR2932,Philippine Airlines,68
+12/15/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),0:59:00,6:15:00,6:39:00,7:55:00,Landed 7:39 AM,PR2932,Philippine Airlines,68
+12/14/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:19:00,6:15:00,6:30:00,7:55:00,Landed 7:49 AM,PR2932,Philippine Airlines,68
+12/13/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:21:00,6:15:00,6:27:00,7:55:00,Landed 7:48 AM,PR2932,Philippine Airlines,68
+12/12/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:20:00,6:15:00,6:27:00,7:55:00,Landed 7:47 AM,PR2932,Philippine Airlines,68
+12/11/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:21:00,6:15:00,6:36:00,7:55:00,Landed 7:57 AM,PR2932,Philippine Airlines,68
+12/10/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:20:00,6:15:00,6:44:00,7:55:00,Landed 8:05 AM,PR2932,Philippine Airlines,68
+12/9/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:17:00,6:15:00,6:19:00,7:55:00,Landed 7:36 AM,PR2932,Philippine Airlines,68
+12/8/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:30:00,6:15:00,6:29:00,7:55:00,Landed 7:59 AM,PR2932,Philippine Airlines,68
+12/7/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:17:00,6:15:00,6:08:00,7:55:00,Landed 7:26 AM,PR2932,Philippine Airlines,68
+12/6/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:21:00,6:15:00,6:12:00,7:55:00,Landed 7:33 AM,PR2932,Philippine Airlines,68
+12/5/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:16:00,6:15:00,6:27:00,7:55:00,Landed 7:44 AM,PR2932,Philippine Airlines,68
+12/4/2023 0:00,,Manila (MNL),DH8D (RP-C5902),-,,,9:44:00,Landed 9:44 AM,PR2932,Philippine Airlines,68
+12/4/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:17:00,6:15:00,6:23:00,7:55:00,Landed 7:40 AM,PR2932,Philippine Airlines,68
+12/3/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:26:00,6:15:00,6:17:00,7:55:00,Landed 7:44 AM,PR2932,Philippine Airlines,68
+12/2/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:31:00,6:15:00,6:16:00,7:55:00,Landed 7:47 AM,PR2932,Philippine Airlines,68
+12/1/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:17:00,6:15:00,6:11:00,7:55:00,Landed 7:29 AM,PR2932,Philippine Airlines,68
+11/30/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:22:00,6:15:00,6:21:00,7:55:00,Landed 7:43 AM,PR2932,Philippine Airlines,68
+11/29/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:22:00,6:15:00,6:31:00,7:55:00,Landed 7:53 AM,PR2932,Philippine Airlines,68
+11/28/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:22:00,6:15:00,7:11:00,7:55:00,Landed 8:34 AM,PR2932,Philippine Airlines,68
+11/27/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:20:00,6:15:00,6:28:00,7:55:00,Landed 7:49 AM,PR2932,Philippine Airlines,68
+11/26/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:25:00,6:15:00,6:20:00,7:55:00,Landed 7:46 AM,PR2932,Philippine Airlines,68
+11/25/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:18:00,6:15:00,6:15:00,7:55:00,Landed 7:33 AM,PR2932,Philippine Airlines,68
+11/24/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:03:00,6:15:00,6:07:00,7:55:00,Landed 7:10 AM,PR2932,Philippine Airlines,68
+11/23/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:16:00,6:15:00,6:27:00,7:55:00,Landed 7:43 AM,PR2932,Philippine Airlines,68
+11/22/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:22:00,6:15:00,6:11:00,7:55:00,Landed 7:33 AM,PR2932,Philippine Airlines,68
+11/21/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:20:00,6:15:00,6:20:00,7:55:00,Landed 7:41 AM,PR2932,Philippine Airlines,68
+11/20/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:19:00,6:15:00,6:18:00,7:55:00,Landed 7:38 AM,PR2932,Philippine Airlines,68
+11/19/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:21:00,6:15:00,6:17:00,7:55:00,Landed 7:38 AM,PR2932,Philippine Airlines,68
+11/18/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:32:00,6:15:00,6:18:00,7:55:00,Landed 7:50 AM,PR2932,Philippine Airlines,68
+11/17/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:32:00,6:15:00,6:19:00,7:55:00,Landed 7:51 AM,PR2932,Philippine Airlines,68
+11/16/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:05:00,6:15:00,6:17:00,7:55:00,Landed 7:23 AM,PR2932,Philippine Airlines,68
+11/15/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:22:00,6:15:00,6:24:00,7:55:00,Landed 7:46 AM,PR2932,Philippine Airlines,68
+11/14/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:16:00,6:15:00,6:22:00,7:55:00,Landed 7:39 AM,PR2932,Philippine Airlines,68
+11/13/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:19:00,6:15:00,6:34:00,7:55:00,Landed 7:54 AM,PR2932,Philippine Airlines,68
+11/12/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:20:00,6:15:00,6:25:00,7:55:00,Landed 7:45 AM,PR2932,Philippine Airlines,68
+11/11/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:01:00,6:15:00,6:21:00,7:55:00,Landed 7:22 AM,PR2932,Philippine Airlines,68
+11/10/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:18:00,6:15:00,6:14:00,7:55:00,Landed 7:33 AM,PR2932,Philippine Airlines,68
+11/9/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:17:00,6:15:00,6:21:00,7:55:00,Landed 7:38 AM,PR2932,Philippine Airlines,68
+11/8/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:18:00,6:15:00,6:44:00,7:55:00,Landed 8:03 AM,PR2932,Philippine Airlines,68
+11/7/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:14:00,6:15:00,6:34:00,7:55:00,Landed 7:48 AM,PR2932,Philippine Airlines,68
+11/6/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:26:00,6:15:00,6:40:00,7:55:00,Landed 8:06 AM,PR2932,Philippine Airlines,68
+11/5/2023 0:00,,Manila (MNL),DH8D (RP-C5903),-,,,10:14:00,Landed 10:14 AM,PR2932,Philippine Airlines,68
+11/5/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:22:00,6:15:00,6:21:00,7:55:00,Landed 7:44 AM,PR2932,Philippine Airlines,68
+11/4/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:16:00,6:15:00,6:20:00,7:55:00,Landed 7:36 AM,PR2932,Philippine Airlines,68
+11/3/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:19:00,6:15:00,6:14:00,7:55:00,Landed 7:34 AM,PR2932,Philippine Airlines,68
+11/2/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:18:00,6:15:00,6:21:00,7:55:00,Landed 7:40 AM,PR2932,Philippine Airlines,68
+11/1/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:19:00,6:15:00,6:21:00,7:55:00,Landed 7:41 AM,PR2932,Philippine Airlines,68
+10/31/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:23:00,6:15:00,6:18:00,7:55:00,Landed 7:41 AM,PR2932,Philippine Airlines,68
+10/30/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:20:00,6:15:00,6:34:00,7:55:00,Landed 7:55 AM,PR2932,Philippine Airlines,68
+10/28/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:20:00,6:00:00,6:24:00,7:50:00,Landed 7:44 AM,PR2932,Philippine Airlines,68
+10/27/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:19:00,6:00:00,5:44:00,7:50:00,Landed 7:03 AM,PR2932,Philippine Airlines,68
+10/26/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:21:00,6:00:00,6:06:00,7:50:00,Landed 7:27 AM,PR2932,Philippine Airlines,68
+10/25/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:22:00,6:00:00,6:03:00,7:50:00,Landed 7:25 AM,PR2932,Philippine Airlines,68
+10/24/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:15:00,6:00:00,5:51:00,7:50:00,Landed 7:07 AM,PR2932,Philippine Airlines,68
+10/23/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:23:00,6:00:00,6:53:00,7:50:00,Landed 8:17 AM,PR2932,Philippine Airlines,68
+10/22/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:22:00,6:00:00,5:55:00,7:50:00,Landed 7:18 AM,PR2932,Philippine Airlines,68
+10/21/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:21:00,6:00:00,5:58:00,7:50:00,Landed 7:20 AM,PR2932,Philippine Airlines,68
+10/20/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:17:00,6:00:00,5:52:00,7:50:00,Landed 7:10 AM,PR2932,Philippine Airlines,68
+10/19/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:19:00,6:00:00,5:51:00,7:50:00,Landed 7:11 AM,PR2932,Philippine Airlines,68
+10/18/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:15:00,6:00:00,6:03:00,7:50:00,Landed 7:19 AM,PR2932,Philippine Airlines,68
+10/17/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:21:00,6:00:00,6:15:00,7:50:00,Landed 7:37 AM,PR2932,Philippine Airlines,68
+10/16/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:19:00,6:00:00,6:22:00,7:50:00,Landed 7:42 AM,PR2932,Philippine Airlines,68
+10/15/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:17:00,6:00:00,5:57:00,7:50:00,Landed 7:15 AM,PR2932,Philippine Airlines,68
+10/14/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:15:00,6:00:00,5:55:00,7:50:00,Landed 7:10 AM,PR2932,Philippine Airlines,68
+10/13/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:16:00,6:00:00,6:01:00,7:50:00,Landed 7:17 AM,PR2932,Philippine Airlines,68
+10/12/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:18:00,6:00:00,6:36:00,7:50:00,Landed 7:55 AM,PR2932,Philippine Airlines,68
+10/11/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:17:00,6:00:00,6:35:00,7:50:00,Landed 7:52 AM,PR2932,Philippine Airlines,68
+10/10/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:17:00,6:00:00,6:11:00,7:50:00,Landed 7:29 AM,PR2932,Philippine Airlines,68
+10/9/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:17:00,6:00:00,6:19:00,7:50:00,Landed 7:37 AM,PR2932,Philippine Airlines,68
+10/8/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:11:00,6:00:00,6:08:00,7:50:00,Landed 7:19 AM,PR2932,Philippine Airlines,68
+10/7/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:05:00,6:00:00,6:05:00,7:50:00,Landed 7:11 AM,PR2932,Philippine Airlines,68
+10/6/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:17:00,6:00:00,6:30:00,7:50:00,Landed 7:47 AM,PR2932,Philippine Airlines,68
+10/3/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:24:00,6:00:00,5:57:00,7:50:00,Landed 7:21 AM,PR2932,Philippine Airlines,68
+10/2/2023 0:00,Manila (MNL),Manila (MNL),DH8D (RP-C5911),-,9:53:00,,9:53:00,Landed 9:53 AM,PR2932,Philippine Airlines,68
+10/2/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:22:00,6:00:00,6:25:00,7:50:00,Landed 7:47 AM,PR2932,Philippine Airlines,68
+10/1/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:24:00,6:00:00,5:49:00,7:50:00,Landed 7:13 AM,PR2932,Philippine Airlines,68
+9/30/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:22:00,6:00:00,6:18:00,7:50:00,Landed 7:40 AM,PR2932,Philippine Airlines,68
+9/29/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:20:00,6:00:00,6:25:00,7:50:00,Landed 7:45 AM,PR2932,Philippine Airlines,68
+9/28/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:15:00,6:00:00,5:55:00,7:50:00,Landed 7:10 AM,PR2932,Philippine Airlines,68
+9/27/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:20:00,6:00:00,6:03:00,7:50:00,Landed 7:23 AM,PR2932,Philippine Airlines,68
+9/26/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:23:00,6:00:00,6:29:00,7:50:00,Landed 7:52 AM,PR2932,Philippine Airlines,68
+9/25/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:21:00,6:00:00,6:07:00,7:50:00,Landed 7:28 AM,PR2932,Philippine Airlines,68
+9/24/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:16:00,6:00:00,6:20:00,7:50:00,Landed 7:36 AM,PR2932,Philippine Airlines,68
+9/23/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:23:00,6:00:00,5:59:00,7:50:00,Landed 7:21 AM,PR2932,Philippine Airlines,68
+9/22/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:21:00,6:00:00,5:57:00,7:50:00,Landed 7:19 AM,PR2932,Philippine Airlines,68
+9/21/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:20:00,6:00:00,6:03:00,7:50:00,Landed 7:24 AM,PR2932,Philippine Airlines,68
+9/20/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:20:00,6:00:00,6:22:00,7:50:00,Landed 7:42 AM,PR2932,Philippine Airlines,68
+9/19/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:19:00,6:00:00,6:06:00,7:50:00,Landed 7:25 AM,PR2932,Philippine Airlines,68
+9/18/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:22:00,6:00:00,6:42:00,7:50:00,Landed 8:04 AM,PR2932,Philippine Airlines,68
+9/17/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:25:00,6:00:00,5:59:00,7:50:00,Landed 7:24 AM,PR2932,Philippine Airlines,68
+9/16/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:16:00,6:00:00,5:49:00,7:50:00,Landed 7:06 AM,PR2932,Philippine Airlines,68
+9/15/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:13:00,6:00:00,5:46:00,7:50:00,Landed 6:59 AM,PR2932,Philippine Airlines,68
+9/14/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:25:00,6:00:00,6:01:00,7:50:00,Landed 7:27 AM,PR2932,Philippine Airlines,68
+9/13/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:20:00,6:00:00,6:04:00,7:50:00,Landed 7:25 AM,PR2932,Philippine Airlines,68
+9/12/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:20:00,6:00:00,6:07:00,7:50:00,Landed 7:28 AM,PR2932,Philippine Airlines,68
+9/11/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:18:00,6:00:00,6:03:00,7:50:00,Landed 7:22 AM,PR2932,Philippine Airlines,68
+9/10/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:21:00,6:00:00,6:08:00,7:50:00,Landed 7:30 AM,PR2932,Philippine Airlines,68
+9/9/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:15:00,6:00:00,6:19:00,7:50:00,Landed 7:34 AM,PR2932,Philippine Airlines,68
+9/8/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:14:00,6:00:00,5:49:00,7:50:00,Landed 7:04 AM,PR2932,Philippine Airlines,68
+9/7/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:17:00,6:00:00,6:19:00,7:50:00,Landed 7:36 AM,PR2932,Philippine Airlines,68
+9/6/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:27:00,6:00:00,6:17:00,7:50:00,Landed 7:44 AM,PR2932,Philippine Airlines,68
+9/5/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:15:00,6:00:00,6:14:00,7:50:00,Landed 7:30 AM,PR2932,Philippine Airlines,68
+9/4/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),-,6:00:00,5:57:00,7:50:00,Diverted to MNL,PR2932,Philippine Airlines,68
+9/3/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:16:00,6:00:00,6:20:00,7:50:00,Landed 7:36 AM,PR2932,Philippine Airlines,68
+9/2/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:18:00,6:00:00,6:43:00,7:50:00,Landed 8:02 AM,PR2932,Philippine Airlines,68
+9/1/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:29:00,6:00:00,6:35:00,7:50:00,Landed 8:05 AM,PR2932,Philippine Airlines,68
+8/31/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:23:00,6:00:00,6:26:00,7:50:00,Landed 7:50 AM,PR2932,Philippine Airlines,68
+8/28/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:24:00,6:00:00,6:04:00,7:50:00,Landed 7:28 AM,PR2932,Philippine Airlines,68
+8/27/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:27:00,6:00:00,6:13:00,7:50:00,Landed 7:40 AM,PR2932,Philippine Airlines,68
+8/26/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:39:00,6:00:00,6:10:00,7:50:00,Landed 7:49 AM,PR2932,Philippine Airlines,68
+8/25/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),-,6:00:00,6:06:00,7:50:00,Diverted to MNL,PR2932,Philippine Airlines,68
+8/24/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:18:00,6:00:00,6:21:00,7:50:00,Landed 7:39 AM,PR2932,Philippine Airlines,68
+8/23/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:20:00,6:00:00,6:15:00,7:50:00,Landed 7:35 AM,PR2932,Philippine Airlines,68
+8/22/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:21:00,6:00:00,5:51:00,7:50:00,Landed 7:13 AM,PR2932,Philippine Airlines,68
+8/21/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:17:00,6:00:00,6:23:00,7:50:00,Landed 7:39 AM,PR2932,Philippine Airlines,68
+8/20/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:21:00,6:00:00,6:48:00,7:50:00,Landed 8:09 AM,PR2932,Philippine Airlines,68
+8/19/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:14:00,6:00:00,6:28:00,7:50:00,Landed 7:43 AM,PR2932,Philippine Airlines,68
+8/18/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:14:00,6:00:00,6:45:00,7:50:00,Landed 7:59 AM,PR2932,Philippine Airlines,68
+8/17/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:22:00,6:00:00,6:12:00,7:50:00,Landed 7:33 AM,PR2932,Philippine Airlines,68
+8/16/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:18:00,6:00:00,6:11:00,7:50:00,Landed 7:29 AM,PR2932,Philippine Airlines,68
+8/15/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:18:00,6:00:00,5:59:00,7:50:00,Landed 7:17 AM,PR2932,Philippine Airlines,68
+8/14/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:26:00,6:00:00,6:33:00,7:50:00,Landed 8:00 AM,PR2932,Philippine Airlines,68
+8/13/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:19:00,6:00:00,6:06:00,7:50:00,Landed 7:25 AM,PR2932,Philippine Airlines,68
+8/11/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:23:00,6:00:00,6:05:00,7:50:00,Landed 7:28 AM,PR2932,Philippine Airlines,68
+8/10/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:23:00,6:00:00,6:16:00,7:50:00,Landed 7:40 AM,PR2932,Philippine Airlines,68
+8/9/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:17:00,6:00:00,5:50:00,7:50:00,Landed 7:08 AM,PR2932,Philippine Airlines,68
+8/8/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:21:00,6:00:00,5:56:00,7:50:00,Landed 7:17 AM,PR2932,Philippine Airlines,68
+8/6/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:33:00,6:00:00,6:37:00,7:50:00,Landed 8:11 AM,PR2932,Philippine Airlines,68
+8/3/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:22:00,6:00:00,6:37:00,7:50:00,Landed 7:59 AM,PR2932,Philippine Airlines,68
+8/2/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:18:00,6:00:00,6:25:00,7:50:00,Landed 7:44 AM,PR2932,Philippine Airlines,68
+8/1/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:19:00,6:00:00,6:15:00,7:50:00,Landed 7:34 AM,PR2932,Philippine Airlines,68
+7/31/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:14:00,6:00:00,8:03:00,7:50:00,Landed 9:18 AM,PR2932,Philippine Airlines,68
+7/30/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:20:00,6:00:00,5:48:00,7:50:00,Landed 7:08 AM,PR2932,Philippine Airlines,68
+7/29/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:18:00,6:00:00,6:09:00,7:50:00,Landed 7:27 AM,PR2932,Philippine Airlines,68
+7/28/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:16:00,6:00:00,6:11:00,7:50:00,Landed 7:27 AM,PR2932,Philippine Airlines,68
+7/24/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:25:00,6:00:00,6:14:00,7:50:00,Landed 7:39 AM,PR2932,Philippine Airlines,68
+7/23/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),-,10:43:00,10:42:00,,Unknown,PR2932,Philippine Airlines,68
+7/23/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:22:00,6:00:00,6:15:00,7:50:00,Landed 7:37 AM,PR2932,Philippine Airlines,68
+7/22/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:16:00,6:00:00,6:27:00,7:50:00,Landed 7:43 AM,PR2932,Philippine Airlines,68
+7/21/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:21:00,6:00:00,6:10:00,7:50:00,Landed 7:31 AM,PR2932,Philippine Airlines,68
+7/20/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:26:00,6:00:00,6:11:00,7:50:00,Landed 7:38 AM,PR2932,Philippine Airlines,68
+7/19/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:19:00,6:00:00,6:14:00,7:50:00,Landed 7:33 AM,PR2932,Philippine Airlines,68
+7/18/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:25:00,6:00:00,6:24:00,7:50:00,Landed 7:48 AM,PR2932,Philippine Airlines,68
+7/17/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:17:00,6:00:00,6:49:00,7:50:00,Landed 8:07 AM,PR2932,Philippine Airlines,68
+7/16/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:21:00,6:00:00,6:32:00,7:50:00,Landed 7:53 AM,PR2932,Philippine Airlines,68
+7/15/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:14:00,6:00:00,6:33:00,7:50:00,Landed 7:48 AM,PR2932,Philippine Airlines,68
+7/14/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:20:00,6:00:00,6:26:00,7:50:00,Landed 7:47 AM,PR2932,Philippine Airlines,68
+7/13/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:19:00,6:00:00,6:47:00,7:50:00,Landed 8:06 AM,PR2932,Philippine Airlines,68
+7/12/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:28:00,6:00:00,6:38:00,7:50:00,Landed 8:06 AM,PR2932,Philippine Airlines,68
+7/11/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:16:00,6:00:00,6:25:00,7:50:00,Landed 7:40 AM,PR2932,Philippine Airlines,68
+7/10/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:24:00,6:00:00,6:19:00,7:50:00,Landed 7:44 AM,PR2932,Philippine Airlines,68
+7/9/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:17:00,6:00:00,6:16:00,7:50:00,Landed 7:33 AM,PR2932,Philippine Airlines,68
+7/8/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:14:00,6:00:00,5:58:00,7:50:00,Landed 7:13 AM,PR2932,Philippine Airlines,68
+7/7/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:16:00,6:00:00,6:23:00,7:50:00,Landed 7:40 AM,PR2932,Philippine Airlines,68
+7/6/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:17:00,6:00:00,6:08:00,7:50:00,Landed 7:25 AM,PR2932,Philippine Airlines,68
+7/5/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:16:00,6:00:00,6:16:00,7:50:00,Landed 7:32 AM,PR2932,Philippine Airlines,68
+7/4/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:19:00,6:00:00,6:05:00,7:50:00,Landed 7:24 AM,PR2932,Philippine Airlines,68
+7/3/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:17:00,6:00:00,6:07:00,7:50:00,Landed 7:24 AM,PR2932,Philippine Airlines,68
+7/2/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:17:00,6:00:00,6:18:00,7:50:00,Landed 7:36 AM,PR2932,Philippine Airlines,68
+7/1/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,6:00:00,6:22:00,7:50:00,Landed 7:41 AM,PR2932,Philippine Airlines,68
+6/30/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:16:00,6:00:00,6:14:00,7:50:00,Landed 7:30 AM,PR2932,Philippine Airlines,68
+6/29/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:14:00,6:00:00,7:18:00,7:50:00,Landed 8:32 AM,PR2932,Philippine Airlines,68
+6/27/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:16:00,6:00:00,6:15:00,7:50:00,Landed 7:31 AM,PR2932,Philippine Airlines,68
+6/26/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:19:00,6:00:00,6:01:00,7:50:00,Landed 7:20 AM,PR2932,Philippine Airlines,68
+6/25/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:22:00,6:00:00,6:05:00,7:50:00,Landed 7:28 AM,PR2932,Philippine Airlines,68
+6/24/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:23:00,6:00:00,6:06:00,7:50:00,Landed 7:30 AM,PR2932,Philippine Airlines,68
+6/23/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:16:00,6:00:00,6:22:00,7:50:00,Landed 7:38 AM,PR2932,Philippine Airlines,68
+6/22/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:16:00,6:00:00,6:25:00,7:50:00,Landed 7:42 AM,PR2932,Philippine Airlines,68
+6/21/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,6:00:00,6:15:00,7:50:00,Landed 7:34 AM,PR2932,Philippine Airlines,68
+6/20/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:14:00,6:00:00,6:23:00,7:50:00,Landed 7:37 AM,PR2932,Philippine Airlines,68
+6/19/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:16:00,6:00:00,6:16:00,7:50:00,Landed 7:32 AM,PR2932,Philippine Airlines,68
+6/18/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:17:00,6:00:00,6:20:00,7:50:00,Landed 7:38 AM,PR2932,Philippine Airlines,68
+6/17/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:14:00,6:00:00,5:58:00,7:50:00,Landed 7:12 AM,PR2932,Philippine Airlines,68
+6/16/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:22:00,6:00:00,5:52:00,7:50:00,Landed 7:15 AM,PR2932,Philippine Airlines,68
+6/15/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),-,6:00:00,6:10:00,7:50:00,Diverted to MNL,PR2932,Philippine Airlines,68
+6/14/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),-,6:00:00,7:09:00,7:50:00,Diverted to MNL,PR2932,Philippine Airlines,68
+6/12/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:14:00,6:00:00,6:57:00,7:50:00,Landed 8:12 AM,PR2932,Philippine Airlines,68
+6/11/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:17:00,6:00:00,5:59:00,7:50:00,Landed 7:16 AM,PR2932,Philippine Airlines,68
+6/10/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:20:00,6:00:00,6:11:00,7:50:00,Landed 7:31 AM,PR2932,Philippine Airlines,68
+6/9/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:22:00,6:00:00,6:08:00,7:50:00,Landed 7:30 AM,PR2932,Philippine Airlines,68
+6/8/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:18:00,6:00:00,5:57:00,7:50:00,Landed 7:15 AM,PR2932,Philippine Airlines,68
+6/7/2023 0:00,,Manila (MNL),DH8D (RP-C5902),-,,,9:30:00,Landed 9:30 AM,PR2932,Philippine Airlines,68
+6/7/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:19:00,6:00:00,6:12:00,7:50:00,Landed 7:31 AM,PR2932,Philippine Airlines,68
+6/5/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:16:00,6:00:00,6:01:00,7:50:00,Landed 7:17 AM,PR2932,Philippine Airlines,68
+6/4/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:19:00,6:00:00,6:10:00,7:50:00,Landed 7:29 AM,PR2932,Philippine Airlines,68
+6/3/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:23:00,6:00:00,6:10:00,7:50:00,Landed 7:33 AM,PR2932,Philippine Airlines,68
+6/2/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:25:00,6:00:00,6:47:00,7:50:00,Landed 8:12 AM,PR2932,Philippine Airlines,68
+5/28/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:18:00,6:00:00,5:56:00,7:50:00,Landed 7:14 AM,PR2932,Philippine Airlines,68
+5/27/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:21:00,6:00:00,6:58:00,7:50:00,Landed 8:20 AM,PR2932,Philippine Airlines,68
+5/26/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:17:00,6:00:00,5:48:00,7:50:00,Landed 7:06 AM,PR2932,Philippine Airlines,68
+5/25/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:20:00,6:00:00,6:09:00,7:50:00,Landed 7:29 AM,PR2932,Philippine Airlines,68
+5/24/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:21:00,6:00:00,6:13:00,7:50:00,Landed 7:34 AM,PR2932,Philippine Airlines,68
+5/23/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:22:00,6:00:00,5:53:00,7:50:00,Landed 7:15 AM,PR2932,Philippine Airlines,68
+5/22/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:18:00,6:00:00,5:53:00,7:50:00,Landed 7:11 AM,PR2932,Philippine Airlines,68
+5/21/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:15:00,5:00:00,6:45:00,6:50:00,Landed 8:01 AM,PR2932,Philippine Airlines,68
+5/20/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:17:00,5:00:00,5:46:00,6:50:00,Landed 7:03 AM,PR2932,Philippine Airlines,68
+5/19/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:19:00,5:00:00,5:34:00,6:50:00,Landed 6:53 AM,PR2932,Philippine Airlines,68
+5/18/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:17:00,5:00:00,7:09:00,6:50:00,Landed 8:27 AM,PR2932,Philippine Airlines,68
+5/17/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:20:00,5:00:00,5:39:00,6:50:00,Landed 6:59 AM,PR2932,Philippine Airlines,68
+5/15/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:15:00,5:00:00,6:00:00,6:50:00,Landed 7:15 AM,PR2932,Philippine Airlines,68
+5/14/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:16:00,5:00:00,5:37:00,6:50:00,Landed 6:54 AM,PR2932,Philippine Airlines,68
+5/13/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:14:00,5:00:00,5:57:00,6:50:00,Landed 7:12 AM,PR2932,Philippine Airlines,68
+5/12/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,5:00:00,6:24:00,6:50:00,Landed 7:43 AM,PR2932,Philippine Airlines,68
+5/11/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:18:00,5:00:00,5:53:00,6:50:00,Landed 7:11 AM,PR2932,Philippine Airlines,68
+5/10/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:18:00,5:00:00,5:47:00,6:50:00,Landed 7:06 AM,PR2932,Philippine Airlines,68
+5/9/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:22:00,5:00:00,6:24:00,6:50:00,Landed 7:46 AM,PR2932,Philippine Airlines,68
+5/8/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:21:00,5:00:00,5:47:00,6:50:00,Landed 7:09 AM,PR2932,Philippine Airlines,68
+5/7/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:18:00,5:00:00,5:41:00,6:50:00,Landed 6:59 AM,PR2932,Philippine Airlines,68
+5/6/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:17:00,5:00:00,5:28:00,6:50:00,Landed 6:45 AM,PR2932,Philippine Airlines,68
+5/5/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:22:00,5:00:00,5:38:00,6:50:00,Landed 7:01 AM,PR2932,Philippine Airlines,68
+5/4/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:21:00,5:00:00,5:45:00,6:50:00,Landed 7:06 AM,PR2932,Philippine Airlines,68
+5/3/2023 0:00,,Manila (MNL),DH8D (RP-C5902),-,,,9:02:00,Landed 9:02 AM,PR2932,Philippine Airlines,68
+5/3/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:18:00,5:00:00,5:41:00,6:50:00,Landed 7:00 AM,PR2932,Philippine Airlines,68
+5/2/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:20:00,5:00:00,5:30:00,6:50:00,Landed 6:50 AM,PR2932,Philippine Airlines,68
+5/1/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:13:00,5:00:00,5:47:00,6:50:00,Landed 7:00 AM,PR2932,Philippine Airlines,68
+4/30/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:17:00,5:00:00,5:44:00,6:50:00,Landed 7:01 AM,PR2932,Philippine Airlines,68
+4/29/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:16:00,5:00:00,5:35:00,6:50:00,Landed 6:52 AM,PR2932,Philippine Airlines,68
+4/28/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:18:00,5:00:00,5:52:00,6:50:00,Landed 7:10 AM,PR2932,Philippine Airlines,68
+4/27/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:18:00,5:00:00,5:42:00,6:50:00,Landed 7:00 AM,PR2932,Philippine Airlines,68
+4/26/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:20:00,5:00:00,6:18:00,6:50:00,Landed 7:39 AM,PR2932,Philippine Airlines,68
+4/25/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:22:00,5:00:00,5:59:00,6:50:00,Landed 7:21 AM,PR2932,Philippine Airlines,68
+4/24/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,5:00:00,5:40:00,6:50:00,Landed 7:00 AM,PR2932,Philippine Airlines,68
+4/23/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:20:00,5:00:00,5:25:00,6:50:00,Landed 6:46 AM,PR2932,Philippine Airlines,68
+4/22/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:25:00,5:00:00,5:39:00,6:50:00,Landed 7:04 AM,PR2932,Philippine Airlines,68
+4/21/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:21:00,5:00:00,5:48:00,6:50:00,Landed 7:08 AM,PR2932,Philippine Airlines,68
+4/20/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:19:00,5:00:00,5:51:00,6:50:00,Landed 7:10 AM,PR2932,Philippine Airlines,68
+4/19/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:19:00,5:00:00,5:45:00,6:50:00,Landed 7:04 AM,PR2932,Philippine Airlines,68
+4/18/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:19:00,5:00:00,5:44:00,6:50:00,Landed 7:03 AM,PR2932,Philippine Airlines,68
+4/17/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:20:00,5:00:00,5:51:00,6:50:00,Landed 7:12 AM,PR2932,Philippine Airlines,68
+4/16/2023 0:00,,Manila (MNL),DH8D (RP-C5911),-,,,10:06:00,Landed 10:06 AM,PR2932,Philippine Airlines,68
+4/16/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:20:00,5:00:00,5:34:00,6:50:00,Landed 6:54 AM,PR2932,Philippine Airlines,68
+4/15/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:14:00,5:00:00,5:41:00,6:50:00,Landed 6:56 AM,PR2932,Philippine Airlines,68
+4/14/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:15:00,5:00:00,6:01:00,6:50:00,Landed 7:16 AM,PR2932,Philippine Airlines,68
+4/13/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:25:00,5:00:00,5:35:00,6:50:00,Landed 7:00 AM,PR2932,Philippine Airlines,68
+4/12/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:25:00,5:00:00,5:35:00,6:50:00,Landed 7:00 AM,PR2932,Philippine Airlines,68
+4/11/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:09:00,5:00:00,5:46:00,6:50:00,Landed 6:56 AM,PR2932,Philippine Airlines,68
+4/10/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:22:00,5:00:00,5:34:00,6:50:00,Landed 6:56 AM,PR2932,Philippine Airlines,68
+4/9/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:23:00,5:00:00,5:31:00,6:50:00,Landed 6:55 AM,PR2932,Philippine Airlines,68
+4/8/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,5:00:00,5:57:00,6:50:00,Landed 7:16 AM,PR2932,Philippine Airlines,68
+4/7/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:18:00,5:00:00,5:38:00,6:50:00,Landed 6:57 AM,PR2932,Philippine Airlines,68
+4/6/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:21:00,5:00:00,5:40:00,6:50:00,Landed 7:01 AM,PR2932,Philippine Airlines,68
+4/5/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:18:00,5:00:00,5:37:00,6:50:00,Landed 6:55 AM,PR2932,Philippine Airlines,68
+4/4/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:20:00,5:00:00,5:51:00,6:50:00,Landed 7:11 AM,PR2932,Philippine Airlines,68
+4/3/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:24:00,5:00:00,5:47:00,6:50:00,Landed 7:11 AM,PR2932,Philippine Airlines,68
+4/2/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:18:00,5:00:00,5:37:00,6:50:00,Landed 6:55 AM,PR2932,Philippine Airlines,68
+4/1/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:15:00,5:00:00,5:46:00,6:50:00,Landed 7:02 AM,PR2932,Philippine Airlines,68
+3/31/2023 0:00,Manila (MNL),Manila (MNL),DH8D (RP-C5905),-,9:36:00,,9:36:00,Landed 9:36 AM,PR2932,Philippine Airlines,68
+3/31/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:21:00,5:00:00,5:46:00,6:50:00,Landed 7:07 AM,PR2932,Philippine Airlines,68
+3/30/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:14:00,11:29:00,10:15:00,11:29:00,Landed 11:29 AM,PR2932,Philippine Airlines,68
+3/30/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),-,5:00:00,5:53:00,6:50:00,Diverted to MNL,PR2932,Philippine Airlines,68
+3/29/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:23:00,5:00:00,6:00:00,6:50:00,Landed 7:23 AM,PR2932,Philippine Airlines,68
+3/28/2023 0:00,Manila (MNL),Manila (MNL),DH8D (RP-C5905),-,9:13:00,,9:13:00,Landed 9:13 AM,PR2932,Philippine Airlines,68
+3/28/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:21:00,5:00:00,5:47:00,6:50:00,Landed 7:09 AM,PR2932,Philippine Airlines,68
+3/27/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:15:00,5:00:00,6:01:00,6:50:00,Landed 7:17 AM,PR2932,Philippine Airlines,68
+3/25/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:14:00,5:45:00,5:47:00,7:30:00,Landed 7:01 AM,PR2932,Philippine Airlines,68
+3/24/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:11:00,5:45:00,5:49:00,7:30:00,Landed 7:01 AM,PR2932,Philippine Airlines,68
+3/23/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:16:00,5:10:00,5:40:00,6:55:00,Landed 6:56 AM,PR2932,Philippine Airlines,68
+3/22/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:19:00,5:45:00,5:45:00,7:30:00,Landed 7:05 AM,PR2932,Philippine Airlines,68
+3/21/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:21:00,5:45:00,5:57:00,7:30:00,Landed 7:18 AM,PR2932,Philippine Airlines,68
+3/20/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:15:00,5:45:00,5:42:00,7:30:00,Landed 6:58 AM,PR2932,Philippine Airlines,68
+3/19/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:16:00,5:10:00,5:39:00,6:55:00,Landed 6:55 AM,PR2932,Philippine Airlines,68
+3/18/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:20:00,5:45:00,5:54:00,7:30:00,Landed 7:14 AM,PR2932,Philippine Airlines,68
+3/17/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:17:00,5:45:00,5:44:00,7:30:00,Landed 7:01 AM,PR2932,Philippine Airlines,68
+3/16/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:16:00,5:10:00,5:34:00,6:55:00,Landed 6:50 AM,PR2932,Philippine Airlines,68
+3/15/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:15:00,5:45:00,5:44:00,7:30:00,Landed 7:00 AM,PR2932,Philippine Airlines,68
+3/14/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:15:00,5:45:00,5:53:00,7:30:00,Landed 7:08 AM,PR2932,Philippine Airlines,68
+3/13/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,5:45:00,5:53:00,7:30:00,Landed 7:13 AM,PR2932,Philippine Airlines,68
+3/12/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,5:10:00,5:37:00,6:55:00,Landed 6:56 AM,PR2932,Philippine Airlines,68
+3/11/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:17:00,5:45:00,5:45:00,7:30:00,Landed 7:02 AM,PR2932,Philippine Airlines,68
+3/10/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:20:00,5:45:00,5:43:00,7:30:00,Landed 7:03 AM,PR2932,Philippine Airlines,68
+3/9/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:05:00,5:10:00,5:37:00,6:55:00,Landed 6:42 AM,PR2932,Philippine Airlines,68
+3/8/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:07:00,5:45:00,5:43:00,7:30:00,Landed 6:51 AM,PR2932,Philippine Airlines,68
+3/7/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:03:00,5:45:00,5:51:00,7:30:00,Landed 6:54 AM,PR2932,Philippine Airlines,68
+3/6/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:01:00,5:45:00,5:42:00,7:30:00,Landed 6:43 AM,PR2932,Philippine Airlines,68
+3/5/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:15:00,5:10:00,5:40:00,6:55:00,Landed 6:55 AM,PR2932,Philippine Airlines,68
+3/4/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),0:59:00,5:45:00,5:48:00,7:30:00,Landed 6:47 AM,PR2932,Philippine Airlines,68
+3/3/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:03:00,5:45:00,6:14:00,7:30:00,Landed 7:18 AM,PR2932,Philippine Airlines,68
+3/2/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:54:00,5:10:00,5:45:00,6:55:00,Landed 7:39 AM,PR2932,Philippine Airlines,68
+2/28/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:00:00,5:45:00,5:46:00,7:30:00,Landed 6:47 AM,PR2932,Philippine Airlines,68
+2/24/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:44:00,5:45:00,5:45:00,7:30:00,Landed 7:30 AM,PR2932,Philippine Airlines,68
+2/23/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),0:59:00,5:05:00,5:45:00,6:50:00,Landed 6:44 AM,PR2932,Philippine Airlines,68
+2/21/2023 0:00,,Manila (MNL),DH8D (RP-C5902),-,,,9:14:00,Landed 9:14 AM,PR2932,Philippine Airlines,68
+2/21/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:07:00,5:45:00,6:16:00,7:30:00,Landed 7:24 AM,PR2932,Philippine Airlines,68
+2/20/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:01:00,5:45:00,6:32:00,7:30:00,Landed 7:34 AM,PR2932,Philippine Airlines,68
+2/19/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:09:00,5:05:00,5:40:00,6:50:00,Landed 6:50 AM,PR2932,Philippine Airlines,68
+2/18/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:16:00,5:45:00,6:08:00,7:30:00,Landed 7:25 AM,PR2932,Philippine Airlines,68
+2/17/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:20:00,5:45:00,5:40:00,7:30:00,Landed 7:01 AM,PR2932,Philippine Airlines,68
+2/16/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:19:00,5:05:00,5:36:00,6:50:00,Landed 6:56 AM,PR2932,Philippine Airlines,68
+2/15/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:02:00,5:45:00,5:44:00,7:30:00,Landed 6:47 AM,PR2932,Philippine Airlines,68
+2/14/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:02:00,5:45:00,5:27:00,7:30:00,Landed 6:30 AM,PR2932,Philippine Airlines,68
+2/13/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:18:00,5:45:00,9:33:00,7:30:00,Landed 10:52 AM,PR2932,Philippine Airlines,68
+2/12/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),0:59:00,5:05:00,5:38:00,6:50:00,Landed 6:38 AM,PR2932,Philippine Airlines,68
+2/11/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:03:00,5:45:00,5:44:00,7:30:00,Landed 6:47 AM,PR2932,Philippine Airlines,68
+2/10/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:19:00,5:45:00,5:53:00,7:30:00,Landed 7:13 AM,PR2932,Philippine Airlines,68
+2/9/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:24:00,5:05:00,5:15:00,6:50:00,Landed 6:39 AM,PR2932,Philippine Airlines,68
+2/8/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:20:00,5:45:00,5:45:00,7:30:00,Landed 7:05 AM,PR2932,Philippine Airlines,68
+2/7/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:01:00,5:45:00,5:37:00,7:30:00,Landed 6:39 AM,PR2932,Philippine Airlines,68
+2/6/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:19:00,5:45:00,5:48:00,7:30:00,Landed 7:07 AM,PR2932,Philippine Airlines,68
+2/5/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:15:00,5:05:00,5:39:00,6:50:00,Landed 6:54 AM,PR2932,Philippine Airlines,68
+2/4/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:19:00,5:45:00,5:49:00,7:30:00,Landed 7:09 AM,PR2932,Philippine Airlines,68
+2/3/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:18:00,5:45:00,5:53:00,7:30:00,Landed 7:11 AM,PR2932,Philippine Airlines,68
+2/2/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:30:00,5:05:00,5:05:00,6:50:00,Landed 6:35 AM,PR2932,Philippine Airlines,68
+2/1/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:19:00,5:45:00,5:45:00,7:30:00,Landed 7:04 AM,PR2932,Philippine Airlines,68
+1/31/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:01:00,5:45:00,5:48:00,7:30:00,Landed 6:49 AM,PR2932,Philippine Airlines,68
+1/30/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:03:00,5:45:00,5:39:00,7:30:00,Landed 6:43 AM,PR2932,Philippine Airlines,68
+1/29/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:18:00,5:45:00,5:48:00,7:30:00,Landed 7:07 AM,PR2932,Philippine Airlines,68
+1/28/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:21:00,5:45:00,5:49:00,7:30:00,Landed 7:11 AM,PR2932,Philippine Airlines,68
+1/27/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:04:00,5:45:00,5:37:00,7:30:00,Landed 6:41 AM,PR2932,Philippine Airlines,68
+1/26/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),1:21:00,5:45:00,5:40:00,7:30:00,Landed 7:01 AM,PR2932,Philippine Airlines,68
+1/24/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),0:56:00,5:45:00,5:45:00,7:30:00,Landed 6:41 AM,PR2932,Philippine Airlines,68
+1/23/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:01:00,5:45:00,5:53:00,7:30:00,Landed 6:54 AM,PR2932,Philippine Airlines,68
+1/22/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5907),0:51:00,5:45:00,6:39:00,7:30:00,Landed 7:30 AM,PR2932,Philippine Airlines,68
+1/21/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:15:00,5:45:00,5:51:00,7:30:00,Landed 7:07 AM,PR2932,Philippine Airlines,68
+1/20/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:18:00,5:45:00,5:46:00,7:30:00,Landed 7:05 AM,PR2932,Philippine Airlines,68
+1/19/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),0:50:00,5:45:00,5:53:00,7:30:00,Landed 6:44 AM,PR2932,Philippine Airlines,68
+1/18/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5917),1:21:00,5:45:00,5:53:00,7:30:00,Landed 7:15 AM,PR2932,Philippine Airlines,68
+1/17/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:17:00,5:45:00,6:28:00,7:30:00,Landed 7:46 AM,PR2932,Philippine Airlines,68
+1/15/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:15:00,5:45:00,5:35:00,7:30:00,Landed 6:51 AM,PR2932,Philippine Airlines,68
+1/14/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:20:00,5:45:00,5:49:00,7:30:00,Landed 7:10 AM,PR2932,Philippine Airlines,68
+1/13/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:16:00,5:45:00,5:37:00,7:30:00,Landed 6:54 AM,PR2932,Philippine Airlines,68
+1/12/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:17:00,5:45:00,5:59:00,7:30:00,Landed 7:17 AM,PR2932,Philippine Airlines,68
+1/11/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:20:00,5:45:00,5:52:00,7:30:00,Landed 7:12 AM,PR2932,Philippine Airlines,68
+1/10/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:24:00,5:45:00,5:43:00,7:30:00,Landed 7:07 AM,PR2932,Philippine Airlines,68
+1/9/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:18:00,5:45:00,5:51:00,7:30:00,Landed 7:09 AM,PR2932,Philippine Airlines,68
+1/8/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:17:00,5:45:00,5:54:00,7:30:00,Landed 7:11 AM,PR2932,Philippine Airlines,68
+1/7/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:15:00,5:45:00,5:38:00,7:30:00,Landed 6:54 AM,PR2932,Philippine Airlines,68
+1/6/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:21:00,5:45:00,5:44:00,7:30:00,Landed 7:06 AM,PR2932,Philippine Airlines,68
+1/5/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),0:41:00,5:45:00,6:49:00,7:30:00,Landed 7:30 AM,PR2932,Philippine Airlines,68
+1/4/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:20:00,5:45:00,5:51:00,7:30:00,Landed 7:11 AM,PR2932,Philippine Airlines,68
+1/3/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:21:00,5:45:00,6:01:00,7:30:00,Landed 7:23 AM,PR2932,Philippine Airlines,68
+1/1/2023 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:21:00,5:45:00,6:00:00,7:30:00,Landed 7:21 AM,PR2932,Philippine Airlines,68
+12/31/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:51:00,5:45:00,5:56:00,7:30:00,Landed 7:47 AM,PR2932,Philippine Airlines,68
+12/30/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:16:00,5:45:00,5:46:00,7:30:00,Landed 7:03 AM,PR2932,Philippine Airlines,68
+12/29/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:14:00,5:45:00,5:48:00,7:30:00,Landed 7:03 AM,PR2932,Philippine Airlines,68
+12/28/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:24:00,5:45:00,5:57:00,7:30:00,Landed 7:21 AM,PR2932,Philippine Airlines,68
+12/27/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:19:00,5:45:00,5:39:00,7:30:00,Landed 6:59 AM,PR2932,Philippine Airlines,68
+12/26/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:21:00,5:45:00,5:48:00,7:30:00,Landed 7:09 AM,PR2932,Philippine Airlines,68
+12/25/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:20:00,5:45:00,5:46:00,7:30:00,Landed 7:06 AM,PR2932,Philippine Airlines,68
+12/24/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:23:00,5:45:00,5:59:00,7:30:00,Landed 7:22 AM,PR2932,Philippine Airlines,68
+12/23/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:20:00,5:45:00,5:50:00,7:30:00,Landed 7:11 AM,PR2932,Philippine Airlines,68
+12/22/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:20:00,5:45:00,6:10:00,7:30:00,Landed 7:31 AM,PR2932,Philippine Airlines,68
+12/21/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:24:00,5:45:00,5:59:00,7:30:00,Landed 7:23 AM,PR2932,Philippine Airlines,68
+12/20/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:15:00,5:45:00,7:00:00,7:30:00,Landed 8:16 AM,PR2932,Philippine Airlines,68
+12/19/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,5:45:00,6:00:00,7:30:00,Landed 7:20 AM,PR2932,Philippine Airlines,68
+12/17/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),-,5:45:00,7:01:00,7:30:00,Diverted to MNL,PR2932,Philippine Airlines,68
+12/16/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:19:00,5:45:00,6:14:00,7:30:00,Landed 7:34 AM,PR2932,Philippine Airlines,68
+12/14/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:14:00,5:45:00,5:42:00,7:30:00,Landed 6:56 AM,PR2932,Philippine Airlines,68
+12/13/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:19:00,5:45:00,5:40:00,7:30:00,Landed 7:00 AM,PR2932,Philippine Airlines,68
+12/12/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:17:00,5:45:00,5:53:00,7:30:00,Landed 7:11 AM,PR2932,Philippine Airlines,68
+12/11/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:22:00,5:45:00,5:46:00,7:30:00,Landed 7:09 AM,PR2932,Philippine Airlines,68
+12/10/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:17:00,5:45:00,6:00:00,7:30:00,Landed 7:17 AM,PR2932,Philippine Airlines,68
+12/9/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:14:00,5:45:00,5:36:00,7:30:00,Landed 6:51 AM,PR2932,Philippine Airlines,68
+12/8/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:15:00,5:45:00,5:43:00,7:30:00,Landed 6:59 AM,PR2932,Philippine Airlines,68
+12/7/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:19:00,5:45:00,5:48:00,7:30:00,Landed 7:08 AM,PR2932,Philippine Airlines,68
+12/6/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:27:00,5:45:00,5:59:00,7:30:00,Landed 7:26 AM,PR2932,Philippine Airlines,68
+12/5/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:23:00,5:45:00,5:42:00,7:30:00,Landed 7:05 AM,PR2932,Philippine Airlines,68
+12/4/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:18:00,5:45:00,5:47:00,7:30:00,Landed 7:06 AM,PR2932,Philippine Airlines,68
+12/3/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:19:00,5:45:00,5:49:00,7:30:00,Landed 7:09 AM,PR2932,Philippine Airlines,68
+12/2/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:39:00,5:45:00,5:50:00,7:30:00,Landed 7:30 AM,PR2932,Philippine Airlines,68
+12/1/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:47:00,5:45:00,6:27:00,7:30:00,Landed 8:14 AM,PR2932,Philippine Airlines,68
+11/30/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:18:00,5:45:00,5:42:00,7:30:00,Landed 7:01 AM,PR2932,Philippine Airlines,68
+11/29/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:13:00,5:45:00,5:53:00,7:30:00,Landed 7:06 AM,PR2932,Philippine Airlines,68
+11/28/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:14:00,5:45:00,5:42:00,7:30:00,Landed 6:56 AM,PR2932,Philippine Airlines,68
+11/27/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:14:00,5:45:00,5:35:00,7:30:00,Landed 6:50 AM,PR2932,Philippine Airlines,68
+11/26/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5903),1:14:00,5:45:00,5:47:00,7:30:00,Landed 7:02 AM,PR2932,Philippine Airlines,68
+11/25/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:21:00,5:45:00,5:39:00,7:30:00,Landed 7:01 AM,PR2932,Philippine Airlines,68
+11/24/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:23:00,5:45:00,5:49:00,7:30:00,Landed 7:12 AM,PR2932,Philippine Airlines,68
+11/23/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:15:00,5:45:00,5:47:00,7:30:00,Landed 7:02 AM,PR2932,Philippine Airlines,68
+11/22/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:19:00,5:45:00,5:53:00,7:30:00,Landed 7:12 AM,PR2932,Philippine Airlines,68
+11/21/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:20:00,5:45:00,5:48:00,7:30:00,Landed 7:08 AM,PR2932,Philippine Airlines,68
+11/20/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:13:00,5:45:00,5:53:00,7:30:00,Landed 7:07 AM,PR2932,Philippine Airlines,68
+11/19/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:17:00,5:45:00,5:29:00,7:30:00,Landed 6:46 AM,PR2932,Philippine Airlines,68
+11/18/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:29:00,5:45:00,5:37:00,7:30:00,Landed 7:06 AM,PR2932,Philippine Airlines,68
+11/17/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:16:00,5:45:00,7:57:00,7:30:00,Landed 9:13 AM,PR2932,Philippine Airlines,68
+11/16/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:21:00,5:45:00,5:43:00,7:30:00,Landed 7:04 AM,PR2932,Philippine Airlines,68
+11/15/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:18:00,5:45:00,5:33:00,7:30:00,Landed 6:51 AM,PR2932,Philippine Airlines,68
+11/14/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:17:00,5:45:00,5:43:00,7:30:00,Landed 7:01 AM,PR2932,Philippine Airlines,68
+11/13/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:20:00,5:45:00,5:53:00,7:30:00,Landed 7:13 AM,PR2932,Philippine Airlines,68
+11/12/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:16:00,5:45:00,5:58:00,7:30:00,Landed 7:14 AM,PR2932,Philippine Airlines,68
+11/11/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:17:00,5:45:00,5:36:00,7:30:00,Landed 6:54 AM,PR2932,Philippine Airlines,68
+11/10/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:18:00,5:45:00,5:35:00,7:30:00,Landed 6:53 AM,PR2932,Philippine Airlines,68
+11/9/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:21:00,5:45:00,5:40:00,7:30:00,Landed 7:01 AM,PR2932,Philippine Airlines,68
+11/8/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:22:00,5:45:00,5:47:00,7:30:00,Landed 7:10 AM,PR2932,Philippine Airlines,68
+11/7/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5910),1:20:00,5:45:00,5:46:00,7:30:00,Landed 7:06 AM,PR2932,Philippine Airlines,68
+11/6/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:24:00,5:45:00,7:16:00,7:30:00,Landed 8:40 AM,PR2932,Philippine Airlines,68
+11/5/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:21:00,5:45:00,5:50:00,7:30:00,Landed 7:12 AM,PR2932,Philippine Airlines,68
+11/4/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:19:00,5:45:00,5:41:00,7:30:00,Landed 7:01 AM,PR2932,Philippine Airlines,68
+11/3/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),-,5:45:00,6:04:00,7:30:00,Diverted to MNL,PR2932,Philippine Airlines,68
+11/2/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:14:00,5:45:00,5:37:00,7:30:00,Landed 6:51 AM,PR2932,Philippine Airlines,68
+11/1/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:14:00,5:45:00,5:56:00,7:30:00,Landed 7:11 AM,PR2932,Philippine Airlines,68
+10/31/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:14:00,5:45:00,6:41:00,7:30:00,Landed 7:56 AM,PR2932,Philippine Airlines,68
+10/28/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:22:00,6:00:00,6:04:00,7:45:00,Landed 7:26 AM,PR2932,Philippine Airlines,68
+10/27/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:22:00,6:00:00,5:52:00,7:45:00,Landed 7:15 AM,PR2932,Philippine Airlines,68
+10/26/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:25:00,6:00:00,6:12:00,7:45:00,Landed 7:38 AM,PR2932,Philippine Airlines,68
+10/25/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:23:00,6:00:00,6:17:00,7:45:00,Landed 7:40 AM,PR2932,Philippine Airlines,68
+10/24/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:19:00,6:00:00,6:13:00,7:45:00,Landed 7:32 AM,PR2932,Philippine Airlines,68
+10/23/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:18:00,6:00:00,6:12:00,7:45:00,Landed 7:31 AM,PR2932,Philippine Airlines,68
+10/22/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:17:00,6:00:00,6:08:00,7:45:00,Landed 7:25 AM,PR2932,Philippine Airlines,68
+10/21/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:38:00,6:00:00,6:35:00,7:45:00,Landed 8:14 AM,PR2932,Philippine Airlines,68
+10/20/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:27:00,6:00:00,6:24:00,7:45:00,Landed 7:51 AM,PR2932,Philippine Airlines,68
+10/18/2022 0:00,,Manila (MNL),DH8D (RP-C5915),-,,,8:45:00,Landed 8:45 AM,PR2932,Philippine Airlines,68
+10/18/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:13:00,6:00:00,5:59:00,7:45:00,Landed 7:12 AM,PR2932,Philippine Airlines,68
+10/17/2022 0:00,,Manila (MNL),DH8D (RP-C5906),-,,,9:41:00,Landed 9:41 AM,PR2932,Philippine Airlines,68
+10/17/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:17:00,6:00:00,6:12:00,7:45:00,Landed 7:29 AM,PR2932,Philippine Airlines,68
+10/15/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5915),1:28:00,6:00:00,5:55:00,7:45:00,Landed 7:23 AM,PR2932,Philippine Airlines,68
+10/14/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:25:00,6:00:00,5:56:00,7:45:00,Landed 7:21 AM,PR2932,Philippine Airlines,68
+10/10/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:19:00,6:00:00,6:05:00,7:45:00,Landed 7:24 AM,PR2932,Philippine Airlines,68
+10/9/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:21:00,6:00:00,5:44:00,7:45:00,Landed 7:06 AM,PR2932,Philippine Airlines,68
+10/8/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:18:00,6:00:00,5:55:00,7:45:00,Landed 7:13 AM,PR2932,Philippine Airlines,68
+10/7/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:35:00,6:00:00,6:17:00,7:45:00,Landed 7:52 AM,PR2932,Philippine Airlines,68
+10/5/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:15:00,6:00:00,7:16:00,7:45:00,Landed 8:32 AM,PR2932,Philippine Airlines,68
+10/4/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:23:00,6:00:00,5:50:00,7:45:00,Landed 7:14 AM,PR2932,Philippine Airlines,68
+10/3/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:22:00,6:00:00,5:50:00,7:45:00,Landed 7:12 AM,PR2932,Philippine Airlines,68
+10/2/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:20:00,6:00:00,5:53:00,7:45:00,Landed 7:13 AM,PR2932,Philippine Airlines,68
+10/1/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:16:00,6:00:00,6:18:00,7:45:00,Landed 7:35 AM,PR2932,Philippine Airlines,68
+9/30/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:17:00,6:00:00,5:52:00,7:45:00,Landed 7:09 AM,PR2932,Philippine Airlines,68
+9/29/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:19:00,6:00:00,5:53:00,7:45:00,Landed 7:12 AM,PR2932,Philippine Airlines,68
+9/28/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:17:00,6:00:00,5:46:00,7:45:00,Landed 7:04 AM,PR2932,Philippine Airlines,68
+9/27/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:31:00,6:00:00,5:50:00,7:45:00,Landed 7:22 AM,PR2932,Philippine Airlines,68
+9/25/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:24:00,6:00:00,6:29:00,7:45:00,Landed 7:54 AM,PR2932,Philippine Airlines,68
+9/24/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:16:00,6:00:00,5:51:00,7:45:00,Landed 7:08 AM,PR2932,Philippine Airlines,68
+9/23/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:14:00,6:00:00,5:52:00,7:45:00,Landed 7:07 AM,PR2932,Philippine Airlines,68
+9/22/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5901),1:19:00,6:00:00,5:57:00,7:45:00,Landed 7:16 AM,PR2932,Philippine Airlines,68
+9/21/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:17:00,6:00:00,5:59:00,7:45:00,Landed 7:17 AM,PR2932,Philippine Airlines,68
+9/20/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:20:00,6:00:00,6:02:00,7:45:00,Landed 7:23 AM,PR2932,Philippine Airlines,68
+9/19/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5911),1:18:00,6:00:00,5:52:00,7:45:00,Landed 7:10 AM,PR2932,Philippine Airlines,68
+9/18/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5906),1:14:00,6:00:00,5:50:00,7:45:00,Landed 7:05 AM,PR2932,Philippine Airlines,68
+9/17/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5905),1:15:00,6:00:00,6:25:00,7:45:00,Landed 7:40 AM,PR2932,Philippine Airlines,68
+9/16/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:17:00,6:00:00,6:28:00,7:45:00,Landed 7:45 AM,PR2932,Philippine Airlines,68
+9/15/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:19:00,6:00:00,5:56:00,7:45:00,Landed 7:15 AM,PR2932,Philippine Airlines,68
+9/11/2022 0:00,Manila (MNL),Basco (BSO),DH8D (RP-C5902),1:13:00,6:00:00,5:51:00,7:45:00,Landed 7:05 AM,PR2932,Philippine Airlines,68
