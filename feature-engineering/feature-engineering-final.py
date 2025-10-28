@@ -129,7 +129,7 @@ def compute_passenger_and_hhi(files_or_dfs: Union[List[str], pd.DataFrame, str],
     df['FROM_IATA'] = df['FROM'].apply(extract_iata)
     df['TO_CITY'] = df['TO'].apply(extract_city_before_paren)
     df['TO_IATA'] = df['TO'].apply(extract_iata)
-    df['ROUTE'] = df['FROM_IATA'].fillna('') + "-" + df['TO_CITY'].fillna('')
+    df['ROUTE'] = df['FROM_IATA'].fillna('') + "-" + df['TO_IATA'].fillna('')
 
     # clean numeric fields
     df['LOAD_FACTOR'] = pd.to_numeric(df['LOAD_FACTOR'], errors='coerce').fillna(0.0)
@@ -234,7 +234,7 @@ if __name__ == "__main__":
 
     # Example: run on sample CSV (uncomment below to test inline)
     #sample_df = pd.read_csv('path_to_sample.csv')  # or load from your files
-    final_df = compute_passenger_and_hhi('small-scale/consolidated.csv', outpath='out_final.csv')
+    final_df = compute_passenger_and_hhi('test.csv', outpath='test_out.csv')
 
     # For demonstration only, do nothing here.
     pass
