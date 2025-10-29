@@ -44,6 +44,25 @@ def calculate_hhi(values):
     shares_pct = (arr / total) * 100.0
     return float(np.sum(shares_pct ** 2))
 
+def _is_incomplete_route_val(val):
+    """Return True if route is incomplete: missing, just '-', 'AAA-' or '-AAA' or empty side around dash."""
+    if pd.isna(val):
+        return True
+    s = str(val).strip()
+    if s == '' or s == '-':
+        return True
+    s_nospace = s.replace(' ', '')
+    s_up = s_nospace.upper()
+    # AAA- or -AAA (IATA-like)
+    if re.match(r'^[A-Z]{3}-$', s_up) or re.match(r'^-[A-Z]{3}$', s_up):
+        return True
+    # more general: split by dash and check if either side empty
+    parts = s.split('-')
+    if len(parts) == 2:
+        if parts[0].strip() == '' or parts[1].strip() == '':
+            return True
+    return False
+
 # -------------------------
 # Main pipeline
 # -------------------------
@@ -86,10 +105,34 @@ def compute_passenger_and_hhi(files_or_dfs: Union[List[str], pd.DataFrame, str],
                 return colmap[ch]
         return None
 
+    # ---------- EARLY DROPS ----------
+    # drop rows with unwanted airlines (do this as early as possible)
+    unwanted_airlines = {
+        'unknown', 'sunlight air', 'seair international', 'jeju air', 'air seoul'
+    }
+
+    AIRLINE_COL = pick('AIRLINE')
+    if AIRLINE_COL is not None:
+        # Make safe series (string, stripped, lower) and drop matches
+        airline_series = df[AIRLINE_COL].astype(str).str.strip().str.lower()
+        mask_unwanted = airline_series.isin(unwanted_airlines)
+        if mask_unwanted.any():
+            df = df.loc[~mask_unwanted].reset_index(drop=True)
+
+    # If input already has a ROUTE column, drop incomplete ones immediately
+    ROUTE_COL_INPUT = pick('ROUTE')
+    if ROUTE_COL_INPUT is not None:
+        mask_incomplete_route = df[ROUTE_COL_INPUT].apply(_is_incomplete_route_val)
+        if mask_incomplete_route.any():
+            df = df.loc[~mask_incomplete_route].reset_index(drop=True)
+
+    # -------------------------
+    # Continue with normal column detection/renaming
+    # -------------------------
     DATE_COL = pick('DATE')
     FROM_COL = pick('FROM')
     TO_COL = pick('TO')
-    AIRLINE_COL = pick('AIRLINE')
+    # AIRLINE_COL already set above (may be None)
     SEATS_COL = pick('# OF SEATS','NO. OF SEATS','SEATS','NUMBER OF SEATS')
     LOAD_COL = pick('LOAD FACTOR','LOAD_FACTOR','LOADFACTOR')
     MONTH_COL = pick('MONTH')
@@ -130,6 +173,18 @@ def compute_passenger_and_hhi(files_or_dfs: Union[List[str], pd.DataFrame, str],
     df['TO_CITY'] = df['TO'].apply(extract_city_before_paren)
     df['TO_IATA'] = df['TO'].apply(extract_iata)
     df['ROUTE'] = df['FROM_IATA'].fillna('') + "-" + df['TO_IATA'].fillna('')
+
+    # After constructing ROUTE, drop rows where constructed ROUTE is incomplete
+    mask_incomplete_constructed = df['ROUTE'].apply(_is_incomplete_route_val)
+    if mask_incomplete_constructed.any():
+        df = df.loc[~mask_incomplete_constructed].reset_index(drop=True)
+
+    # Also re-ensure we don't have unwanted airlines after rename (defensive)
+    if 'AIRLINE' in df.columns:
+        airline_series = df['AIRLINE'].astype(str).str.strip().str.lower()
+        mask_unwanted = airline_series.isin(unwanted_airlines)
+        if mask_unwanted.any():
+            df = df.loc[~mask_unwanted].reset_index(drop=True)
 
     # clean numeric fields
     df['LOAD_FACTOR'] = pd.to_numeric(df['LOAD_FACTOR'], errors='coerce').fillna(0.0)
@@ -234,7 +289,7 @@ if __name__ == "__main__":
 
     # Example: run on sample CSV (uncomment below to test inline)
     #sample_df = pd.read_csv('path_to_sample.csv')  # or load from your files
-    final_df = compute_passenger_and_hhi('test.csv', outpath='test_out.csv')
+    final_df = compute_passenger_and_hhi('final.csv', outpath='final_out.csv')
 
     # For demonstration only, do nothing here.
     pass

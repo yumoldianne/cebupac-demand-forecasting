@@ -16,7 +16,7 @@ from datetime import datetime
 
 # Configuration
 DATA_DIR = Path("data")
-OUTPUT_DIR = Path("output")
+OUTPUT_DIR = Path("data-cleaning/output")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 EXPECTED_COLS = [
     "DATE", "FROM", "TO", "AIRCRAFT", "FLIGHT TIME", "STD",
