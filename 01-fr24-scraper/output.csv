@@ -1,0 +1,825 @@
+DATE,FROM,TO,AIRCRAFT,FLIGHT TIME,STD,ATD,STA,STATUS,FLIGHT NUMBER,AIRLINE
+07 Nov 2025,Laoag City (LAO),Manila (MNL),32N,1:15,6:20 AM,—,7:35 AM,07 Nov 2025,5J405,Cebu Pacific
+06 Nov 2025,Laoag City (LAO),Manila (MNL),32N,1:15,5:25 AM,—,6:40 AM,06 Nov 2025,5J405,Cebu Pacific
+05 Nov 2025,Laoag City (LAO),Manila (MNL),32N,1:15,6:20 AM,—,7:35 AM,05 Nov 2025,5J405,Cebu Pacific
+04 Nov 2025,Laoag City (LAO),Manila (MNL),32N,1:15,5:25 AM,—,6:40 AM,04 Nov 2025,5J405,Cebu Pacific
+03 Nov 2025,Laoag City (LAO),Manila (MNL),32N,1:15,6:20 AM,—,7:35 AM,03 Nov 2025,5J405,Cebu Pacific
+02 Nov 2025,Laoag City (LAO),Manila (MNL),32N,1:15,6:20 AM,—,7:35 AM,02 Nov 2025,5J405,Cebu Pacific
+01 Nov 2025,Laoag City (LAO),Manila (MNL),32N,1:15,5:25 AM,—,6:40 AM,01 Nov 2025,5J405,Cebu Pacific
+31 Oct 2025,Laoag City (LAO),Manila (MNL),320,1:15,6:20 AM,—,7:35 AM,31 Oct 2025,5J405,Cebu Pacific
+30 Oct 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),1:15,5:25 AM,5:22 AM,6:40 AM,30 Oct 2025,5J405,Cebu Pacific
+29 Oct 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),1:15,6:20 AM,6:38 AM,7:35 AM,29 Oct 2025,5J405,Cebu Pacific
+28 Oct 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4262),1:15,5:25 AM,5:22 AM,6:40 AM,28 Oct 2025,5J405,Cebu Pacific
+27 Oct 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4266),1:15,6:20 AM,6:27 AM,7:35 AM,27 Oct 2025,5J405,Cebu Pacific
+26 Oct 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),1:15,6:20 AM,6:06 AM,7:35 AM,26 Oct 2025,5J405,Cebu Pacific
+25 Oct 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),1:15,6:35 AM,6:23 AM,7:50 AM,25 Oct 2025,5J405,Cebu Pacific
+23 Oct 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),1:15,6:35 AM,6:33 AM,7:50 AM,23 Oct 2025,5J405,Cebu Pacific
+22 Oct 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),1:15,6:35 AM,6:29 AM,7:50 AM,22 Oct 2025,5J405,Cebu Pacific
+21 Oct 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4263),1:15,6:35 AM,6:15 AM,7:50 AM,21 Oct 2025,5J405,Cebu Pacific
+20 Oct 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),1:15,6:35 AM,6:31 AM,7:50 AM,20 Oct 2025,5J405,Cebu Pacific
+19 Oct 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),1:15,6:35 AM,6:39 AM,7:50 AM,19 Oct 2025,5J405,Cebu Pacific
+18 Oct 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),1:15,6:35 AM,6:20 AM,7:50 AM,18 Oct 2025,5J405,Cebu Pacific
+17 Oct 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4266),1:15,6:35 AM,6:16 AM,7:50 AM,17 Oct 2025,5J405,Cebu Pacific
+16 Oct 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),1:15,6:35 AM,6:30 AM,7:50 AM,16 Oct 2025,5J405,Cebu Pacific
+15 Oct 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4263),1:15,6:35 AM,6:29 AM,7:50 AM,15 Oct 2025,5J405,Cebu Pacific
+14 Oct 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),1:15,6:35 AM,6:21 AM,7:50 AM,14 Oct 2025,5J405,Cebu Pacific
+13 Oct 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4266),1:15,6:35 AM,6:42 AM,7:50 AM,13 Oct 2025,5J405,Cebu Pacific
+12 Oct 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4263),1:15,6:35 AM,6:39 AM,7:50 AM,12 Oct 2025,5J405,Cebu Pacific
+11 Oct 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),1:15,6:35 AM,6:30 AM,7:50 AM,11 Oct 2025,5J405,Cebu Pacific
+10 Oct 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4266),1:15,6:35 AM,6:25 AM,7:50 AM,10 Oct 2025,5J405,Cebu Pacific
+09 Oct 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4265),1:15,6:35 AM,6:20 AM,7:50 AM,09 Oct 2025,5J405,Cebu Pacific
+08 Oct 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),1:15,6:35 AM,6:38 AM,7:50 AM,08 Oct 2025,5J405,Cebu Pacific
+07 Oct 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4266),1:15,6:35 AM,6:10 AM,7:50 AM,07 Oct 2025,5J405,Cebu Pacific
+06 Oct 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),1:15,6:35 AM,6:16 AM,7:50 AM,06 Oct 2025,5J405,Cebu Pacific
+05 Oct 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4266),1:15,6:35 AM,6:24 AM,7:50 AM,05 Oct 2025,5J405,Cebu Pacific
+04 Oct 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),1:15,6:35 AM,6:25 AM,7:50 AM,04 Oct 2025,5J405,Cebu Pacific
+03 Oct 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4266),1:15,6:35 AM,6:26 AM,7:50 AM,03 Oct 2025,5J405,Cebu Pacific
+02 Oct 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),1:15,6:35 AM,6:18 AM,7:50 AM,02 Oct 2025,5J405,Cebu Pacific
+01 Oct 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),1:15,6:35 AM,6:25 AM,7:50 AM,01 Oct 2025,5J405,Cebu Pacific
+30 Sep 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),1:15,6:35 AM,6:22 AM,7:50 AM,30 Sep 2025,5J405,Cebu Pacific
+29 Sep 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),1:15,6:35 AM,6:23 AM,7:50 AM,29 Sep 2025,5J405,Cebu Pacific
+28 Sep 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4266),1:15,6:35 AM,6:17 AM,7:50 AM,28 Sep 2025,5J405,Cebu Pacific
+26 Sep 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),1:15,6:35 AM,6:20 AM,7:50 AM,26 Sep 2025,5J405,Cebu Pacific
+24 Sep 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),1:15,6:35 AM,6:14 AM,7:50 AM,24 Sep 2025,5J405,Cebu Pacific
+21 Sep 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4265),1:15,6:35 AM,6:33 AM,7:50 AM,21 Sep 2025,5J405,Cebu Pacific
+19 Sep 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4263),1:15,6:35 AM,6:27 AM,7:50 AM,19 Sep 2025,5J405,Cebu Pacific
+17 Sep 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),1:15,6:35 AM,6:24 AM,7:50 AM,17 Sep 2025,5J405,Cebu Pacific
+14 Sep 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4263),1:15,6:35 AM,6:18 AM,7:50 AM,14 Sep 2025,5J405,Cebu Pacific
+12 Sep 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),1:15,6:35 AM,6:51 AM,7:50 AM,12 Sep 2025,5J405,Cebu Pacific
+10 Sep 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),1:15,6:35 AM,6:19 AM,7:50 AM,10 Sep 2025,5J405,Cebu Pacific
+08 Sep 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),1:15,6:35 AM,6:24 AM,7:50 AM,08 Sep 2025,5J405,Cebu Pacific
+07 Sep 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),1:15,6:35 AM,6:32 AM,7:50 AM,07 Sep 2025,5J405,Cebu Pacific
+05 Sep 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4265),1:15,6:35 AM,6:22 AM,7:50 AM,05 Sep 2025,5J405,Cebu Pacific
+03 Sep 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),1:15,6:35 AM,6:23 AM,7:50 AM,03 Sep 2025,5J405,Cebu Pacific
+01 Sep 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),1:15,6:35 AM,6:35 AM,7:50 AM,01 Sep 2025,5J405,Cebu Pacific
+31 Aug 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),1:15,6:35 AM,6:24 AM,7:50 AM,31 Aug 2025,5J405,Cebu Pacific
+30 Aug 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4156),1:15,6:35 AM,6:22 AM,7:50 AM,30 Aug 2025,5J405,Cebu Pacific
+28 Aug 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4156),1:15,6:35 AM,6:14 AM,7:50 AM,28 Aug 2025,5J405,Cebu Pacific
+27 Aug 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),1:15,6:35 AM,6:25 AM,7:50 AM,27 Aug 2025,5J405,Cebu Pacific
+26 Aug 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4265),1:15,6:35 AM,6:34 AM,7:50 AM,26 Aug 2025,5J405,Cebu Pacific
+25 Aug 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),1:15,6:35 AM,6:48 AM,7:50 AM,25 Aug 2025,5J405,Cebu Pacific
+24 Aug 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4350),1:15,6:35 AM,6:26 AM,7:50 AM,24 Aug 2025,5J405,Cebu Pacific
+23 Aug 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),1:15,6:35 AM,6:20 AM,7:50 AM,23 Aug 2025,5J405,Cebu Pacific
+22 Aug 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),1:15,6:35 AM,6:24 AM,7:50 AM,22 Aug 2025,5J405,Cebu Pacific
+21 Aug 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),1:15,6:35 AM,6:29 AM,7:50 AM,21 Aug 2025,5J405,Cebu Pacific
+20 Aug 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),1:15,6:35 AM,7:00 AM,7:50 AM,20 Aug 2025,5J405,Cebu Pacific
+19 Aug 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4156),1:15,6:35 AM,7:10 AM,7:50 AM,19 Aug 2025,5J405,Cebu Pacific
+18 Aug 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),1:15,6:35 AM,6:25 AM,7:50 AM,18 Aug 2025,5J405,Cebu Pacific
+17 Aug 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4350),1:15,6:35 AM,6:21 AM,7:50 AM,17 Aug 2025,5J405,Cebu Pacific
+16 Aug 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4266),1:15,6:35 AM,6:30 AM,7:50 AM,16 Aug 2025,5J405,Cebu Pacific
+15 Aug 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),1:15,6:35 AM,6:28 AM,7:50 AM,15 Aug 2025,5J405,Cebu Pacific
+14 Aug 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),1:15,6:35 AM,6:25 AM,7:50 AM,14 Aug 2025,5J405,Cebu Pacific
+13 Aug 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),1:15,6:35 AM,6:40 AM,7:50 AM,13 Aug 2025,5J405,Cebu Pacific
+12 Aug 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),1:15,6:35 AM,6:18 AM,7:50 AM,12 Aug 2025,5J405,Cebu Pacific
+11 Aug 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4350),1:15,6:35 AM,6:44 AM,7:50 AM,11 Aug 2025,5J405,Cebu Pacific
+10 Aug 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4330),1:15,6:35 AM,6:41 AM,7:50 AM,10 Aug 2025,5J405,Cebu Pacific
+09 Aug 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4350),1:15,6:35 AM,6:15 AM,7:50 AM,09 Aug 2025,5J405,Cebu Pacific
+08 Aug 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),1:15,6:35 AM,6:26 AM,7:50 AM,08 Aug 2025,5J405,Cebu Pacific
+07 Aug 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),1:15,6:35 AM,6:25 AM,7:50 AM,07 Aug 2025,5J405,Cebu Pacific
+06 Aug 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),1:15,6:35 AM,6:12 AM,7:50 AM,06 Aug 2025,5J405,Cebu Pacific
+05 Aug 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),1:15,6:35 AM,6:21 AM,7:50 AM,05 Aug 2025,5J405,Cebu Pacific
+04 Aug 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),1:15,6:35 AM,6:31 AM,7:50 AM,04 Aug 2025,5J405,Cebu Pacific
+03 Aug 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),1:15,6:35 AM,6:17 AM,7:50 AM,03 Aug 2025,5J405,Cebu Pacific
+02 Aug 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),1:15,6:35 AM,6:24 AM,7:50 AM,02 Aug 2025,5J405,Cebu Pacific
+01 Aug 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4156),1:15,6:35 AM,6:32 AM,7:50 AM,01 Aug 2025,5J405,Cebu Pacific
+31 Jul 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4265),1:15,6:35 AM,6:19 AM,7:50 AM,31 Jul 2025,5J405,Cebu Pacific
+30 Jul 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4266),1:15,6:35 AM,6:29 AM,7:50 AM,30 Jul 2025,5J405,Cebu Pacific
+29 Jul 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),1:15,6:35 AM,6:34 AM,7:50 AM,29 Jul 2025,5J405,Cebu Pacific
+28 Jul 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4266),1:15,6:35 AM,6:35 AM,7:50 AM,28 Jul 2025,5J405,Cebu Pacific
+27 Jul 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4266),1:15,6:35 AM,6:24 AM,7:50 AM,27 Jul 2025,5J405,Cebu Pacific
+26 Jul 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),1:15,6:35 AM,6:20 AM,7:50 AM,26 Jul 2025,5J405,Cebu Pacific
+22 Jul 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4265),1:15,6:35 AM,6:22 AM,7:50 AM,22 Jul 2025,5J405,Cebu Pacific
+21 Jul 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4350),1:15,6:35 AM,6:31 AM,7:50 AM,21 Jul 2025,5J405,Cebu Pacific
+20 Jul 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),1:15,6:35 AM,6:31 AM,7:50 AM,20 Jul 2025,5J405,Cebu Pacific
+18 Jul 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4265),1:15,6:35 AM,6:31 AM,7:50 AM,18 Jul 2025,5J405,Cebu Pacific
+17 Jul 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),1:15,6:35 AM,6:27 AM,7:50 AM,17 Jul 2025,5J405,Cebu Pacific
+16 Jul 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4266),1:15,6:35 AM,7:34 AM,7:50 AM,16 Jul 2025,5J405,Cebu Pacific
+15 Jul 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),1:15,6:35 AM,6:38 AM,7:50 AM,15 Jul 2025,5J405,Cebu Pacific
+14 Jul 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4330),1:15,6:35 AM,6:36 AM,7:50 AM,14 Jul 2025,5J405,Cebu Pacific
+13 Jul 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4266),1:15,6:35 AM,6:29 AM,7:50 AM,13 Jul 2025,5J405,Cebu Pacific
+12 Jul 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4266),1:15,6:35 AM,6:18 AM,7:50 AM,12 Jul 2025,5J405,Cebu Pacific
+11 Jul 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4350),1:15,6:35 AM,6:39 AM,7:50 AM,11 Jul 2025,5J405,Cebu Pacific
+10 Jul 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4265),,,,,Landed 11:15 PM,5J405,Cebu Pacific
+08 Jul 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4330),,,,,Landed 11:14 PM,5J405,Cebu Pacific
+07 Jul 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:23 PM,5J405,Cebu Pacific
+06 Jul 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 11:56 PM,5J405,Cebu Pacific
+05 Jul 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4265),,,,,Landed 11:24 PM,5J405,Cebu Pacific
+04 Jul 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4265),,,,,Landed 11:21 PM,5J405,Cebu Pacific
+03 Jul 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4265),,,,,Landed 11:15 PM,5J405,Cebu Pacific
+02 Jul 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 11:21 PM,5J405,Cebu Pacific
+01 Jul 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4265),,,,,Landed 11:15 PM,5J405,Cebu Pacific
+30 Jun 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4350),,,,,Landed 11:17 PM,5J405,Cebu Pacific
+29 Jun 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4350),,,,,Landed 11:26 PM,5J405,Cebu Pacific
+28 Jun 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4265),,,,,Landed 11:46 PM,5J405,Cebu Pacific
+27 Jun 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4265),,,,,Landed 11:16 PM,5J405,Cebu Pacific
+26 Jun 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4265),,,,,Landed 11:24 PM,5J405,Cebu Pacific
+25 Jun 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4265),,,,,Landed 11:20 PM,5J405,Cebu Pacific
+24 Jun 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),,,,,Landed 11:14 PM,5J405,Cebu Pacific
+23 Jun 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 11:22 PM,5J405,Cebu Pacific
+22 Jun 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),,,,,Landed 11:25 PM,5J405,Cebu Pacific
+21 Jun 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),,,,,Landed 11:04 PM,5J405,Cebu Pacific
+20 Jun 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),,,,,Landed 11:10 PM,5J405,Cebu Pacific
+19 Jun 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4350),,,,,Landed 11:41 PM,5J405,Cebu Pacific
+18 Jun 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 11:03 PM,5J405,Cebu Pacific
+17 Jun 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 11:19 PM,5J405,Cebu Pacific
+16 Jun 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 11:08 PM,5J405,Cebu Pacific
+15 Jun 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:13 PM,5J405,Cebu Pacific
+14 Jun 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 11:06 PM,5J405,Cebu Pacific
+13 Jun 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 11:22 PM,5J405,Cebu Pacific
+12 Jun 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:22 PM,5J405,Cebu Pacific
+11 Jun 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 11:19 PM,5J405,Cebu Pacific
+10 Jun 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:20 PM,5J405,Cebu Pacific
+09 Jun 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),,,,,Landed 2:58 AM,5J405,Cebu Pacific
+08 Jun 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),,,,,Landed 11:29 PM,5J405,Cebu Pacific
+07 Jun 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:28 PM,5J405,Cebu Pacific
+06 Jun 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 11:12 PM,5J405,Cebu Pacific
+05 Jun 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 11:22 PM,5J405,Cebu Pacific
+04 Jun 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 10:58 PM,5J405,Cebu Pacific
+03 Jun 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 11:24 PM,5J405,Cebu Pacific
+02 Jun 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:33 PM,5J405,Cebu Pacific
+01 Jun 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:04 PM,5J405,Cebu Pacific
+31 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 11:23 PM,5J405,Cebu Pacific
+30 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 12:14 AM,5J405,Cebu Pacific
+29 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:17 PM,5J405,Cebu Pacific
+28 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4156),,,,,Landed 11:40 PM,5J405,Cebu Pacific
+27 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 11:19 PM,5J405,Cebu Pacific
+26 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 11:25 PM,5J405,Cebu Pacific
+25 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 11:28 PM,5J405,Cebu Pacific
+24 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4262),,,,,Landed 11:25 PM,5J405,Cebu Pacific
+23 May 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),,,,,Landed 11:25 PM,5J405,Cebu Pacific
+22 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4263),,,,,Landed 11:23 PM,5J405,Cebu Pacific
+21 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:06 PM,5J405,Cebu Pacific
+20 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 11:39 PM,5J405,Cebu Pacific
+19 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4262),,,,,Landed 11:20 PM,5J405,Cebu Pacific
+18 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:11 PM,5J405,Cebu Pacific
+17 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4262),,,,,Landed 11:19 PM,5J405,Cebu Pacific
+16 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4262),,,,,Landed 11:26 PM,5J405,Cebu Pacific
+15 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 11:20 PM,5J405,Cebu Pacific
+14 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4262),,,,,Landed 11:43 PM,5J405,Cebu Pacific
+13 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 11:28 PM,5J405,Cebu Pacific
+12 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 11:03 PM,5J405,Cebu Pacific
+11 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4262),,,,,Landed 11:17 PM,5J405,Cebu Pacific
+10 May 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4266),,,,,Landed 11:27 PM,5J405,Cebu Pacific
+09 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 11:16 PM,5J405,Cebu Pacific
+08 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:23 PM,5J405,Cebu Pacific
+07 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 11:15 PM,5J405,Cebu Pacific
+06 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 11:16 PM,5J405,Cebu Pacific
+05 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:27 PM,5J405,Cebu Pacific
+04 May 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),,,,,Landed 11:12 PM,5J405,Cebu Pacific
+03 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:22 PM,5J405,Cebu Pacific
+02 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4262),,,,,Landed 11:23 PM,5J405,Cebu Pacific
+01 May 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:18 PM,5J405,Cebu Pacific
+30 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:19 PM,5J405,Cebu Pacific
+29 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4262),,,,,Landed 11:10 PM,5J405,Cebu Pacific
+28 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4262),,,,,Landed 11:26 PM,5J405,Cebu Pacific
+27 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:06 PM,5J405,Cebu Pacific
+26 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:20 PM,5J405,Cebu Pacific
+25 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4263),,,,,Landed 11:09 PM,5J405,Cebu Pacific
+24 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4262),,,,,Landed 11:19 PM,5J405,Cebu Pacific
+23 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:18 PM,5J405,Cebu Pacific
+22 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 11:10 PM,5J405,Cebu Pacific
+21 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4263),,,,,Landed 11:17 PM,5J405,Cebu Pacific
+20 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:22 PM,5J405,Cebu Pacific
+19 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 11:22 PM,5J405,Cebu Pacific
+18 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:16 PM,5J405,Cebu Pacific
+17 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 11:04 PM,5J405,Cebu Pacific
+16 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4263),,,,,Landed 11:11 PM,5J405,Cebu Pacific
+15 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 10:57 PM,5J405,Cebu Pacific
+14 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4263),,,,,Landed 11:19 PM,5J405,Cebu Pacific
+13 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4263),,,,,Landed 11:14 PM,5J405,Cebu Pacific
+12 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 11:20 PM,5J405,Cebu Pacific
+11 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:02 PM,5J405,Cebu Pacific
+10 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:57 PM,5J405,Cebu Pacific
+09 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:39 PM,5J405,Cebu Pacific
+08 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:02 PM,5J405,Cebu Pacific
+07 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4263),,,,,Landed 11:14 PM,5J405,Cebu Pacific
+06 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4263),,,,,Landed 10:57 PM,5J405,Cebu Pacific
+05 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4262),,,,,Landed 11:45 PM,5J405,Cebu Pacific
+04 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 11:17 PM,5J405,Cebu Pacific
+03 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4330),,,,,Landed 11:03 PM,5J405,Cebu Pacific
+02 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 10:59 PM,5J405,Cebu Pacific
+01 Apr 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:05 PM,5J405,Cebu Pacific
+31 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4263),,,,,Landed 11:39 PM,5J405,Cebu Pacific
+30 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 11:07 PM,5J405,Cebu Pacific
+29 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 10:50 PM,5J405,Cebu Pacific
+28 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:00 PM,5J405,Cebu Pacific
+27 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 12:04 AM,5J405,Cebu Pacific
+26 Mar 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),,,,,Landed 10:54 PM,5J405,Cebu Pacific
+25 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 10:52 PM,5J405,Cebu Pacific
+24 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 10:56 PM,5J405,Cebu Pacific
+23 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:00 PM,5J405,Cebu Pacific
+22 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 10:41 PM,5J405,Cebu Pacific
+21 Mar 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),,,,,Landed 11:10 PM,5J405,Cebu Pacific
+20 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:31 PM,5J405,Cebu Pacific
+19 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:20 PM,5J405,Cebu Pacific
+18 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 10:59 PM,5J405,Cebu Pacific
+16 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 12:00 AM,5J405,Cebu Pacific
+15 Mar 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4350),,,,,Landed 10:56 PM,5J405,Cebu Pacific
+14 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:11 PM,5J405,Cebu Pacific
+13 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 10:58 PM,5J405,Cebu Pacific
+12 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 11:17 PM,5J405,Cebu Pacific
+11 Mar 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4266),,,,,Landed 11:29 PM,5J405,Cebu Pacific
+10 Mar 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4266),,,,,Landed 11:02 PM,5J405,Cebu Pacific
+09 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 10:57 PM,5J405,Cebu Pacific
+08 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:53 PM,5J405,Cebu Pacific
+07 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:15 PM,5J405,Cebu Pacific
+06 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 10:46 PM,5J405,Cebu Pacific
+05 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:44 PM,5J405,Cebu Pacific
+04 Mar 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4350),,,,,Landed 10:59 PM,5J405,Cebu Pacific
+03 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:08 PM,5J405,Cebu Pacific
+02 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:49 PM,5J405,Cebu Pacific
+01 Mar 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:59 PM,5J405,Cebu Pacific
+28 Feb 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4266),,,,,Landed 11:16 PM,5J405,Cebu Pacific
+27 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:59 PM,5J405,Cebu Pacific
+26 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4263),,,,,Landed 11:45 PM,5J405,Cebu Pacific
+25 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 10:55 PM,5J405,Cebu Pacific
+24 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:49 PM,5J405,Cebu Pacific
+23 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:18 PM,5J405,Cebu Pacific
+22 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:06 PM,5J405,Cebu Pacific
+21 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:10 PM,5J405,Cebu Pacific
+20 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4263),,,,,Landed 11:09 PM,5J405,Cebu Pacific
+19 Feb 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),,,,,Landed 11:58 PM,5J405,Cebu Pacific
+18 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 10:55 PM,5J405,Cebu Pacific
+17 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 12:00 AM,5J405,Cebu Pacific
+16 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 11:01 PM,5J405,Cebu Pacific
+15 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:09 PM,5J405,Cebu Pacific
+14 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:21 PM,5J405,Cebu Pacific
+13 Feb 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),,,,,Landed 10:54 PM,5J405,Cebu Pacific
+12 Feb 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),,,,,Landed 11:28 PM,5J405,Cebu Pacific
+11 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4330),,,,,Landed 10:51 PM,5J405,Cebu Pacific
+10 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:16 PM,5J405,Cebu Pacific
+09 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:55 PM,5J405,Cebu Pacific
+08 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 11:31 PM,5J405,Cebu Pacific
+07 Feb 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),,,,,Landed 11:00 PM,5J405,Cebu Pacific
+06 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:01 PM,5J405,Cebu Pacific
+05 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:14 PM,5J405,Cebu Pacific
+04 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 10:52 PM,5J405,Cebu Pacific
+03 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 10:54 PM,5J405,Cebu Pacific
+02 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:02 PM,5J405,Cebu Pacific
+01 Feb 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4262),,,,,Landed 11:05 PM,5J405,Cebu Pacific
+31 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4262),,,,,Landed 10:51 PM,5J405,Cebu Pacific
+30 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:09 PM,5J405,Cebu Pacific
+29 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:15 PM,5J405,Cebu Pacific
+28 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4262),,,,,Landed 10:49 PM,5J405,Cebu Pacific
+27 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:29 PM,5J405,Cebu Pacific
+26 Jan 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),,,,,Landed 10:54 PM,5J405,Cebu Pacific
+25 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 10:51 PM,5J405,Cebu Pacific
+24 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4330),,,,,Landed 11:14 PM,5J405,Cebu Pacific
+23 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 11:01 PM,5J405,Cebu Pacific
+22 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 10:52 PM,5J405,Cebu Pacific
+21 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 10:51 PM,5J405,Cebu Pacific
+20 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 10:57 PM,5J405,Cebu Pacific
+19 Jan 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4158),,,,,Landed 11:04 PM,5J405,Cebu Pacific
+18 Jan 2025,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),,,,,Landed 11:00 PM,5J405,Cebu Pacific
+17 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 10:54 PM,5J405,Cebu Pacific
+16 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 10:55 PM,5J405,Cebu Pacific
+15 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 11:06 PM,5J405,Cebu Pacific
+14 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 10:55 PM,5J405,Cebu Pacific
+13 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:15 PM,5J405,Cebu Pacific
+12 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:01 PM,5J405,Cebu Pacific
+11 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 11:05 PM,5J405,Cebu Pacific
+10 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4263),,,,,Landed 10:55 PM,5J405,Cebu Pacific
+09 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 10:53 PM,5J405,Cebu Pacific
+08 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4330),,,,,Landed 11:00 PM,5J405,Cebu Pacific
+07 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:03 PM,5J405,Cebu Pacific
+06 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 11:12 PM,5J405,Cebu Pacific
+05 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:08 PM,5J405,Cebu Pacific
+04 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 11:08 PM,5J405,Cebu Pacific
+02 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:01 PM,5J405,Cebu Pacific
+01 Jan 2025,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:58 PM,5J405,Cebu Pacific
+31 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:54 PM,5J405,Cebu Pacific
+30 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 10:55 PM,5J405,Cebu Pacific
+29 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 10:54 PM,5J405,Cebu Pacific
+28 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 11:03 PM,5J405,Cebu Pacific
+27 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 11:03 PM,5J405,Cebu Pacific
+26 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 11:14 PM,5J405,Cebu Pacific
+25 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 12:24 AM,5J405,Cebu Pacific
+24 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 10:57 PM,5J405,Cebu Pacific
+23 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:25 PM,5J405,Cebu Pacific
+22 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:18 PM,5J405,Cebu Pacific
+21 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:07 PM,5J405,Cebu Pacific
+20 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 10:56 PM,5J405,Cebu Pacific
+19 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 10:57 PM,5J405,Cebu Pacific
+18 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:28 PM,5J405,Cebu Pacific
+17 Dec 2024,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),,,,,Landed 10:56 PM,5J405,Cebu Pacific
+16 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:05 PM,5J405,Cebu Pacific
+15 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:00 PM,5J405,Cebu Pacific
+14 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 11:05 PM,5J405,Cebu Pacific
+13 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:11 PM,5J405,Cebu Pacific
+12 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4156),,,,,Landed 10:54 PM,5J405,Cebu Pacific
+11 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4262),,,,,Landed 11:00 PM,5J405,Cebu Pacific
+10 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4262),,,,,Landed 10:59 PM,5J405,Cebu Pacific
+09 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 10:54 PM,5J405,Cebu Pacific
+08 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4262),,,,,Landed 11:02 PM,5J405,Cebu Pacific
+07 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 10:52 PM,5J405,Cebu Pacific
+06 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 10:41 PM,5J405,Cebu Pacific
+05 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4262),,,,,Landed 10:48 PM,5J405,Cebu Pacific
+04 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:14 PM,5J405,Cebu Pacific
+03 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 11:01 PM,5J405,Cebu Pacific
+02 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 10:55 PM,5J405,Cebu Pacific
+01 Dec 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 11:05 PM,5J405,Cebu Pacific
+30 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 11:01 PM,5J405,Cebu Pacific
+29 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 11:04 PM,5J405,Cebu Pacific
+28 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 10:54 PM,5J405,Cebu Pacific
+27 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 10:59 PM,5J405,Cebu Pacific
+26 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:51 PM,5J405,Cebu Pacific
+25 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:55 PM,5J405,Cebu Pacific
+24 Nov 2024,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),,,,,Landed 11:34 PM,5J405,Cebu Pacific
+23 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:03 PM,5J405,Cebu Pacific
+22 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 11:02 PM,5J405,Cebu Pacific
+21 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 10:55 PM,5J405,Cebu Pacific
+20 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 11:02 PM,5J405,Cebu Pacific
+19 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:54 PM,5J405,Cebu Pacific
+18 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3268),,,,,Landed 11:01 PM,5J405,Cebu Pacific
+17 Nov 2024,Laoag City (LAO),Manila (MNL),A20N (RP-C4331),,,,,Landed 10:55 PM,5J405,Cebu Pacific
+16 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 10:56 PM,5J405,Cebu Pacific
+15 Nov 2024,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),,,,,Landed 11:22 PM,5J405,Cebu Pacific
+14 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:02 PM,5J405,Cebu Pacific
+12 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4156),,,,,Landed 11:34 PM,5J405,Cebu Pacific
+11 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4330),,,,,Landed 11:31 PM,5J405,Cebu Pacific
+10 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4262),,,,,Landed 11:25 PM,5J405,Cebu Pacific
+09 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:22 PM,5J405,Cebu Pacific
+07 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 11:35 PM,5J405,Cebu Pacific
+06 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 11:23 PM,5J405,Cebu Pacific
+05 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4263),,,,,Landed 11:24 PM,5J405,Cebu Pacific
+04 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 11:23 PM,5J405,Cebu Pacific
+03 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 11:21 PM,5J405,Cebu Pacific
+02 Nov 2024,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),,,,,Landed 11:06 PM,5J405,Cebu Pacific
+01 Nov 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4262),,,,,Landed 11:12 PM,5J405,Cebu Pacific
+31 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4262),,,,,Landed 11:24 PM,5J405,Cebu Pacific
+30 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 11:18 PM,5J405,Cebu Pacific
+29 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:28 PM,5J405,Cebu Pacific
+28 Oct 2024,Laoag City (LAO),Manila (MNL),A20N (RP-C4264),,,,,Landed 11:23 PM,5J405,Cebu Pacific
+27 Oct 2024,Laoag City (LAO),Manila (MNL),A20N (RP-C4350),,,,,Landed 11:25 PM,5J405,Cebu Pacific
+26 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:46 PM,5J405,Cebu Pacific
+23 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4330),,,,,Landed 12:17 AM,5J405,Cebu Pacific
+22 Oct 2024,Laoag City (LAO),Manila (MNL),A20N (RP-C4331),,,,,Landed 11:56 PM,5J405,Cebu Pacific
+21 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4263),,,,,Landed 11:47 PM,5J405,Cebu Pacific
+20 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 11:57 PM,5J405,Cebu Pacific
+19 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 12:04 AM,5J405,Cebu Pacific
+18 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 12:00 AM,5J405,Cebu Pacific
+17 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 11:51 PM,5J405,Cebu Pacific
+16 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:50 PM,5J405,Cebu Pacific
+15 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:43 PM,5J405,Cebu Pacific
+14 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 11:47 PM,5J405,Cebu Pacific
+13 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 11:29 PM,5J405,Cebu Pacific
+12 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 11:40 PM,5J405,Cebu Pacific
+11 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 11:52 PM,5J405,Cebu Pacific
+10 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 11:41 PM,5J405,Cebu Pacific
+09 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 11:52 PM,5J405,Cebu Pacific
+08 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 11:40 PM,5J405,Cebu Pacific
+07 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:41 PM,5J405,Cebu Pacific
+06 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 12:00 AM,5J405,Cebu Pacific
+05 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 11:36 PM,5J405,Cebu Pacific
+04 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 12:12 AM,5J405,Cebu Pacific
+03 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 11:52 PM,5J405,Cebu Pacific
+02 Oct 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 12:01 AM,5J405,Cebu Pacific
+28 Sep 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 11:48 PM,5J405,Cebu Pacific
+26 Sep 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4263),,,,,Landed 11:54 PM,5J405,Cebu Pacific
+24 Sep 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:51 PM,5J405,Cebu Pacific
+22 Sep 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 11:54 PM,5J405,Cebu Pacific
+21 Sep 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 11:45 PM,5J405,Cebu Pacific
+19 Sep 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:51 PM,5J405,Cebu Pacific
+18 Sep 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 11:54 PM,5J405,Cebu Pacific
+17 Sep 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 11:27 PM,5J405,Cebu Pacific
+15 Sep 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 1:07 AM,5J405,Cebu Pacific
+14 Sep 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:46 PM,5J405,Cebu Pacific
+12 Sep 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 11:44 PM,5J405,Cebu Pacific
+11 Sep 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3268),,,,,Landed 11:39 PM,5J405,Cebu Pacific
+10 Sep 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4156),,,,,Landed 11:43 PM,5J405,Cebu Pacific
+08 Sep 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 11:47 PM,5J405,Cebu Pacific
+07 Sep 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:50 PM,5J405,Cebu Pacific
+05 Sep 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:56 PM,5J405,Cebu Pacific
+04 Sep 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 12:03 AM,5J405,Cebu Pacific
+01 Sep 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3268),,,,,Landed 11:37 PM,5J405,Cebu Pacific
+31 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 11:40 PM,5J405,Cebu Pacific
+30 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3268),,,,,Landed 11:42 PM,5J405,Cebu Pacific
+27 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 11:33 PM,5J405,Cebu Pacific
+26 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 12:52 AM,5J405,Cebu Pacific
+25 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 11:37 PM,5J405,Cebu Pacific
+24 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 12:00 AM,5J405,Cebu Pacific
+23 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 12:00 AM,5J405,Cebu Pacific
+22 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 11:34 PM,5J405,Cebu Pacific
+21 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 11:39 PM,5J405,Cebu Pacific
+20 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 12:08 AM,5J405,Cebu Pacific
+19 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:37 PM,5J405,Cebu Pacific
+18 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:31 PM,5J405,Cebu Pacific
+17 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:30 PM,5J405,Cebu Pacific
+16 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:58 PM,5J405,Cebu Pacific
+15 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:51 PM,5J405,Cebu Pacific
+14 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 12:01 AM,5J405,Cebu Pacific
+13 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:48 PM,5J405,Cebu Pacific
+12 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:41 PM,5J405,Cebu Pacific
+11 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:43 PM,5J405,Cebu Pacific
+10 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3268),,,,,Landed 11:31 PM,5J405,Cebu Pacific
+09 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 11:42 PM,5J405,Cebu Pacific
+08 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:54 PM,5J405,Cebu Pacific
+07 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:56 PM,5J405,Cebu Pacific
+05 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 12:19 AM,5J405,Cebu Pacific
+04 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 11:40 PM,5J405,Cebu Pacific
+03 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:49 PM,5J405,Cebu Pacific
+02 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:52 PM,5J405,Cebu Pacific
+01 Aug 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 11:34 PM,5J405,Cebu Pacific
+31 Jul 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 11:36 PM,5J405,Cebu Pacific
+30 Jul 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 12:03 AM,5J405,Cebu Pacific
+28 Jul 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3268),,,,,Landed 12:02 AM,5J405,Cebu Pacific
+27 Jul 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 12:09 AM,5J405,Cebu Pacific
+26 Jul 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 12:07 AM,5J405,Cebu Pacific
+21 Jul 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 11:56 PM,5J405,Cebu Pacific
+19 Jul 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 11:55 PM,5J405,Cebu Pacific
+18 Jul 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:07 PM,5J405,Cebu Pacific
+17 Jul 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 12:00 AM,5J405,Cebu Pacific
+16 Jul 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 1:31 AM,5J405,Cebu Pacific
+14 Jul 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 11:31 PM,5J405,Cebu Pacific
+13 Jul 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 11:58 PM,5J405,Cebu Pacific
+12 Jul 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 11:53 PM,5J405,Cebu Pacific
+11 Jul 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 11:32 PM,5J405,Cebu Pacific
+09 Jul 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 11:51 PM,5J405,Cebu Pacific
+07 Jul 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 11:44 PM,5J405,Cebu Pacific
+06 Jul 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4156),,,,,Landed 11:44 PM,5J405,Cebu Pacific
+05 Jul 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 11:37 PM,5J405,Cebu Pacific
+04 Jul 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 11:28 PM,5J405,Cebu Pacific
+03 Jul 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:46 PM,5J405,Cebu Pacific
+02 Jul 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 11:38 PM,5J405,Cebu Pacific
+01 Jul 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 11:50 PM,5J405,Cebu Pacific
+30 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:42 PM,5J405,Cebu Pacific
+29 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 11:35 PM,5J405,Cebu Pacific
+28 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 12:05 AM,5J405,Cebu Pacific
+27 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3268),,,,,Landed 12:04 AM,5J405,Cebu Pacific
+26 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 12:02 AM,5J405,Cebu Pacific
+25 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 11:42 PM,5J405,Cebu Pacific
+24 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 11:30 PM,5J405,Cebu Pacific
+23 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:37 PM,5J405,Cebu Pacific
+22 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 11:45 PM,5J405,Cebu Pacific
+21 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 12:06 AM,5J405,Cebu Pacific
+20 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 11:49 PM,5J405,Cebu Pacific
+19 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:56 PM,5J405,Cebu Pacific
+18 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 12:10 AM,5J405,Cebu Pacific
+17 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4330),,,,,Landed 11:47 PM,5J405,Cebu Pacific
+16 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 11:52 PM,5J405,Cebu Pacific
+15 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 11:31 PM,5J405,Cebu Pacific
+14 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 11:29 PM,5J405,Cebu Pacific
+13 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 11:35 PM,5J405,Cebu Pacific
+12 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4156),,,,,Landed 11:46 PM,5J405,Cebu Pacific
+10 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4330),,,,,Landed 11:49 PM,5J405,Cebu Pacific
+09 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 11:24 PM,5J405,Cebu Pacific
+08 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4330),,,,,Landed 11:19 PM,5J405,Cebu Pacific
+07 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4330),,,,,Landed 11:46 PM,5J405,Cebu Pacific
+06 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4330),,,,,Landed 11:39 PM,5J405,Cebu Pacific
+05 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 12:02 AM,5J405,Cebu Pacific
+04 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 11:30 PM,5J405,Cebu Pacific
+03 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 11:53 PM,5J405,Cebu Pacific
+02 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 11:34 PM,5J405,Cebu Pacific
+01 Jun 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4156),,,,,Landed 11:28 PM,5J405,Cebu Pacific
+31 May 2024,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),,,,,Landed 11:49 PM,5J405,Cebu Pacific
+30 May 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 11:38 PM,5J405,Cebu Pacific
+27 May 2024,Laoag City (LAO),Manila (MNL),A20N (RP-C4267),,,,,Landed 11:44 PM,5J405,Cebu Pacific
+26 May 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 11:39 PM,5J405,Cebu Pacific
+25 May 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 11:33 PM,5J405,Cebu Pacific
+24 May 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 11:27 PM,5J405,Cebu Pacific
+23 May 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:31 PM,5J405,Cebu Pacific
+22 May 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 11:43 PM,5J405,Cebu Pacific
+20 May 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 11:20 PM,5J405,Cebu Pacific
+19 May 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 11:24 PM,5J405,Cebu Pacific
+18 May 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 11:30 PM,5J405,Cebu Pacific
+17 May 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 11:26 PM,5J405,Cebu Pacific
+16 May 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:26 PM,5J405,Cebu Pacific
+15 May 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 11:32 PM,5J405,Cebu Pacific
+14 May 2024,Laoag City (LAO),Manila (MNL),A20N (RP-C4159),,,,,Landed 11:34 PM,5J405,Cebu Pacific
+13 May 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:42 PM,5J405,Cebu Pacific
+12 May 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:36 PM,5J405,Cebu Pacific
+11 May 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:45 PM,5J405,Cebu Pacific
+10 May 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:41 PM,5J405,Cebu Pacific
+08 May 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:51 PM,5J405,Cebu Pacific
+07 May 2024,Laoag City (LAO),Manila (MNL),A20N (RP-C4331),,,,,Landed 11:53 PM,5J405,Cebu Pacific
+06 May 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 12:10 AM,5J405,Cebu Pacific
+05 May 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 11:27 PM,5J405,Cebu Pacific
+04 May 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 11:52 PM,5J405,Cebu Pacific
+03 May 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4156),,,,,Landed 11:46 PM,5J405,Cebu Pacific
+02 May 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 11:37 PM,5J405,Cebu Pacific
+30 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:53 PM,5J405,Cebu Pacific
+29 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 1:04 AM,5J405,Cebu Pacific
+28 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 11:37 PM,5J405,Cebu Pacific
+27 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3268),,,,,Landed 11:38 PM,5J405,Cebu Pacific
+25 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 11:44 PM,5J405,Cebu Pacific
+24 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:47 PM,5J405,Cebu Pacific
+23 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:53 PM,5J405,Cebu Pacific
+22 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 12:07 AM,5J405,Cebu Pacific
+20 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 11:51 PM,5J405,Cebu Pacific
+18 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:49 PM,5J405,Cebu Pacific
+17 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:51 PM,5J405,Cebu Pacific
+16 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 11:39 PM,5J405,Cebu Pacific
+15 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:42 PM,5J405,Cebu Pacific
+14 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 11:43 PM,5J405,Cebu Pacific
+13 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:28 PM,5J405,Cebu Pacific
+12 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 11:52 PM,5J405,Cebu Pacific
+11 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 11:52 PM,5J405,Cebu Pacific
+10 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 11:37 PM,5J405,Cebu Pacific
+09 Apr 2024,Laoag City (LAO),Manila (MNL),A20N (RP-C4158),,,,,Landed 11:34 PM,5J405,Cebu Pacific
+07 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:30 PM,5J405,Cebu Pacific
+06 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4330),,,,,Landed 11:22 PM,5J405,Cebu Pacific
+05 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3268),,,,,Landed 11:49 PM,5J405,Cebu Pacific
+04 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 11:51 PM,5J405,Cebu Pacific
+03 Apr 2024,Laoag City (LAO),Manila (MNL),A20N (RP-C4331),,,,,Landed 1:30 AM,5J405,Cebu Pacific
+02 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4156),,,,,Landed 11:47 PM,5J405,Cebu Pacific
+01 Apr 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 11:26 PM,5J405,Cebu Pacific
+31 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 11:39 PM,5J405,Cebu Pacific
+30 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:39 PM,5J405,Cebu Pacific
+29 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 10:42 PM,5J405,Cebu Pacific
+28 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 10:51 PM,5J405,Cebu Pacific
+27 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:47 PM,5J405,Cebu Pacific
+26 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 10:43 PM,5J405,Cebu Pacific
+25 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4330),,,,,Landed 10:51 PM,5J405,Cebu Pacific
+24 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 10:41 PM,5J405,Cebu Pacific
+23 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 10:58 PM,5J405,Cebu Pacific
+22 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3268),,,,,Landed 10:44 PM,5J405,Cebu Pacific
+21 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:53 PM,5J405,Cebu Pacific
+20 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 10:43 PM,5J405,Cebu Pacific
+19 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 10:40 PM,5J405,Cebu Pacific
+18 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 11:03 PM,5J405,Cebu Pacific
+17 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 10:43 PM,5J405,Cebu Pacific
+16 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:18 PM,5J405,Cebu Pacific
+15 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 10:57 PM,5J405,Cebu Pacific
+14 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:08 PM,5J405,Cebu Pacific
+13 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 11:07 PM,5J405,Cebu Pacific
+12 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:03 PM,5J405,Cebu Pacific
+11 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 10:38 PM,5J405,Cebu Pacific
+10 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 10:35 PM,5J405,Cebu Pacific
+09 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 10:47 PM,5J405,Cebu Pacific
+08 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 10:57 PM,5J405,Cebu Pacific
+07 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 10:41 PM,5J405,Cebu Pacific
+05 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 10:49 PM,5J405,Cebu Pacific
+04 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 10:53 PM,5J405,Cebu Pacific
+03 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4330),,,,,Landed 10:45 PM,5J405,Cebu Pacific
+02 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 11:24 PM,5J405,Cebu Pacific
+01 Mar 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 10:42 PM,5J405,Cebu Pacific
+29 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 10:43 PM,5J405,Cebu Pacific
+28 Feb 2024,Laoag City (LAO),Manila (MNL),A20N (RP-C4159),,,,,Landed 10:58 PM,5J405,Cebu Pacific
+27 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 10:49 PM,5J405,Cebu Pacific
+26 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 10:52 PM,5J405,Cebu Pacific
+25 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Unknown,5J405,Cebu Pacific
+24 Feb 2024,Laoag City (LAO),Manila (MNL),A20N (RP-C4157),,,,,Landed 12:58 AM,5J405,Cebu Pacific
+23 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4330),,,,,Landed 10:45 PM,5J405,Cebu Pacific
+23 Feb 2024,Laoag City (LAO),Manila (MNL),0:51,,,,,Landed 10:45 PM,5J405,Cebu Pacific
+22 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 10:42 PM,5J405,Cebu Pacific
+20 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 10:48 PM,5J405,Cebu Pacific
+19 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3278),,,,,Landed 10:50 PM,5J405,Cebu Pacific
+18 Feb 2024,Laoag City (LAO),Manila (MNL),A20N (RP-C4158),,,,,Landed 11:30 PM,5J405,Cebu Pacific
+17 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 10:51 PM,5J405,Cebu Pacific
+16 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:38 PM,5J405,Cebu Pacific
+15 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 10:43 PM,5J405,Cebu Pacific
+14 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4330),,,,,Landed 11:07 PM,5J405,Cebu Pacific
+13 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:42 PM,5J405,Cebu Pacific
+12 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 10:45 PM,5J405,Cebu Pacific
+11 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 10:37 PM,5J405,Cebu Pacific
+10 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:45 PM,5J405,Cebu Pacific
+09 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 10:50 PM,5J405,Cebu Pacific
+08 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 10:42 PM,5J405,Cebu Pacific
+07 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:08 PM,5J405,Cebu Pacific
+06 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 10:40 PM,5J405,Cebu Pacific
+05 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 11:25 PM,5J405,Cebu Pacific
+04 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 10:55 PM,5J405,Cebu Pacific
+03 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:36 PM,5J405,Cebu Pacific
+02 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 10:57 PM,5J405,Cebu Pacific
+01 Feb 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:35 PM,5J405,Cebu Pacific
+31 Jan 2024,Laoag City (LAO),Manila (MNL),A20N (RP-C4159),,,,,Landed 11:05 PM,5J405,Cebu Pacific
+30 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 10:41 PM,5J405,Cebu Pacific
+29 Jan 2024,Laoag City (LAO),Manila (MNL),A20N (RP-C4158),,,,,Landed 10:46 PM,5J405,Cebu Pacific
+28 Jan 2024,Laoag City (LAO),Manila (MNL),A20N (RP-C4157),,,,,Landed 10:44 PM,5J405,Cebu Pacific
+27 Jan 2024,Laoag City (LAO),Manila (MNL),A20N (RP-C4331),,,,,Landed 10:45 PM,5J405,Cebu Pacific
+26 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 10:40 PM,5J405,Cebu Pacific
+25 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:44 PM,5J405,Cebu Pacific
+24 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:51 PM,5J405,Cebu Pacific
+23 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 10:48 PM,5J405,Cebu Pacific
+22 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 10:47 PM,5J405,Cebu Pacific
+21 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 10:34 PM,5J405,Cebu Pacific
+20 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 10:36 PM,5J405,Cebu Pacific
+19 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 10:46 PM,5J405,Cebu Pacific
+18 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:40 PM,5J405,Cebu Pacific
+17 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 11:44 PM,5J405,Cebu Pacific
+16 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 10:46 PM,5J405,Cebu Pacific
+15 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:39 PM,5J405,Cebu Pacific
+14 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:40 PM,5J405,Cebu Pacific
+13 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 11:03 PM,5J405,Cebu Pacific
+12 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:13 PM,5J405,Cebu Pacific
+11 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 10:42 PM,5J405,Cebu Pacific
+10 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:06 PM,5J405,Cebu Pacific
+09 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:08 PM,5J405,Cebu Pacific
+08 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 11:07 PM,5J405,Cebu Pacific
+07 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:48 PM,5J405,Cebu Pacific
+06 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3276),,,,,Landed 10:33 PM,5J405,Cebu Pacific
+05 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:46 PM,5J405,Cebu Pacific
+04 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 10:59 PM,5J405,Cebu Pacific
+03 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 11:08 PM,5J405,Cebu Pacific
+02 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:48 PM,5J405,Cebu Pacific
+01 Jan 2024,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 10:52 PM,5J405,Cebu Pacific
+31 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 10:47 PM,5J405,Cebu Pacific
+30 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 10:43 PM,5J405,Cebu Pacific
+29 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 10:54 PM,5J405,Cebu Pacific
+28 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 11:25 PM,5J405,Cebu Pacific
+27 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:30 PM,5J405,Cebu Pacific
+26 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 11:02 PM,5J405,Cebu Pacific
+25 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 11:09 PM,5J405,Cebu Pacific
+24 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:03 PM,5J405,Cebu Pacific
+23 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:50 PM,5J405,Cebu Pacific
+22 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 11:00 PM,5J405,Cebu Pacific
+21 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:41 PM,5J405,Cebu Pacific
+20 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 10:55 PM,5J405,Cebu Pacific
+19 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 10:47 PM,5J405,Cebu Pacific
+18 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:13 PM,5J405,Cebu Pacific
+17 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 10:49 PM,5J405,Cebu Pacific
+16 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 10:47 PM,5J405,Cebu Pacific
+15 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4156),,,,,Landed 10:47 PM,5J405,Cebu Pacific
+14 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 11:20 PM,5J405,Cebu Pacific
+13 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 11:42 PM,5J405,Cebu Pacific
+12 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 10:37 PM,5J405,Cebu Pacific
+11 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 11:20 PM,5J405,Cebu Pacific
+10 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 11:30 PM,5J405,Cebu Pacific
+09 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:44 PM,5J405,Cebu Pacific
+08 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:03 PM,5J405,Cebu Pacific
+07 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:50 PM,5J405,Cebu Pacific
+06 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4156),,,,,Landed 10:57 PM,5J405,Cebu Pacific
+05 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 11:12 PM,5J405,Cebu Pacific
+04 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 10:55 PM,5J405,Cebu Pacific
+03 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 11:00 PM,5J405,Cebu Pacific
+02 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 11:10 PM,5J405,Cebu Pacific
+01 Dec 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:54 PM,5J405,Cebu Pacific
+30 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 10:45 PM,5J405,Cebu Pacific
+29 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 11:17 PM,5J405,Cebu Pacific
+28 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 10:42 PM,5J405,Cebu Pacific
+27 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3276),,,,,Landed 11:29 PM,5J405,Cebu Pacific
+26 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:47 PM,5J405,Cebu Pacific
+25 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 11:03 PM,5J405,Cebu Pacific
+24 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 11:00 PM,5J405,Cebu Pacific
+23 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:49 PM,5J405,Cebu Pacific
+22 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 10:50 PM,5J405,Cebu Pacific
+21 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 10:45 PM,5J405,Cebu Pacific
+20 Nov 2023,Laoag City (LAO),Manila (MNL),A20N (RP-C4159),,,,,Landed 10:49 PM,5J405,Cebu Pacific
+19 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 10:46 PM,5J405,Cebu Pacific
+18 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:49 PM,5J405,Cebu Pacific
+14 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 11:07 PM,5J405,Cebu Pacific
+13 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:03 PM,5J405,Cebu Pacific
+12 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3268),,,,,Landed 10:44 PM,5J405,Cebu Pacific
+11 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:40 PM,5J405,Cebu Pacific
+10 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 10:42 PM,5J405,Cebu Pacific
+09 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 10:44 PM,5J405,Cebu Pacific
+08 Nov 2023,Laoag City (LAO),Manila (MNL),A20N (RP-C4159),,,,,Landed 11:36 PM,5J405,Cebu Pacific
+07 Nov 2023,Laoag City (LAO),Manila (MNL),A20N (RP-C4159),,,,,Landed 10:48 PM,5J405,Cebu Pacific
+06 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 10:47 PM,5J405,Cebu Pacific
+05 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 10:38 PM,5J405,Cebu Pacific
+04 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 10:57 PM,5J405,Cebu Pacific
+03 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:43 PM,5J405,Cebu Pacific
+02 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 10:43 PM,5J405,Cebu Pacific
+01 Nov 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4156),,,,,Landed 10:44 PM,5J405,Cebu Pacific
+31 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 10:43 PM,5J405,Cebu Pacific
+30 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 10:58 PM,5J405,Cebu Pacific
+29 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3276),,,,,Landed 10:39 PM,5J405,Cebu Pacific
+28 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 10:42 PM,5J405,Cebu Pacific
+27 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3268),,,,,Landed 10:56 PM,5J405,Cebu Pacific
+26 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 10:54 PM,5J405,Cebu Pacific
+25 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4156),,,,,Landed 11:00 PM,5J405,Cebu Pacific
+24 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3268),,,,,Landed 10:36 PM,5J405,Cebu Pacific
+23 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:47 PM,5J405,Cebu Pacific
+22 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 10:33 PM,5J405,Cebu Pacific
+21 Oct 2023,Laoag City (LAO),Manila (MNL),A20N (RP-C4159),,,,,Landed 10:51 PM,5J405,Cebu Pacific
+20 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3268),,,,,Landed 10:52 PM,5J405,Cebu Pacific
+19 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3268),,,,,Landed 10:54 PM,5J405,Cebu Pacific
+18 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:58 PM,5J405,Cebu Pacific
+17 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 10:56 PM,5J405,Cebu Pacific
+16 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3268),,,,,Landed 11:04 PM,5J405,Cebu Pacific
+15 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 10:36 PM,5J405,Cebu Pacific
+14 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3268),,,,,Landed 10:47 PM,5J405,Cebu Pacific
+13 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:51 PM,5J405,Cebu Pacific
+12 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 10:44 PM,5J405,Cebu Pacific
+11 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:48 PM,5J405,Cebu Pacific
+10 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:32 PM,5J405,Cebu Pacific
+09 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3276),,,,,Landed 10:51 PM,5J405,Cebu Pacific
+08 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 10:50 PM,5J405,Cebu Pacific
+07 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 10:36 PM,5J405,Cebu Pacific
+06 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 10:44 PM,5J405,Cebu Pacific
+05 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3276),,,,,Landed 10:41 PM,5J405,Cebu Pacific
+04 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 10:40 PM,5J405,Cebu Pacific
+03 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 10:42 PM,5J405,Cebu Pacific
+02 Oct 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 10:48 PM,5J405,Cebu Pacific
+01 Oct 2023,Laoag City (LAO),Manila (MNL),A20N (RP-C4159),,,,,Landed 10:54 PM,5J405,Cebu Pacific
+30 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3268),,,,,Landed 10:50 PM,5J405,Cebu Pacific
+29 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 11:06 PM,5J405,Cebu Pacific
+28 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 10:41 PM,5J405,Cebu Pacific
+27 Sep 2023,Laoag City (LAO),Manila (MNL),A20N (RP-C4158),,,,,Landed 10:35 PM,5J405,Cebu Pacific
+26 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 10:49 PM,5J405,Cebu Pacific
+25 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 10:52 PM,5J405,Cebu Pacific
+24 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:31 PM,5J405,Cebu Pacific
+23 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:34 PM,5J405,Cebu Pacific
+22 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 10:42 PM,5J405,Cebu Pacific
+21 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 10:30 PM,5J405,Cebu Pacific
+20 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3276),,,,,Landed 11:03 PM,5J405,Cebu Pacific
+19 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 10:36 PM,5J405,Cebu Pacific
+18 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:43 PM,5J405,Cebu Pacific
+17 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 10:39 PM,5J405,Cebu Pacific
+16 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:35 PM,5J405,Cebu Pacific
+15 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 11:13 PM,5J405,Cebu Pacific
+14 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 10:47 PM,5J405,Cebu Pacific
+13 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 12:00 AM,5J405,Cebu Pacific
+12 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 10:34 PM,5J405,Cebu Pacific
+11 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 10:31 PM,5J405,Cebu Pacific
+10 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 10:39 PM,5J405,Cebu Pacific
+09 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:46 PM,5J405,Cebu Pacific
+08 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 10:39 PM,5J405,Cebu Pacific
+07 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 10:39 PM,5J405,Cebu Pacific
+06 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3275),,,,,Landed 10:31 PM,5J405,Cebu Pacific
+05 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 11:06 PM,5J405,Cebu Pacific
+04 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 11:17 PM,5J405,Cebu Pacific
+03 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 10:56 PM,5J405,Cebu Pacific
+02 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 11:09 PM,5J405,Cebu Pacific
+01 Sep 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3275),,,,,Landed 11:01 PM,5J405,Cebu Pacific
+31 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 10:55 PM,5J405,Cebu Pacific
+29 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3276),,,,,Landed 10:48 PM,5J405,Cebu Pacific
+28 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 11:14 PM,5J405,Cebu Pacific
+26 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3276),,,,,Landed 10:46 PM,5J405,Cebu Pacific
+25 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:36 PM,5J405,Cebu Pacific
+24 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 11:07 PM,5J405,Cebu Pacific
+23 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 10:35 PM,5J405,Cebu Pacific
+22 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 10:48 PM,5J405,Cebu Pacific
+21 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 10:55 PM,5J405,Cebu Pacific
+20 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4156),,,,,Landed 10:44 PM,5J405,Cebu Pacific
+19 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 10:44 PM,5J405,Cebu Pacific
+18 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:52 PM,5J405,Cebu Pacific
+17 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 10:43 PM,5J405,Cebu Pacific
+16 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 10:46 PM,5J405,Cebu Pacific
+15 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 10:39 PM,5J405,Cebu Pacific
+14 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 10:59 PM,5J405,Cebu Pacific
+13 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 10:29 PM,5J405,Cebu Pacific
+12 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 10:41 PM,5J405,Cebu Pacific
+11 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:58 PM,5J405,Cebu Pacific
+10 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4156),,,,,Landed 10:43 PM,5J405,Cebu Pacific
+09 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 10:43 PM,5J405,Cebu Pacific
+08 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3265),,,,,Landed 10:54 PM,5J405,Cebu Pacific
+07 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 11:28 PM,5J405,Cebu Pacific
+06 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 10:45 PM,5J405,Cebu Pacific
+05 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4160),,,,,Landed 10:50 PM,5J405,Cebu Pacific
+04 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3265),,,,,Landed 10:52 PM,5J405,Cebu Pacific
+03 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 10:47 PM,5J405,Cebu Pacific
+02 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 11:12 PM,5J405,Cebu Pacific
+01 Aug 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4156),,,,,Landed 10:54 PM,5J405,Cebu Pacific
+31 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:59 PM,5J405,Cebu Pacific
+30 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 11:49 PM,5J405,Cebu Pacific
+25 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 11:49 PM,5J405,Cebu Pacific
+24 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 10:54 PM,5J405,Cebu Pacific
+23 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4100),,,,,Landed 10:43 PM,5J405,Cebu Pacific
+22 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:44 PM,5J405,Cebu Pacific
+21 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:53 PM,5J405,Cebu Pacific
+20 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3275),,,,,Landed 10:45 PM,5J405,Cebu Pacific
+19 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:51 PM,5J405,Cebu Pacific
+18 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3276),,,,,Landed 10:51 PM,5J405,Cebu Pacific
+17 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 10:55 PM,5J405,Cebu Pacific
+16 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 11:02 PM,5J405,Cebu Pacific
+15 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3265),,,,,Landed 11:05 PM,5J405,Cebu Pacific
+14 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 10:49 PM,5J405,Cebu Pacific
+13 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 10:54 PM,5J405,Cebu Pacific
+12 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3276),,,,,Landed 1:11 AM,5J405,Cebu Pacific
+11 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 10:50 PM,5J405,Cebu Pacific
+10 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3264),,,,,Landed 10:43 PM,5J405,Cebu Pacific
+09 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 10:49 PM,5J405,Cebu Pacific
+08 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 10:50 PM,5J405,Cebu Pacific
+07 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3265),,,,,Landed 10:40 PM,5J405,Cebu Pacific
+06 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 10:44 PM,5J405,Cebu Pacific
+05 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 10:43 PM,5J405,Cebu Pacific
+04 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3268),,,,,Landed 10:55 PM,5J405,Cebu Pacific
+03 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 10:44 PM,5J405,Cebu Pacific
+02 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3265),,,,,Landed 10:41 PM,5J405,Cebu Pacific
+01 Jul 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 10:47 PM,5J405,Cebu Pacific
+30 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3265),,,,,Landed 10:36 PM,5J405,Cebu Pacific
+29 Jun 2023,Laoag City (LAO),Manila (MNL),A20N (RP-C4158),,,,,Landed 10:57 PM,5J405,Cebu Pacific
+28 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4156),,,,,Landed 10:51 PM,5J405,Cebu Pacific
+27 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:54 PM,5J405,Cebu Pacific
+26 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 10:50 PM,5J405,Cebu Pacific
+25 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3276),,,,,Landed 10:53 PM,5J405,Cebu Pacific
+24 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4105),,,,,Landed 10:44 PM,5J405,Cebu Pacific
+23 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 10:59 PM,5J405,Cebu Pacific
+22 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3275),,,,,Landed 11:35 PM,5J405,Cebu Pacific
+21 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3265),,,,,Landed 10:36 PM,5J405,Cebu Pacific
+20 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3277),,,,,Landed 10:55 PM,5J405,Cebu Pacific
+19 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 10:53 PM,5J405,Cebu Pacific
+18 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 10:45 PM,5J405,Cebu Pacific
+17 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4104),,,,,Landed 10:42 PM,5J405,Cebu Pacific
+16 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 10:59 PM,5J405,Cebu Pacific
+15 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3275),,,,,Landed 10:36 PM,5J405,Cebu Pacific
+14 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 11:16 PM,5J405,Cebu Pacific
+13 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 11:18 PM,5J405,Cebu Pacific
+12 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4103),,,,,Landed 12:48 AM,5J405,Cebu Pacific
+11 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 10:59 PM,5J405,Cebu Pacific
+09 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4101),,,,,Landed 11:47 PM,5J405,Cebu Pacific
+07 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3265),,,,,Landed 10:58 PM,5J405,Cebu Pacific
+06 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 10:40 PM,5J405,Cebu Pacific
+05 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3274),,,,,Landed 10:56 PM,5J405,Cebu Pacific
+04 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3275),,,,,Landed 10:48 PM,5J405,Cebu Pacific
+03 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 10:50 PM,5J405,Cebu Pacific
+01 Jun 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 12:36 AM,5J405,Cebu Pacific
+31 May 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4102),,,,,Landed 10:47 PM,5J405,Cebu Pacific
+28 May 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 10:57 PM,5J405,Cebu Pacific
+27 May 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4106),,,,,Landed 11:21 PM,5J405,Cebu Pacific
+26 May 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3268),,,,,Landed 10:42 PM,5J405,Cebu Pacific
+25 May 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4108),,,,,Landed 10:51 PM,5J405,Cebu Pacific
+24 May 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3279),,,,,Landed 10:47 PM,5J405,Cebu Pacific
+23 May 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C3267),,,,,Landed 10:49 PM,5J405,Cebu Pacific
+22 May 2023,Laoag City (LAO),Manila (MNL),A320 (RP-C4107),,,,,Landed 11:40 PM,5J405,Cebu Pacific
